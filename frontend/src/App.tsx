@@ -26,6 +26,16 @@ export default function App() {
     ? questionsData.filter(q => !correctIds.includes(q.id))
     : questionsData.filter(q => incorrectIds.includes(q.id));
 
+  // Reset current index if we run out of active questions or if the activeQuestions list changes
+  useEffect(() => {
+    if (activeQuestions.length > 0 && currentIndex >= activeQuestions.length) {
+      setCurrentIndex(0);
+    } else if (activeQuestions.length === 0 && currentIndex !== 0) {
+      // If there are no active questions, reset index to 0
+      setCurrentIndex(0);
+    }
+  }, [activeQuestions.length, currentIndex, mode, correctIds, incorrectIds]);
+
   if (!authenticated || !username) {
     return <LoginPage onAuthenticated={(user, pass, initialData) => {
       setUsername(user);
@@ -61,16 +71,6 @@ export default function App() {
       body: JSON.stringify({ username, password: userPassword, correct, incorrect })
     }).catch(() => console.error("Failed to sync remotely"));
   };
-
-  // Reset current index if we run out of active questions or if the activeQuestions list changes
-  useEffect(() => {
-    if (activeQuestions.length > 0 && currentIndex >= activeQuestions.length) {
-      setCurrentIndex(0);
-    } else if (activeQuestions.length === 0 && currentIndex !== 0) {
-      // If there are no active questions, reset index to 0
-      setCurrentIndex(0);
-    }
-  }, [activeQuestions.length, currentIndex, mode, correctIds, incorrectIds]);
 
   const handleOptionClick = (index: number) => {
     if (selectedLetter !== null) return;
