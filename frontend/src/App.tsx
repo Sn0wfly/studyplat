@@ -239,19 +239,14 @@ export default function App() {
 
         {/* Header Suite */}
         <header className="flex justify-between items-end border-b border-border/50 pb-4 shrink-0">
-          <motion.div
-            initial={{ opacity: 0, y: -20 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="flex items-baseline gap-4 font-mono"
-          >
-            <span className="text-4xl lg:text-5xl font-bold tracking-tighter text-transparent bg-clip-text bg-gradient-to-br from-white to-white/40">
-              {String(currentIndex + 1).padStart(3, '0')}
+          <div className="flex items-baseline gap-2">
+            <span className="text-4xl sm:text-5xl font-bold tracking-tight text-white font-mono">
+              {String(questionsData.findIndex(q => q.id === currentQ.id) + 1).padStart(3, '0')}
             </span>
-            <span className="text-lg tracking-[0.2em] text-primary/40 uppercase">
-              / {String(activeQuestions.length).padStart(3, '0')}
+            <span className="text-sm sm:text-base text-primary/40 font-mono tracking-widest">
+              / {questionsData.length}
             </span>
-          </motion.div>
-
+          </div>
           <div className="flex items-center gap-3">
             <button
               onClick={() => setShowDashboard(true)}
@@ -284,7 +279,7 @@ export default function App() {
             >
               {/* Question */}
               <h1 className="text-lg sm:text-xl lg:text-2xl leading-[1.3] tracking-tight font-medium text-white/90 drop-shadow-xl">
-                {currentQ.question}
+                {questionsData.findIndex(q => q.id === currentQ.id) + 1}. {currentQ.question}
               </h1>
 
               {/* Options */}
