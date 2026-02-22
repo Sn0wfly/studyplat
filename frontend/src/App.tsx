@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ChevronRight, ChevronLeft, Info, Activity, RefreshCcw, LayoutDashboard, RotateCcw } from 'lucide-react';
 import clsx from 'clsx';
