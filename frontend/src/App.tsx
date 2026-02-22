@@ -219,7 +219,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen max-h-screen bg-mesh flex flex-col items-center justify-between p-2 sm:p-4 relative overflow-hidden">
+    <div className="min-h-[100dvh] sm:max-h-screen bg-mesh flex flex-col items-center justify-between px-4 py-6 sm:p-4 relative overflow-x-hidden sm:overflow-hidden">
 
       {/* Avant-Garde Progress Indicator */}
       <div className="fixed top-0 left-0 w-full h-1 bg-border/20 z-50">
@@ -232,10 +232,10 @@ export default function App() {
       </div>
 
       {/* Decorative Orbs */}
-      <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-primary/5 rounded-full blur-[120px] pointer-events-none mix-blend-screen" />
-      <div className="absolute bottom-1/4 right-1/4 w-[30rem] h-[30rem] bg-accent-green/5 rounded-full blur-[150px] pointer-events-none mix-blend-screen" />
+      <div className="fixed top-1/4 left-1/4 w-96 h-96 bg-primary/5 rounded-full blur-[120px] pointer-events-none mix-blend-screen" />
+      <div className="fixed bottom-1/4 right-1/4 w-[30rem] h-[30rem] bg-accent-green/5 rounded-full blur-[150px] pointer-events-none mix-blend-screen" />
 
-      <main className="w-full max-w-3xl relative z-10 flex flex-col h-full justify-between gap-4 py-2">
+      <main className="w-full max-w-3xl relative z-10 flex flex-col flex-1 justify-between gap-4 py-2">
 
         {/* Header Suite */}
         <header className="flex justify-between items-end border-b border-border/50 pb-4 shrink-0">
