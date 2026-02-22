@@ -13,6 +13,11 @@ export default function App() {
   // Progress tracking
   const [correctIds, setCorrectIds] = useState<number[]>([]);
   const [incorrectIds, setIncorrectIds] = useState<number[]>([]);
+
+  // Session snapshots to keep the queue stable while answering
+  const [sessionCorrectIds, setSessionCorrectIds] = useState<number[]>([]);
+  const [sessionIncorrectIds, setSessionIncorrectIds] = useState<number[]>([]);
+
   const [mode, setMode] = useState<'all' | 'incorrect'>('all');
   const [showDashboard, setShowDashboard] = useState(false);
 
@@ -23,8 +28,8 @@ export default function App() {
 
   // 'all' Mode skips correctly answered questions so we don't repeat them
   const activeQuestions = mode === 'all'
-    ? questionsData.filter(q => !correctIds.includes(q.id))
-    : questionsData.filter(q => incorrectIds.includes(q.id));
+    ? questionsData.filter(q => !sessionCorrectIds.includes(q.id))
+    : questionsData.filter(q => sessionIncorrectIds.includes(q.id));
 
   // Reset current index if we run out of active questions or if the activeQuestions list changes
   useEffect(() => {
@@ -34,7 +39,7 @@ export default function App() {
       // If there are no active questions, reset index to 0
       setCurrentIndex(0);
     }
-  }, [activeQuestions.length, currentIndex, mode, correctIds, incorrectIds]);
+  }, [activeQuestions.length, currentIndex, mode, sessionCorrectIds, sessionIncorrectIds]);
 
   if (!authenticated || !username) {
     return <LoginPage onAuthenticated={(user, pass, initialData) => {
@@ -46,6 +51,8 @@ export default function App() {
       if ((initialData.correct && initialData.correct.length > 0) || (initialData.incorrect && initialData.incorrect.length > 0)) {
         setCorrectIds(initialData.correct || []);
         setIncorrectIds(initialData.incorrect || []);
+        setSessionCorrectIds(initialData.correct || []);
+        setSessionIncorrectIds(initialData.incorrect || []);
         // sync to local just in case
         localStorage.setItem(`studyplat_${user}`, JSON.stringify(initialData));
       } else {
@@ -55,6 +62,8 @@ export default function App() {
             const parsed = JSON.parse(saved);
             setCorrectIds(parsed.correct || []);
             setIncorrectIds(parsed.incorrect || []);
+            setSessionCorrectIds(parsed.correct || []);
+            setSessionIncorrectIds(parsed.incorrect || []);
           } catch (e) { }
         }
       }
@@ -157,17 +166,24 @@ export default function App() {
           </div>
           <div className="flex flex-col gap-3 mt-4">
             <button onClick={() => {
+              setSessionCorrectIds(correctIds);
+              setSessionIncorrectIds(incorrectIds);
               setMode('all'); setShowDashboard(false); setCurrentIndex(0); setSelectedLetter(null); setShowExplanation(false);
             }} className="px-6 py-3 rounded-xl bg-surface hover:bg-surface/80 border border-border/40 text-primary transition-all">
               Continue Unseen Questions
             </button>
             {incorrectIds.length > 0 && (
-              <button onClick={() => { setMode('incorrect'); setShowDashboard(false); setCurrentIndex(0); setSelectedLetter(null); setShowExplanation(false); }} className="px-6 py-3 rounded-xl bg-accent-red/10 border border-accent-red/20 text-accent-red hover:bg-accent-red/20 transition-all">
+              <button onClick={() => {
+                setSessionCorrectIds(correctIds);
+                setSessionIncorrectIds(incorrectIds);
+                setMode('incorrect'); setShowDashboard(false); setCurrentIndex(0); setSelectedLetter(null); setShowExplanation(false);
+              }} className="px-6 py-3 rounded-xl bg-accent-red/10 border border-accent-red/20 text-accent-red hover:bg-accent-red/20 transition-all">
                 Review Incorrect ({incorrectIds.length})
               </button>
             )}
             <button onClick={() => {
               setCorrectIds([]); setIncorrectIds([]);
+              setSessionCorrectIds([]); setSessionIncorrectIds([]);
               localStorage.removeItem(`studyplat_${username}`);
               saveProgressRemote([], []);
               setMode('all'); setCurrentIndex(0); setSelectedLetter(null); setShowExplanation(false); setShowDashboard(false);
