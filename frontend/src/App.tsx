@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ChevronRight, ChevronLeft, Info, Activity, RefreshCcw, LayoutDashboard, RotateCcw } from 'lucide-react';
 import clsx from 'clsx';
@@ -21,8 +21,9 @@ export default function App() {
   const [showExplanation, setShowExplanation] = useState(false);
   const [direction, setDirection] = useState(1);
 
+  // 'all' Mode skips correctly answered questions so we don't repeat them
   const activeQuestions = mode === 'all'
-    ? questionsData
+    ? questionsData.filter(q => !correctIds.includes(q.id))
     : questionsData.filter(q => incorrectIds.includes(q.id));
 
   if (!authenticated || !username) {
@@ -60,6 +61,16 @@ export default function App() {
       body: JSON.stringify({ username, password: userPassword, correct, incorrect })
     }).catch(() => console.error("Failed to sync remotely"));
   };
+
+  // Reset current index if we run out of active questions or if the activeQuestions list changes
+  useEffect(() => {
+    if (activeQuestions.length > 0 && currentIndex >= activeQuestions.length) {
+      setCurrentIndex(0);
+    } else if (activeQuestions.length === 0 && currentIndex !== 0) {
+      // If there are no active questions, reset index to 0
+      setCurrentIndex(0);
+    }
+  }, [activeQuestions.length, currentIndex, mode, correctIds, incorrectIds]);
 
   const handleOptionClick = (index: number) => {
     if (selectedLetter !== null) return;
@@ -117,6 +128,9 @@ export default function App() {
       {mode === 'incorrect' && activeQuestions.length === 0 && (
         <p className="text-primary/60 font-mono text-sm tracking-wider">No incorrect questions to review! Great job!</p>
       )}
+      {mode === 'all' && activeQuestions.length === 0 && (
+        <p className="text-primary/60 font-mono text-sm tracking-wider">All questions mastered! Reset progress to review.</p>
+      )}
     </div>
   );
 
@@ -142,8 +156,10 @@ export default function App() {
             </div>
           </div>
           <div className="flex flex-col gap-3 mt-4">
-            <button onClick={() => { setMode('all'); setShowDashboard(false); setCurrentIndex(0); setSelectedLetter(null); setShowExplanation(false); }} className="px-6 py-3 rounded-xl bg-surface hover:bg-surface/80 border border-border/40 text-primary transition-all">
-              Continue All Questions
+            <button onClick={() => {
+              setMode('all'); setShowDashboard(false); setCurrentIndex(0); setSelectedLetter(null); setShowExplanation(false);
+            }} className="px-6 py-3 rounded-xl bg-surface hover:bg-surface/80 border border-border/40 text-primary transition-all">
+              Continue Unseen Questions
             </button>
             {incorrectIds.length > 0 && (
               <button onClick={() => { setMode('incorrect'); setShowDashboard(false); setCurrentIndex(0); setSelectedLetter(null); setShowExplanation(false); }} className="px-6 py-3 rounded-xl bg-accent-red/10 border border-accent-red/20 text-accent-red hover:bg-accent-red/20 transition-all">
