@@ -1,0 +1,2769 @@
+[
+    {
+        "id": 100,
+        "question": "¿Cuál de los siguientes fármacos beta bloqueantes promueve la liberación de óxido nítrico?",
+        "options": [
+            "a. Propranolol",
+            "b. Bisoprolol",
+            "c.  Labetalol",
+            "d.  Nevibolol",
+            "e. Carvedilol"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 101,
+        "question": "¿Cuál de las siguientes combinaciones NO se recomienda para el tratamiento de hipertensión arterial?",
+        "options": [
+            "a.  Antagonistas cálcicos + diuréticos tiazídicos",
+            "b. Diuréticos tiazídicos + IECA",
+            "c.  ARA II + diuréticos tiazídicos",
+            "d. Antagonistas cálcicos + IECA",
+            "e.  IECA + ARA II"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 102,
+        "question": "Las siguientes drogas pertenecen a grupos de fármacos de primera línea en el tratamiento de la hipertensión arterial excepto:",
+        "options": [
+            "a. Propranolol",
+            "b. Olmersartan",
+            "c. Amlodipina",
+            "d. Ramipril",
+            "e. Hidroclorotiazida"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 103,
+        "question": "En un paciente con diagnóstico de  ANGINA ESTABLE se indica el  siguiente tratamiento , marque el correcto:",
+        "options": [
+            "a. ECAS, Estatinas, Antiagregantes, Beta bloqueantes.",
+            "b. Antagonistas cálcicos.",
+            "c. Antiagregantes , IECA .",
+            "d. Beta bloqueantes y Antiagregantes",
+            "e. Estatinas."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 104,
+        "question": "Señale la opción correcta del metoprolol: a.Produce taquicardia refleja",
+        "options": [
+            "b. Aumenta la liberación de renina",
+            "c. Produce frialdad en la extremidades",
+            "d. Es un antagonista beta selectivo de tercera generación",
+            "e. Es un antagonista beta no selectivo de tercera generación"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 105,
+        "question": "Entre los efectos adversos frecuentes de los diuréticos se encuentran los siguientes, EXCEPTO uno:",
+        "options": [
+            "a. Hiperglucemia",
+            "b. Dislipemia secundaria",
+            "c. Calambres musculares",
+            "d. Ginecomastia",
+            "e. Anemia hemolítica"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 106,
+        "question": "Señale el mecanismo de acción del sucralfato:",
+        "options": [
+            "a. Es un laxante de tipo osmótico",
+            "b.   Es un antiácido que neutraliza la acidez gástrica",
+            "c. Inhibe irreversiblemente a la bomba H+/K+ ATPasa",
+            "d. Es un protector de la mucosa gástrica por formación de un polímero",
+            "e. Bloquea el receptor H2"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 107,
+        "question": "¿Cuál de los siguientes medicamentos utilizados pata el tratamiento de la hipomotilidad intestinal produce como efecto adverso arritmias ventriculares ?",
+        "options": [
+            "a. Cinitaprida.",
+            "b. Ondansetrón.",
+            "c. Trimebutina. Incorrectaincorrecta",
+            "d. Tegaserod",
+            "e. Metoclopramida."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 108,
+        "question": "Señale cuál de los siguientes fármacos actúa estimulando la vía de la AMPKinasa hepática:",
+        "options": [
+            "a. Repaglinida",
+            "b. Pioglitazona",
+            "c. Canagliflozina",
+            "d. Liraglutide",
+            "e. Metformina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 109,
+        "question": "¿Cuál es el mecanismo de acción de los Inhibidores de los Ac Biliares (clostiramina,colestipol)?",
+        "options": [
+            "a. Inhibe la HMGCOL en el hepatocito.",
+            "b. Actùa sobre el receptor de ac biliares en el hepatocito.",
+            "c. Se fijan sales biliares por carga positiva, no se absorben en el tubo digestivo, impiden reabsorción en yeyuno y se eliminan por heces.",
+            "d. Estimula receptores PPAR nucleares en el Hepatocito.",
+            "e. No se conoce el mecanismo de acción"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 110,
+        "question": "Si Usted considera el tratamiento de una paciente de 35 años que presenta gastritis ,¿cuál de los siguientes fármacos indicaría?",
+        "options": [
+            "a. Sucralfato.",
+            "b. Hidróxido de aluminio",
+            "c. Ranitidina.",
+            "d. Bismuto.",
+            "e. Pantoprazol"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 111,
+        "question": "En relación a la insuficiencia cardíaca (IC) crónica con FE reducida, señale cuál de las siguientes afirmaciones es incorrecta:",
+        "options": [
+            "a. Los IECA son vasodilatadores, modifican la remodelación miocárdica post-IAM, reducen la hipertrofia miocárdica y la fibrosis e hipertrofia de los vasos, mejoran la distensibilidad y suprimen la vasoconstricción coronaria.",
+            "b. En el uso de β-bloqueantes hay que iniciar tratamiento con dosis bajas para ir incrementándolas de forma lenta ya que, al ser inotrópicos negativos, pueden producir inicialmente un empeoramiento de la lC.",
+            "c. Los IECA y los ARA II reducen mortalidad, mejoran clase funcional y disminuyen la progresión a IC de los pacientes asintomáticos con disfunción ventricular izquierda.",
+            "d. Los agonistas β-adrenérgicos disminuyen la mortalidad",
+            "e. En los pacientes con IC la acción beneficiosa de espironolactona y epleronona no es por su efecto diurético sino por el antagonismo de los efectos deletéreos de niveles elevados de aldosterona."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 112,
+        "question": "¿Cuál de los siguientes NO corresponde a un efecto adverso de los anticoagulantes orales clásicos?",
+        "options": [
+            "a. Necrosis cutánea",
+            "b. Trombosis de capilares en tejido celular subcutáneo",
+            "c. Diátesis hemorrágica",
+            "d. Microcefalia fetal",
+            "e. Acidosis metabólica"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 113,
+        "question": "¿Cuál de las siguientes asociaciones es incorrecta?",
+        "options": [
+            "a. Heparina no fraccionada – antídoto: sulfato de protamina",
+            "b. Heparina de bajo peso molecular – control: dosaje anti-factor x",
+            "c. Warfarina – control: RIN",
+            "d. Warfarina – antídoto: Vitamina K",
+            "e. Heparina no fraccionada – control: Quick (tiempo de protrombina)"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 114,
+        "question": "Una secretaria de 35 años de edad se queja de dolor en el área epigástrica y pirosis en ocasiones. Se le practicó endoscopia con toma de biopsia positiva a Helicobacter pylori. ¿Cuál de entre los siguientes fármacos constituye la mejor elección para el tratamiento de esta paciente?",
+        "options": [
+            "a. Metronidazol + Esomeprazol + Sucralfato",
+            "b. Amoxicilina + famotidina + pantoprazol",
+            "c. Ranitidina + omeprazol + amoxicilina",
+            "d. Famotidina + claritromicina + lanzoprazol",
+            "e. Claritromicina + lanzoprazol + amoxicilina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 115,
+        "question": "Indique la respuesta correcta sobre efecto hipolipemiante de la Estatinas",
+        "options": [
+            "a. Disminuye la concentración de LDL col dependiendo de la dosis y de la estatina utilizada",
+            "b. Disminuye la concentración de LDL col dependiendo de la dosis",
+            "c. Disminuye la concentración de TG, VLDL y LDL col independiente de la dosis y la estatina utilizada.",
+            "d. Disminuye la concentración de VLDL col dependiendo de la dosis.",
+            "e. Disminuye la concentración de TG dependiendo de la dosis."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 116,
+        "question": "¿Cuál de los siguientes fármacos anti-diabéticos es capaz de reducir los niveles de presión arterial?",
+        "options": [
+            "a. Insulina",
+            "b. Repaglinida",
+            "c. Glimepirida",
+            "d. Acarbosa",
+            "e. Dapagliflozina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 117,
+        "question": "En un paciente con diabetes e HTA ¿Cuál de los siguientes agentes sería de elección, por retrasar además la progresión de la nefropatía diabética?",
+        "options": [
+            "a. Diurético tiazídico",
+            "b. Bloqueante de canales de calcio",
+            "c. Pioglitazona",
+            "d. Metformina",
+            "e. Inhibidor del SGLT-2"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 118,
+        "question": "Cuál de las siguientes afirmaciones es verdadera:",
+        "options": [
+            "a. Los bloqueantes alfa periféricos son fármacos de primera línea para el tratamiento de la HTA.",
+            "b. Los ARA II bloquean los receptores AT2.",
+            "c. Los diuréticos del asa pueden producir hiperkalemia",
+            "d. La acetazolamida es de uso frecuente en la HTA.",
+            "e. Los IECA producen como efecto adverso Tos"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 119,
+        "question": "Una mujer de 52 años de edad,  es llevada al servicio de urgencias después de automedicarse por un cuadro diarreico desde hace dos días. La paciente se presenta con distensión abdominal, dolor abdominal importante, peristalsis ausente y además fiebre de 40°C. Fue valorada por el servicio de gastroenterología y se establece diagnóstico de megacolon tóxico. ¿Cuál de los siguientes fármacos es el más probable que se automedicó está paciente?",
+        "options": [
+            "a. Mosaprida.",
+            "b. Bismuto.",
+            "c. Metoclopramida.",
+            "d. Loperamida",
+            "e. Sucralfato."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 120,
+        "question": "La Niacina es un fármaco utilizado en el tratamiento de las dislipemia indique la respuesta incorrecta.",
+        "options": [
+            "a. No está indicado en paciente DBT porque produce resistencia a la Insulina e Hiperglucemia Incorrectaincorrecta",
+            "b. La hepatopatía y la hiperuricemia están reportados como efectos adversos.",
+            "c. Flushing  es el efecto adverso màs frecuente que incomoda al paciente.",
+            "d. El tratamiento con niacina requiere dosis altas y frecuentes",
+            "e. Se puede asociación con  Estatinas porque no tiene riesgo."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 121,
+        "question": "Cual de los siguientes efectos adversos  no corresponde a los ANTAGONISTAS CÁLCICOS  :",
+        "options": [
+            "a. Diarrea explosiva",
+            "b. Estrenimiento.",
+            "c. Edema maleolar.",
+            "d. Mareos.",
+            "e. Sofocos."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 122,
+        "question": "Marque la respuesta INCORRECTA:",
+        "options": [
+            "a. El Gemfibrozilo actúa sobre la Lp (a) por ello no se asocia a estatinas.",
+            "b. Los Fibratos son de elección en las hipertrigliceridemias aisladas.",
+            "c. Las miopatías son efectos adversos de las estatinas.",
+            "d. Las Resinas (Colestiramina) se utilizan en el tratamiento de las Hipercolesterolemia en niños y embarazo",
+            "e. La Niacina es el único fármaco que actúa sobre la Lipoproteina pequeña a Lp (a). ERA lll Respuetas correctas 100%"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 123,
+        "question": "Marque cuál de los siguientes glucocorticoides tiene mayor potencia mineralocorticoidea:",
+        "options": [
+            "a. Betametasona",
+            "b. Triamcinolona",
+            "c. Parametasona",
+            "d. Dexametasona",
+            "e. Fludrocortisona"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 124,
+        "question": "Los efectos adversos de los AINEs pueden incluir entre ellos:",
+        "options": [
+            "a. Hipopotasemia",
+            "b. Tendencia a infecciones.",
+            "c. Hipertemia",
+            "d. Precipitación del trabajo de parto",
+            "e. Aumento del efecto de los antihipertensivos"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 125,
+        "question": "Los fármacos utilizados en primera línea en el Estatus epiléptico son:",
+        "options": [
+            "a. Propofol ,acido valproico",
+            "b. Fenobarbital, carbamacepina, benzodiacepina",
+            "c. Benzodiacepinas, difenilhidantoína, fenobarbital",
+            "d. Carbamacepina ,acido valproico, lamotrigina.",
+            "e. Topiramato, ácido valproico, lamotrigina."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 126,
+        "question": "¿De los siguientes fármacos anti convulsivantes  cuál de ellos actúa sobre el receptor GABA A?",
+        "options": [
+            "a. Carbamacepina.",
+            "b. Difenilhidantoína.",
+            "c. Fosfofenitoina.",
+            "d. Fenobarbital.",
+            "e. Lamotrigina."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 127,
+        "question": "Indique cual de los siguientes anestésicos se clasifican por tener  una duración corta y potencia baja:",
+        "options": [
+            "a. Prilocaína",
+            "b. Procaìna",
+            "c. ropivacaína,",
+            "d. Tetracaína",
+            "e. Lidocaina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 128,
+        "question": "¿Cuál es la única acción de las benzodiacepinas que NO produce tolerancia?",
+        "options": [
+            "a. Sedante",
+            "b. Hipnótica",
+            "c. Miorrelajante",
+            "d. Anticonvulsivante",
+            "e. Ansiolítica"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 129,
+        "question": "Marque cual de los siguientes fármacos puede dar Síndrome serotoninérgico,",
+        "options": [
+            "a. Tioridazina",
+            "b. Clorpromazina",
+            "c. Flumazenil",
+            "d. Sertralina",
+            "e. Haloperidol"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 130,
+        "question": "¿Cuál de los siguientes anestésicos es utilizado como antiarritmico?",
+        "options": [
+            "a. Bupivacaína",
+            "b. Etidocaina",
+            "c. Ropivacaína",
+            "d. Prilocaína",
+            "e. Lidocaina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 131,
+        "question": "¿Cuál de los siguientes efectos adversos se encuentra relacionado con la MORFINA?",
+        "options": [
+            "a. Broncodilatación",
+            "b. Aumento de contracciones uterinas",
+            "c. Vasoconstricción cerebral",
+            "d. Estreñimiento",
+            "e. Hipersecreción mucosa"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 132,
+        "question": "El flumazenil es un antagonista de",
+        "options": [
+            "a. Paroxetina",
+            "b. clorpromazina",
+            "c. Alcohol",
+            "d. Benzodiacepinas",
+            "e. Haloperidol"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 133,
+        "question": "Marque cual de los siguientes opioides es utilizado como antitusivo:",
+        "options": [
+            "a. Morfina",
+            "b. Metadona",
+            "c. Codeína",
+            "d. Fentanilo",
+            "e. Tramadol"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 134,
+        "question": "De las siguientes afirmaciones sobre los Triptanos indique la INCORRECTA",
+        "options": [
+            "a. El Sumatriptán tiene como  efecto adverso más frecuente el gusto amargo.",
+            "b. Los triptanos actúan de manera recíproca y potente con los receptores 5-HT1B y 5-HT1D.",
+            "c. Fármacos efectivos para el tratamiento agudo de la migraña",
+            "d. Los triptanos no producen síndrome serotoninérgico",
+            "e. Los triptanos están indicados en pacientes con cardiopatías"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 135,
+        "question": "Una de las siguientes afirmaciones sobre el ALOPURINOL es INCORRECTA:",
+        "options": [
+            "a. No tiene efectos adversos.",
+            "b.  El Alopurinol, como su metabolito activo el oxipurinol son inhibidores de la Xantino Oxidasa (XO)..",
+            "c. En concentraciones bajas el alopurinol es un sustrato e inhibidor competitivo",
+            "d. Al inicio del tratamiento pueden aumentar los ataques de gota aguda.",
+            "e. En concentraciones elevadas un inhibidor No competitivo."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 136,
+        "question": "Cuál de los siguientes antihistamínicos tiene como efectos adversos somnolencia y efecto antimuscarínico:",
+        "options": [
+            "a. Desloratadina",
+            "b. Levociterizina",
+            "c. Citerizina",
+            "d. Difenhidramina",
+            "e. Loratadina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 137,
+        "question": "¿Cuál de los siguientes antidepresivos es un inhibidor selectivo de la recaptación de noradrenalina?",
+        "options": [
+            "a.  Bupropion",
+            "b. Venlafaxina",
+            "c.  Mirtazapina",
+            "d.  Escitalopram",
+            "e.  Reboxetina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 138,
+        "question": "Una mujer de 35 años de edad es traída al servicio de urgencias en estado de coma y depresión respiratoria. La hermana de la enferma refiere que después de una discusión con su esposo la paciente ingirió 40 tabletas de morfina. ¿Cuál de los siguientes debe incluir en el manejo de ésta?",
+        "options": [
+            "a.  Flumazenil",
+            "b.  Naltrexona",
+            "c.  Codeína",
+            "d.  N-acetilcisteína",
+            "e.  Buprenorfina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 139,
+        "question": "En relación con la aspirina cuál de las siguientes afirmaciones es  INCORRECTA",
+        "options": [
+            "a. El ácido salicílico generado tiene una vida media que es dosis y pH urinario independiente.",
+            "b. Inhibe a la COX de manera irreversible (por acetilación).",
+            "c. El ácido salicílico generado tiene una vida media que es dosis y pH urinario dependiente.",
+            "d. Puede desacoplar la fosforilación oxidativa.",
+            "e. Disminuye la motilidad uterina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 140,
+        "question": "La Ergotamina , un alcaloide del Hongo Claviceps purpúrea presenta un efecto adverso frecuente ,marque  la respuesta correcta.",
+        "options": [
+            "a. Nicturia",
+            "b. conjuntivitis química.",
+            "c. Vasoconstricción periférica",
+            "d. Vasodilatación periférica",
+            "e. Hisurtismo"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 141,
+        "question": "En una guardia un paciente presenta un Shock Anafiláctico cual es el fármaco de elección :",
+        "options": [
+            "a. Adrenalina",
+            "b. Desloratadina",
+            "c. Corticoides",
+            "d. Loratadina",
+            "e. Difenhidramina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 142,
+        "question": "¿Cuál de  los siguientes fármacos es considerado un  Uricosúrico?:",
+        "options": [
+            "a. Alopurinol",
+            "b. Acido  acetil salicílico",
+            "c. Probenecid",
+            "d. Oxipurinol",
+            "e. Colchicina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 143,
+        "question": "¿Cuál de los siguientes analgésicos opiodes actúa como agonista parcial?",
+        "options": [
+            "a. Tramadol",
+            "b. Codeína",
+            "c. Pentazocina",
+            "d. Nabulfina",
+            "e. Buprenorfina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 144,
+        "question": "Indique cuál de los siguientes antihistamínicos es de Primera Generación:",
+        "options": [
+            "a. Loratadina",
+            "b. Difenhidramina",
+            "c. Desloratadina",
+            "d. Fexofenadina",
+            "e. Cetirizina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 145,
+        "question": "En relación a las benzodiazepinas (BZD), señalar cual es la afirmación correcta",
+        "options": [
+            "a. A diferencia de los barbitúricos no necesitan la presencia de GABA para abrir el canal de cloro.",
+            "b. Actúan sobre receptores GABA B aumentando la afinidad del GABA por su receptor.",
+            "c. Farmacocinéticamente presentan un modelo bicompartimental de importancia clínica.",
+            "d. Tienen propiedades analgésicas y anestésicas",
+            "e. A mayor vida media de una BZD menor posibilidad de ‘efecto resaca’ (hang over)."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 146,
+        "question": "¿Cuál de los siguientes factores NO influye en el comienzo de acción de un anestésico local?",
+        "options": [
+            "a. Distancia a la fibra nerviosa",
+            "b.  Liposolubilidad",
+            "c. Vascularización de la zona",
+            "d.  Grosor de la fibra",
+            "e.  Tipo de fibra"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 147,
+        "question": "En relación a los bifosfonatos, señale la respuesta correcta:",
+        "options": [
+            "a. Se administran con las comidas (30 – 60’ después desayuno), solo c/ 1 vaso de H20 preferentemente mineral (120-140 ml) y a continuación el paciente se debe recostar al menos 30’.",
+            "b. La vida media ósea de estos compuestos puede ser de años.",
+            "c. Se eliminan principalmente por metabolismo hepático por lo que se debe tener cuidado ante la presencia de hepatopatías Incorrectaincorrecta",
+            "d. El efecto antirresortivo es muy útil en osteoporosis pero no en enfermedad de Paget.",
+            "e. Los bifosfonatos no nitrogenados son los de mayor potencia antirresortiva."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 148,
+        "question": "¿Cuál de los siguientes efectos adversos extrapiramidales de los antipsicóticos típicos es de aparición tardía?",
+        "options": [
+            "a. Sindrome neuroléptico maligno",
+            "b. Disquinesias",
+            "c.  Acatisia",
+            "d. Parkinsonismo",
+            "e.  Temblor"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 149,
+        "question": "¿Cuàl es el efecto adverso de la Difenilhidantoína que aparece con el uso crónico en pacientes con epilepsia?",
+        "options": [
+            "a. Sangrado.",
+            "b. Exantema .",
+            "c. Síndrome Steven Johnson",
+            "d.  Arritmia.",
+            "e. Hisurtismo."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 150,
+        "question": "La loratadina es un antihistamínico de uso frecuente en la terapéutica ,indique la afirmación incorrecta:",
+        "options": [
+            "a. La Loratadina en caso de ser necesario puede utilizarse en el embarazo.",
+            "b. La loratadina es el antihistaminico de segunda generación .",
+            "c. La loratadina no presenta como efecto adverso somnolencia.",
+            "d. La loratadina es el antihistaminico que tiene efectos anticolinèrgicos.",
+            "e. La loratadina es el antihistamínico que no pasa barrera hematoencefálica."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 151,
+        "question": "¿Cuál de las siguientes afirmaciones es INCORRECTA en relación a la acción de las hormonas tiroideas?",
+        "options": [
+            "a. Neurogénesis activa",
+            "b. Estimula la expresión de receptores de LDL hepáticos",
+            "c. Disminuye el óxido nítrico",
+            "d. Reduce los niveles de apoB",
+            "e. Posee efectos lusotrópicos, inotrópicos y cronotrópicos"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 152,
+        "question": "La lamotrigina tiene como efecto adverso grave:",
+        "options": [
+            "a. Amenorrea",
+            "b. Reacciones de Hipersensibilidad",
+            "c. Sialorrea",
+            "d. Hiperplasia gingival",
+            "e. cataratas"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 153,
+        "question": "En relación a la L-DOPA, señale cuál de las siguientes afirmaciones es incorrecta:",
+        "options": [
+            "a. El transporte de L-DOPA a través de la barrera hematoencefálica es saturable.",
+            "b. No frena el curso de la enfermedad.",
+            "c. La COMT periférica también metaboliza L-DOPA.",
+            "d. Inhibe los receptores DA y Beta 1 en corazón.",
+            "e. Conviene administrarla junto con Carbidopa o Benserazida."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 154,
+        "question": "Uno de los siguientes analgésicos es clasificado como opioide débil marque la respuesta correcta:",
+        "options": [
+            "a. Fentanilo",
+            "b. Metadona",
+            "c. Oxicodona",
+            "d. Tramadol",
+            "e. Morfina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 155,
+        "question": "Una paciente con diagnóstico de hipertiroidismo en tratamiento con metimazol consulta a la guardia por presentar  síndrome seudogripal con fiebre, odinofagia ,que decisión toma en cuanto a tratamiento:",
+        "options": [
+            "a. Luego de realizar el examen físico, solicita laboratorio y le indica antibióticos.",
+            "b. Luego de realizar el examen físico, solicita laboratorio y espera para tomar conducta.",
+            "c. Luego de realizar el examen físico, le indica un antibiótico y antitérmico.",
+            "d. Luego de realizar el examen físico, lo deja en observación ,solicita laboratorio y suspende tratamiento con metimazol.",
+            "e. Luego de realizar el exámen físico ,le da pautas de alarma y un antitérmico."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 156,
+        "question": "¿Cuál de los siguientes fármacos antiepilépticos inhibe la GABA transaminasa?",
+        "options": [
+            "a. Tiagabina",
+            "b.  Topiramato",
+            "c. Vigabatrina",
+            "d.  Levetiracetam",
+            "e.  Pregabalina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 157,
+        "question": "Señale cuál de las siguientes opciones corresponde al mecanismo de acción del diazepam:",
+        "options": [
+            "a. Actúa inhibiendo la bomba de Na+/K+-ATPasa",
+            "b. Facilita la entrada de iones de cloruro en las neuronas a nivel del SNC",
+            "c. Inhibe los canales de sodio glutamato dependientes",
+            "d. Inhibe los canales de potasio",
+            "e. Inhibe los canales de calcio tipo T"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 158,
+        "question": "La amitriptilina es:",
+        "options": [
+            "a. Inhibidor selectivo de la recaptación de serotonina",
+            "b. Inhidor selectivo de la recaptación de serotonina  y NA",
+            "c. Inhibidor selectivo de la recaptación de NA  y Dopamina",
+            "d. Inhibidor no selectivo de la recaptacion de serotonina y NA",
+            "e. Inhibidor selectivo de la recaptacion de NA"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 159,
+        "question": "Paciente de 50 años, sexo femenino, sin antecedentes previos ,consulta por presentar hace dos meses , astenia, intolerancia al frio agregándose sequedad de piel ,caída del pelo ,dificultad para tragar- Al examen clínico evidencia macroglosia y al palpar el cuello aumento de la glándula tiroides. El laboratorio como datos significativos presenta anemia, aumento de colesterol y las hormonas T4 ,T3 baja con aumento de la TSH y la ecografía aumento de la glándula tiroides. Cuál es su diagnóstico y  que tratamiento indicaría.",
+        "options": [
+            "a. Hipertiroidismo.",
+            "b. Hipotiroidismo.",
+            "c. Hipotiroidismo e inicio tratamiento con T4",
+            "d. Hipertiroidismo e inicio tratamiento con T4 .",
+            "e. Hipotiroidismo e inicio tratamiento con T3"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 160,
+        "question": "¿Cuál de las siguientes opciones es VERDADERA respecto a la hormona T4?",
+        "options": [
+            "a. Vida media de 7 días",
+            "b.  La edad avanzada aumenta los requerimientos",
+            "c. Se administra únicamente por vía oral",
+            "d. Se absorbe a nivel del cólon",
+            "e.  Los alimentos facilitan su absorción"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 161,
+        "question": "Indicar cuál de los siguientes fármacos tiene más probabilidad de producir hepato y nefrotoxicidad",
+        "options": [
+            "a. Ibuorofeno",
+            "b. Piroxicam",
+            "c. Diclofenac",
+            "d. Acetoaminofeno",
+            "e. Ácido acetilsalicílico"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 162,
+        "question": "Marque la afirmación INCORRECTA sobre las hormonas Tiroideas",
+        "options": [
+            "a. Se utilizan para el tratamiento del hipotiroidismo.",
+            "b. Las hormonas actúan en el receptor tiroideo a nivel nuclear .",
+            "c. Producen aumento del metabolismo basal .",
+            "d. La T3 reversa es activa",
+            "e. La T4 se transforma en T3 en los tejidos por medio de Deiodinasas"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 163,
+        "question": "¿Cuál de los siguientes antipsicóticos es atípico?",
+        "options": [
+            "a. Levomepromazina",
+            "b.  Risperidona",
+            "c.  Clorpromazina",
+            "d. Flufenazina",
+            "e. Sulpirida"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 164,
+        "question": "Marque cual de los siguientes glucocorticoides tiene vida media prolongada:",
+        "options": [
+            "a. Dexametasona",
+            "b. Hidrocortisona",
+            "c. Prednisona",
+            "d. Deflazacord",
+            "e. Metilprednisona"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 165,
+        "question": "Ingresa a la guardia un paciente de 45 años intoxicado con opioides en el tratamiento de urgencia que fármaco indicaria:",
+        "options": [
+            "a. oxicodona",
+            "b. corticoides",
+            "c. Naloxona",
+            "d. Flumazenilo",
+            "e. Dandrolen"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 166,
+        "question": "Cuál de las siguientes afirmaciones sobre los AINEs es verdadera:",
+        "options": [
+            "a. Los AINEs inhiben la vía de la lipooxigenasa.",
+            "b. La PGF2 alfa contrae el miometrio.",
+            "c. La COX I es constitutiva y la COX II sólo es inducible por lesión.",
+            "d. Los leucotrienos relajan el músculo liso bronquial.",
+            "e. La PGE2 contrae el músculo liso bronquial"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 167,
+        "question": "Paciente con diagnóstico de  Hipertiroidismo debe comenzar tratamiento , de los siguientes fármacos cuál utilizaría:",
+        "options": [
+            "a. Sulfato de Manganeso",
+            "b. Metimazol",
+            "c. Vitamina C",
+            "d. Hormona T4",
+            "e. Hormona T3"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 168,
+        "question": "En relación a los fármacos para la osteoporosis, señale la respuesta correcta:",
+        "options": [
+            "a. Los anticuerpos anti esclerostina (por ej. Romosozumab) son básicamente antirresortivos.",
+            "b. La teriparatida es un fármaco de primera línea para el tratamiento de osteoporosis.",
+            "c. El calcio y la vitamina D se administran para evitar su carencia pero no alcanzan como tratamiento para la osteoporosis.",
+            "d. Los bifosfonatos nitrogenados activan la enzima farnesilpirofosfato-sintasa.",
+            "e. A diferencia de los bifosfonatos, y como ventaja, el denosumab no produce osteonecrosis mandibular ni fracturas subtrocantéreas o diafisarias atípicas"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 169,
+        "question": "Marque la respuesta correcta sobre los AINES:",
+        "options": [
+            "a. Los aines tienen alta unión a proteínas específicas",
+            "b. Todos los AINES son quimicamente  ácidos",
+            "c. El paracetamol tiene una alta eficacia antiinflamatoria",
+            "d. El paracetamol es un Aine acido.",
+            "e. El acido acetil salicílico tiene como efecto adverso Síndrome de Reye"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 170,
+        "question": "Marque la afirmación INCORRECTA sobre la HISTAMINA",
+        "options": [
+            "a. La histamina actúa selectivamente sólo sobre receptores H1.",
+            "b. La histamina produce broncodilatación.",
+            "c. Sobre  el miocardio inhibe el inotropismo y cronotropismo",
+            "d. La histamina es un estimulante potente de terminaciones nerviosas motoras, en particular las que median el dolor y el prurito",
+            "e. Los efectos adversos de la histamina no dependen de la dosis."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 171,
+        "question": "Marque cuál de las siguientes afirmaciones es INCORRECTA:",
+        "options": [
+            "a. Los fármacos hipouricemiantes inhiben la síntesis y aceleran la excreción.",
+            "b. La gota es una enfermedad metabólica caracterizada por crisis recurrentes de artritis aguda por el depósito de urato monosódico en las articulaciones y los cartílagos.",
+            "c. La mayoría de los pacientes con hiperuricemia no tendrá gota",
+            "d. El Alopurinol es un hiperuricemiante",
+            "e. Fármacos que evitan las respuestas inflamatorias a los cristales (colchicina y NSAID)"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 172,
+        "question": "Uno de los siguientes fármacos utilizados en el tratamiento de la migraña tiene mecanismos de acción antiserotoninérgico y antihistaminérgico :",
+        "options": [
+            "a. Naratriptan",
+            "b. Ergotamina",
+            "c. Metisergida",
+            "d. Eletriptán",
+            "e. Ciproheptadina ERA DICIEMBRE 2020 1) ¿Cuál es el efecto adverso de la Difenilhidantoína que aparece con el uso crónico en pacientes con epilepsia? a) Síndrome Steven Jhonson b) Hiperplasia Gingival. (Aparece como E.A crónico en el 20% de los ptes, otros E.A a nivel TGI: gastritis y rectitis: administración por vía rectal). c) Arritmia d) Sangrado e) Exantema 2) ¿Cuál de los siguientes fármacos utilizados como profilaxis para la migraña tiene como efecto adverso fibrosis retroperitoneal? a) Metisegida (Raramente es utilizado debido al riesgo de fibrosis retroperitoneal) b) Ciproheptadina c) Ergotamina d) Pizotifeno e) Dietilergotamina 3. El mecanismo de los anestésicos locales incluye: a) Alteración de la permeabilidad de la membrana neuronal. b) Inhibición de la conducción nerviosa por medio de los canales de sodio. (Produce un bloqueo temporal y reversible de los canales de Na+ voltaje dependientes activos en los axones) c) Inhibición de los receptores del dolor. d) Inhibición de la conducción nerviosa por medio de los canales de calcio. e) Inhibición de la conducción nerviosa por medio de los canales de cloro. 3) ¿Cuál de las siguientes acciones NO corresponde al Raloxifeno? a) Reducción del colesterol. b) Agonista inverso a nivel ovárico (todas las otras opciones corresponden a las acciones del Raloxifeno, pero no ésta según la clase de Hormonas Fem-masc) c) Agonista a nivel Óseo. d) Agonista parcial en endometrio. e) Antagonista a nivel mamario. 4) Marque la afirmación correcta sobre los antihistamínicos: a) La loratadina es el antihistamínico de segunda generación que presenta efectos anticolinérgicos. b) Los antihistamínicos de primera generación no tienen efectos antimuscarínicos. c) La Difenhidramina es un antihistamínico de segunda generación. d) Los antihistamínicos de segunda generación pasan barrera hematoencefálica. e) La sedación es el efecto más frecuente de los antihistamínicos de primera generación. (H1 de la primera generación el más frecuente) 5) De las siguientes afirmaciones sobre los triptanos, indique la INCORRECTA: a) Los triptanos actúan de manera recíproca y potente con los receptores 5-HT1B y 5-HT1D. b) Los triptanos están indicados en pacientes con enfermedad cardiaca. (está contraindicado en pacientes cardiópatas por los efectos adversos) c) El sumatriptán tiene como efecto adverso más frecuente el gusto amargo. d) Los triptanos no producen síndrome serotoninérgico. e) Farmacos efectivos para el tratamiento agudo de la migraña f) . 6) ¿Cuál de las siguientes afirmaciones es INCORRECTA respecto a los andrógenos? a) Poseen alta unión a proteínas. b) Puede asociarse a aumento de peso. c) Aumento de las LDL y disminución de las HDL d) Aumenta la mineralización ósea e) Se administran por vía subcutánea (se pueden administrar por via IM, Oral: tiene baja biodisponibilidad) 7) ¿Cuál de los siguientes analgésicos opioides actúa como agonista parcial? a) Buprenorfina b) Codeína c) Tramadol d) Pentazocina e) Nalbufina (Este es un muy buen analgésico como agonista parcial) 8) ¿Cuál de las siguientes opciones es CORRECTA en relación a los gestágenos? a) Todas son correctas b) Promueven un moco viscoso y escaso c) Pueden asociarse a ictericia colestásica d) Disminuyen la concentración de receptores estrogénicos e) Poseen un efecto relajador en el miometrio 9) ¿Cuál de las siguientes medicaciones NO aumenta los niveles de litemia? a) Hidroclorotiazida b) Tetraciclinas c) Teofilina (esta droga disminuye los niveles de litio en sangre asi como el bicarbonato de sodio, la cafeína y el manitol) d) Ibuprofeno e) Furosemida 10) Elija opción correcta respecto a los efectos adversos de los AINEs sobre la presión arterial: a) Únicamente los inhibidores selectivos de la COX-2 aumentan los niveles de presión arterial. b) El ibuprofeno no se asocia a incremento de los niveles de presión arterial. c) La aspirina a bajas dosis se asocia a un incremento del riesgo de desarrollar hipertensión arterial. d) Los inhibidores selectivos de la COX-2 no producen efectos sobre la presión arterial. e) En general, los AINEs incrementan los valores de presión arterial. (TODOS los antiinflamatorios no esteroideos sean selectivos o no, aumenta la tensión arterial. El riesgo relativo es de 1,8) 11) Cuál de los siguientes fármacos son Uricosúricos: a) Probenecid (Es la droga modelo de los uricosúricos, bloquea la reabsorción de ác. Úrico). b) Alopurinol c) Ac. Acetil Salicílico d) Oxipurinol e) Colchicina 12) El mecanismo de acción de la Benzodiacepinas es: a) Actúan sólo sobre canales lentos de Ca+ b) El mecanismo de acción es mediante receptores nucleares c) Actúan sobre canales de Na+ y Ca+ d) Actúan sobre canales de Na+ e) Actúan sobre el Receptor GABA A. (Se unen a un sitio de acción específico en el receptor GABA A) 13)  En un paciente que presenta Hipertiroidismo, cuál de los siguientes fármacos utilizaría: a) Hidróxido Magnesio b) T3 c) Metimazol (En la clínica se utiliza bastante o también el propiltiouracilo. Inhibe la glandula 90% en 24 hs) d) Vitamina C e) T4 14) Los fármacos utilizados en primera línea en el Estatus epiléptico son: a) Carbamacepina b) Acido Valproico c) Corticoides d) Lamotrigina e) Benzodiacepinas, Difenilhidantoína, fenobarbital (son los de primera línea, los que se utilizan en FASE 1: en los primeros 5 a 10 mins, E. Epiléptico precoz) 15) Marque la afirmación INCORRECTA sobre las hormonas tiroideas: a) Producen aumento del matabolismo basal. b) La T3 reversa es activa. (Es la T3) c) La t4 se transforma en t3 en los tejidos por medio de Deiodinasas d) Las hormonas actúan en el receptor tiroideo a nivel nuclear. e) Se utilizan para el tratamiento del hipotiroidismo. 16) ¿Cuál de los siguientes fármacos antipsicóticos tiene mayor efecto sedativo? a) Amitriptilina b) Tioridazina c) Trifluperazina d) Clorpromazina (Posee una intensa acción sedante. Otro ej: Levomepromazina) e) Haloperidol 17) Cuál de los siguientes fármacos utilizados para el tratamiento del Parkinson es el más efectivo: a) Pergolide b) Selegilina c) Apomorfina d) L dopa (no tengas dudas que es la más efectiva, pero después de unos años va perdiendo su efectividad). e) Bromocriptina 18) Marque la INCORRECTA sobre el Alopurinol: a) En concentraciones bajas el alopurinol es un sustrato e inhibidor competitivo b) No tiene efectos adversos (todos los fármacos tienen efectos adversos. Dos ej. E.A: Hipersensibilidad y leucopenia) c) El alopurinol como su metabolito activo el oxipurinol son inhibidores de la Xantino oxidasa (XO) d) En concentraciones elevadas un inhibidor NO competitivo. e) Al inicio del tratamiento pueden aumentar los ataques de gota aguda. 19) ¿Cuál de las siguientes afirmaciones es incorrecta? a) El T. cruzi es vulnerable a las especies reactivas del oxígeno. b) La hipersensibilidad es un efecto adverso del nifurtimox c) Nifurtimox y Benznidazol se administran por vía oral d) Se han descripto alteraciones visuales con el uso de benznidazol. (no encontré como E.A patologías visuales) e) El nifurtimox es activo contra las formas tripmastigote y amastigote del T. Cruzi 20)  De los siguientes fármacos anti consulsivantes, ¿cuál de ellos actúa sobre el Receptor de GABA A? a) Fenobarbital b) Carbamacepina (porque es una benzodiacepina) c) Difenilhidantoína d) Fosfofenitoína e) Lamotrigina 21) Paciente de 40 años, sexo femenino, sin antecedentes previos consulta por presentar hace un mes, astenia, caída del pelo, dificultad para tragar, intolerancia al frío. Al examen clínico evidencia macroglosia y al palpar el cuello aumento de la glandula tiroides. El laboratorio como datos significativos presenta anemia, aumento de colesterol y las hormonas T4 , T3 baja con aumento de la TSH y la ecografía aumento de la glándula tiroides. Cuál es su diagnóstico y que tratamiento indicaría. a) Hipertiroidismo. b) Hipotiroidismo e inicio de tratamiento con T4 c) Hipotiroidismo e inicio tratamiento con T3 d) Hipotiroidismo. e) Hipertiroidismo e inicio tratamiento con T4. 22) ¿Cuál de los siguientes efectos adversos de la paroxetina se destaca al inicio del tratamiento? a) Náuseas y vómitos b) Alteraciones significativas en la conducción cardiaca. c) Efectos anticolinérgicos (produce una inhibición sobre los Rc muscarinicos produciendo su efecto anticolinérgico) d) Hipotensión ortostática e) Ninguna es correcta 23) ¿Cuál de los siguientes aspectos NO es característico del tratamiento son sales de Litio? a) Precisa para su control, realizar determinaciones de litemia. b) Es eficaz en la profilaxis del trastorno bipolar. c) Puede aparecer, a largo plazo, toxicidad tiroidea d) Eleva los niveles de uricemia e) Es eficaz en el tratamiento del episodio maníaco 24) Una mujer de 35 años de edad es traída al servicio de urgencias en estado de coma y depresión respiratoria. La hermana de la enferma refiere que después de una discusión con su esposo la paciente ingirió 40 tabletas de morfina. ¿Cuál de los siguientes debe incluir en el manejo de ésta? a) Buprenorfina b) N-acetilcisteína c) Naloxona (Es el antídoto que revierte la intoxicación con opioides) d) Flumazenil e) Codeína 25) Un paciente con diagnóstico de hipertiroidismo en tratamiento con metimazol consulta por presentar síndrome seudogripal con fiebre, odinofagia, que decisión toma en cuanto a tratamiento: a) Luego de realizar el examen físico, solicita laboratorio y espera para tomar conducta b) Luego de realizar el examen físico, le da pautas de alarma y un antitérmico c) Luego de realizar el examen físico, le indica un antibiótico y antitérmico. d) Luego de realizar el examen físico, solicita laboratorio y le indica antibióticos. e) Luego de realizar el examen físico, lo deja en observación, solicita laboratorio y suspende tratamiento con metimazol. 26) Marque cuál de los siguientes efectos adversos de la Ergotamina es incorrecta: a) Contracción uterina b) Vasoconstricción periférica c) Diarrea d) Vasodilatación (Porque la ergotamina produce vasoconstricción) e) Náuseas y vómitos. 27) Cuál de las siguientes afirmaciones es INCORRECTA: a) Fármacos que evitan las respuestas inflamatorias a los cristales (colchicina y NSAID) b) La gota es una enfermedad metabólica caracterizada por crisis recurrentes de artritis aguda por el depósito de urato monosódico en las articulaciones y los cartílagos. c) El alopurinol es un hiperuricemiante. (Reduce la concentración de ácido úrico) d) Los fármacos hipouricemiantes inhiben la síntesis y aceleran la excreción. e) La mayoría de los pacientes con hiperuricemia no tendrá gota. 28) La lamotrigina tiene como efecto adverso grave: a) Amenorrea b) Arritmias ventriculares c) Reacciones de hipersensibilidad graves (riesgo de Sindrome de Stevens-Johnson: grado máximo de alergia farmacológica que se puede tener, produce lesiones con ampollas internas y externas). d) Hiperplasia gingival e) Sialorrea RECUPERATORIO ERA 3: CORREGIDAS CON LOS POWERS DE LAS CLASES 1) . 2) . 3) Señale la opción correcta respecto a la histamina: a) La estimulación H2 provoca insomnio. X b) La ranitidina es un bloqueante H1 selectivo. X c) Los antagonistas H1 se absorben pobremente por vía enteral d) La estimulación H1 produce saciedad e) La clorfeniramina es un antiH1 de 2da generación. X 4) Señale cuál de las siguientes opciones NO modifica la duración de acción de los AINEs: a) Género b) Vida media de eliminación c) Dosis administrada d) Tipo de inhibición (competitiva vs no competitiva) e) Forma farmacéutica 5) Señale cuál de las siguientes opciones corresponde al mecanismo de acción del diazepam: a) Facilita la entrada de iones de cloruro en las neuronas a nivel del SNC. (Presenta 5 subunidades, y estas son las que hacen el canal ionico permeable al cloro). b) Inhibe los canales de sodio glutamato dependientes. c) Inhibe los canales de calcio tipo T d) Actúa inhibiendo la bomba de Na+/K+ ATPasa e) Inhibe los canales de potasio 6) ¿Cuál de los siguientes analgésicos opiodes actúa como agonista parcial? a) Tramadol b) Buprenorfina c) Pentazocina d) Codeína 7) ¿A través de que mecanismo los antidepresivos generan aumento de peso? a) Bloqueo 5HT2 b) Inhibición de la recaptación de serotonina c) Bloqueo muscarínico d) Bloqueo H1 e) Bloqueo alfa 1 8) ¿Indique el fármaco cuya interacción NO llega a ser fatal con la asociación con Benzodiazepina? a) Fenobarbital b) Tiopental c) Etanol d) Pridinol e) Prometazina 9) Señale la opción INCORRECTA respecto al tratamiento de la enfermedad de Parkinson: a) La L-dopa cruza la barrera hematoencefálica b) La bromocriptina es un agonista selectivo del receptor D2 c) El tolcapone es un inhibidor de la COMT (catecol-o-metil Transferasa) d) La L-dopa sola se puede administrar como monoterapia. (se acompaña siempre con una D- carboxilasa) e) La pargilina es un inhibidor de la MAO (monoamino-oxidasa) 10) ¿Cuál de los siguientes efectos adversos extrapiramidales de los antipsicóticos típicos es de aparición tardía? a) Acatisia b) Parkinsonismo c) Temblor d) Disquinesias 11) ¿Cuál de los siguientes antidepresivos es un inhibidor selectivo de la recaptación de noradrenalina? a) Escitalopram b) Venlafaxina c) Bupropion d) Reboxetina e) Mirtazapina 12) ¿Cuál de los siguientes fármacos antiepilépticos inhibe la GABA transaminasa? a) Levetiracetam b) Vigabatrina . (Es un análogo del GABA. Se une específicamente a la GABA-transaminasa. Aumenta el nivel de GABA en LCR). c) Topiramato d) Pregabalina e) Tiagabina 13) Cuál es la única acción de los benzodiacepinas que NO produce tolerancia? a) Ansiolítica (UNICA que NO da tolerancia). b) Hipnotica c) Miorrelajante d) Anticonvulsivante e) Sedante 14) Señale la opción incorrecta respecto a la migraña: a) Los agonistas serotoninérgicos son efectivos para el tratamiento agudo b) El cierre de las anastomosis por estimulación 5-HT1B-1D sería un mecanismo anti-migrañoso. c) La dieta es un factor desencadenante d) La migraña sin aura es la menos frecuente e) Los síntomas positivos de aura incluyen los síntomas visuales 15) ¿Cuál de los siguientes agentes antipsicóticos presenta más frecuentemente como efecto adverso síntomas extrapiramidales? a) Clozapina b) Aripiprazol c) Quetiapina d) Risperidona (La incidencia de extrapiramidalismo e hiperprolactinemia aumenta con la dosis). e) Levomepromazina 16) ¿Cuál de los siguientes fármacos andidepresivos presenta como efecto adverso el efecto tiramínico o efecto queso? a)  Pargilina b) Paroxetina c) Bupropion d) Mirtazapina e) Desipramina 17) ¿Cuál de los siguientes factores NO influye en el comienzo de acción de un anestésico local? a) Grosor de la fibra b) Vascularización de la zona c) Tipo de fibra d) Distancia a la fibra nerviosa 18) ¿Cuál de las siguientes opciones es VERDADERA respecto a la hormona T4? a) La edad avanzada aumenta los requerimientos b) Se administra únicamente por vía oral c) Se absorbe a nivel del colon. (Se absorbe entre un 60 y un 80% en el intestino delgado proximal y esta absorción no varía en relación con la función tiroidea). d) Los alimentos facilitan su absorción e) Vida media de 7 días 19) ¿Cuál de los siguientes efectos adversos se atribuye al uso de antipsicóticos típicos clásicos? a) Hipoprolactemia X b) Sialorrea X c) Hipotensión ortotática d) Miosis X e) Todas son correctas 20) Señale la opción correcta respecto a los Anti-histaminicos: a) La prometazina carece de efectos antimuscarínicos b) Provocan vasodilatación c) La duración de acción de los anti-H1 de primera generación es de 12 hs d) Los anti-H1 suprimen la secreción gástrica e) La ciproheptadina tiene como efecto colateral aumentar el apetito (pueden intensificar el apetito y aumento de peso). 21) Marque la opción correcta sobre el mecanismo de acción del Fenobarbital: a) Receptor GABA A (Actúa en el sitio barbitúrico del Rc GABA A prolonga los canales de Cl- produciendo hiperpolarización). b) Receptores intranucleares c) Canales de Na+ d) Canales de K+ e) Inhibe síntesis proteíca"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 173,
+        "question": "La mejor prescripción de los bloquenates H2 en la dispepsia es durante la noche, ya que alli hay mayor secreción basal de HCl y el estimulo parasimpatico exacerbado por la histamina es mayor. Seleccione una:",
+        "options": [
+            "a. Verdadero",
+            "b. Falso"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 174,
+        "question": "Usted le recetó un medicamento para cuadro péptico a un paciente. El paciente refiere comenzar con heces oscuras. Uno de los siguientes fármacos podría ser el responsable del cuadro clínico:",
+        "options": [
+            "a. Omeprazol",
+            "b. Sucralfato",
+            "c. Ranitidina",
+            "d. Sales de Bismuto"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 175,
+        "question": "¿Cuál de las siguientes instrucciones debería indicarse a un paciente que recibe sucralfato?",
+        "options": [
+            "a. Administrar después de las comidas",
+            "b. Administrar con un vaso de leche",
+            "c. Administrar al menos una hora antes de las comidas",
+            "d. Administrar con las comidas"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 176,
+        "question": "Para el tratamiento de la dislipemia se utilizan frecuentemente estatinas. ¿Cuál de los siguientes es un efecto secundario comúnmente relacionado con el tratamiento con estatinas?",
+        "options": [
+            "a. Dolores musculares y elevación de enzimas hepáticas",
+            "b. Hiperglucemia",
+            "c. Hipotensión arterial y deshidratación",
+            "d. Alteraciones hidroelectrolíticas"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 178,
+        "question": "Uno de los siguientes fármacos tiene un margen terapéutico estrecho, por lo que se requiere monitorizar sus niveles plasmáticos:",
+        "options": [
+            "a. Salbutamol",
+            "b. Bromuro de Ipratropio",
+            "c. Beclometasona",
+            "d. Teofilina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 179,
+        "question": "Según el Consenso de Diagnóstico y Tratamiento de la Insuciencia Cardíaca Crónica de la Sociedad Argentina de Cardiología, todos los pacientes con Insuciencia Cardíaca Crónica en cualquiera de sus estadios deben recibir una combinación de drogas, ¿cuáles son esas drogas?",
+        "options": [
+            "a. Betabloquentes + Antagonista de la Aldosterona",
+            "b. Inhibidor de la Enzima Convertidora de la Angiotensina + Digitálicos",
+            "c. Inhibidor de la Enzima Convertidora de la Angiotensina + Betabloqueantes",
+            "d. Aspirina + Antagonista de la Aldosterona"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 180,
+        "question": "¿Cuál es la benzodiacepina que se emplea con mayor frecuencia en pacientes que presentan insomnio de conciliación y en procedimientos quirúrgicos como inductores?",
+        "options": [
+            "a. Lorazepam",
+            "b. Clonazepam",
+            "c. Diazepam",
+            "d. Midazolam"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 183,
+        "question": "¿Por qué la Espironolactona presenta un gran benecio en la Insucencia cardíaca CF IV?",
+        "options": [
+            "a. mejora rápidamente edema pulmonar",
+            "b. inhibe las propiedades brosantes de la aldosterona",
+            "c. Permite eliminar mayor cantidad de sodio",
+            "d. Permite el ahorro de potasio"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 185,
+        "question": "Según el Consenso de Diagnóstico y Tratamiento de la Insuciencia Cardíaca Crónica de la Sociedad Argentina de Cardiología, el uso de betabloqueantes en Insuciencia Cardíaca está contraindicado en los casos de",
+        "options": [
+            "a. Feocromocitoma",
+            "b. Epoc reagudizado",
+            "c. Fibrilación Auricular",
+            "d. taquicardia"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 188,
+        "question": "Según las recomendaciones sobre la atención de la Neumonía asociada a la comunidad (NAC) de la SADI, el tratamiento antibiótico sugerido para pacientes admitidos en terapia intensiva con Neumonía asociada a la comunidad (NAC) es:",
+        "options": [
+            "a. Imipenem más Claritromicina",
+            "b. Amoxicilina -Ácido Clavulánico",
+            "c. Ampicilina-Sulbactam más Claritromicina",
+            "d. meropenem"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 192,
+        "question": "¿Cuáles son los efectos adversos más frecuentes de los beta bloqueantes?",
+        "options": [
+            "a. Broncoespasmo, frialdad de miembros inferiores y trastornos del sueño",
+            "b. Disnea y deterioro del sensorio",
+            "c. Hipertensión y arritmia",
+            "d. Hipokalemia e hipomagnesemia"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 193,
+        "question": "Un paciente de 78 años presenta un efecto adverso relacionado con la digoxina. Indique ¿cuál de los siguientes NO es un efecto adverso característico de esta droga?",
+        "options": [
+            "a. taquicardia",
+            "b. Discromatopsia",
+            "c. nauseas y vomitos",
+            "d. cubeta digitálica"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 194,
+        "question": "¿Cuál de los siguientes fármacos agonistas beta 2 que se administran por vía inhalatoria es de acción prolongada?",
+        "options": [
+            "a. Terbutalina",
+            "b. Salmeterol",
+            "c. Salbutamol",
+            "d. Levalbuterol"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 195,
+        "question": "Marque la opción correcta con respecto a los efectos adversos de los inhibidores de la bomba de protón potasio utilizados para el tratamiento de la ulcera péptica o esofagitis:",
+        "options": [
+            "a. hipokalemia",
+            "b. necrosis maxilar",
+            "c. leucopenia frecuente",
+            "d. hiperglucemia"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 196,
+        "question": "¿Cuál de los siguientes fármacos antituberculosos forman parte del grupo de segunda línea?",
+        "options": [
+            "a. Acido Para aminosalicílico",
+            "b. Etambutol",
+            "c. Isoniazida",
+            "d. Rifampicina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 197,
+        "question": "Ante un paciente con disnea en CF IV, crepitantes bibasales, ingurgitación yugular 2/3, usted dispone como tratamiento:",
+        "options": [
+            "a. Reposo domiciliario estricto, furosemida 40 mg/día vo, enalapril 10 mg/dia vo",
+            "b. internacion, atenolol 100 md/d vo, furosemida 80 mg/d vo, espironolactona 50 mg/d iv",
+            "c. internacion, espironolactona 50 mg/dia, hidroclorotiazida 25 mg/dia iv, atenolol 25 mg/dia",
+            "d. internación, furosemida 40 mg iv, enalapril vo 10 mg, espironolactona 50 mg/dia vo"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 198,
+        "question": "Según la Guía de Diagnóstico y Tratamiento y Prevención de la Tuberculosis del Ministerio de Salud de la Nación ¿Cuáles son los fármacos de primera elección en el tratamiento de la tuberculosis?",
+        "options": [
+            "a. Isoniazida, rifampicina, etambutol, etionamida y estreptomicina",
+            "b. Isoniazida, rifampicina, etambutol, pirazinamida y estreptomicina",
+            "c. Isoniazida, rifampicina, etambutol, pirazinamida y moxioxacina",
+            "d. Isoniazida, rifampicina, uconazol, pirazinamida y estreptomicina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 199,
+        "question": "Ante un paciente con insuciencia cardíaca en clase funcional II - III, no deben prescribirse bloquenates beta, ya que los mismos son inotrópicos negativos y desencadenan empeoramiento del cuadro. Verdadero Falso Los gérmenes habituales en las ITU para las que usted piensa en tratamiento empírico inicial son:",
+        "options": [
+            "a. Gram negativos aerobios",
+            "b. Gram positivos anaerobios",
+            "c. Gram positivos aerobios",
+            "d. Gram negativos anaerobios"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 200,
+        "question": "Uno de los efectos adversos de los aminoglucósidos es:",
+        "options": [
+            "a. sangrado de encías",
+            "b. mucositis",
+            "c. diarreas",
+            "d. ototoxicidad"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 202,
+        "question": "Una paciente inmunosuprimida, con leucopenia, presenta neumonía basal derecha. ¿Cuál de los siguientes grupos de antibióticos no indicaría en función de su actividad bacteriostática?",
+        "options": [
+            "a. Macrólidos",
+            "b. Cefalosporinas",
+            "c. Aminoglucósidos",
+            "d. Carbapenemos"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 205,
+        "question": "¿Cuál de las siguientes es un efecto adverso frecuente de los bloqueantes cálcicos utilizados en el tratamiento dela hipertensión y/o insuciencia cardíaca y como antiaarítmicos?",
+        "options": [
+            "a. El principal efecto adverso de los bloqueantes cálcicos NO dihidropiridinicos es la taquicardia",
+            "b. El principal efecto adverso de los bloqueantes cálcicos NO dihidropiridinicos es el inotropismo positivo excesivo",
+            "c. El principal efecto adverso de los bloqueantes cálcicos tipo dihidropiridinicos es la bradicardia",
+            "d. El principal efecto adverso de los bloqueantes cálcicos tipo dihidropiridinicos es la taquicardia"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 207,
+        "question": "Según la Guía de Diagnóstico, Tratamiento y Prevención de la Tuberculosis del Ministerio de Salud de la Nación; en pacientes embarazadas, VIH positivos, alcohólicos, desnutridos, con enfermedad hepática crónica y/o falla renal, se aconseja prescribir piridoxina 25 mg/día para prevenir un efecto adverso inducido por un fármaco antituberculoso. ¿Cuál es ese fármaco?",
+        "options": [
+            "a. Etambutol",
+            "b. Rifampicina",
+            "c. Isoniazida",
+            "d. Pirazinamida"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 209,
+        "question": "Los agonistas beta 2 inhalados se utilizan en el tratamiento del asma. Señale cuál de estas armaciones es correcta con respecto a su perfil de reacciones adversas",
+        "options": [
+            "a. Temblor , taquicardia e hipopotasemia",
+            "b. Hiponatremia y trastornos de conducta",
+            "c. Molestias gástricas e hipercalcemia",
+            "d. Náuseas, vómitos, cefalea"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 210,
+        "question": "En un paciente jóven con neumonía leve pero que padece insuciencia renal, se decidió tratamiento con na droga que no tiene excreción principal a nivel renal ¿Cuál de los siguientes antimicrobianos se excreta principalmente por vía extrarrenal?",
+        "options": [
+            "a. Ampicilina / sulbactam",
+            "b. Amikacina",
+            "c. Vancomicina",
+            "d. Eritromicina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 211,
+        "question": "Marque la opción correcta acerca des beta bloqueantes",
+        "options": [
+            "a. Todas son correctas",
+            "b. El propanolol es un beta bloqueante no selectivo",
+            "c. El propanolol es un beta bloqueante selectivo de receptores beta 1",
+            "d. El propanolol es un beta bloqueante mixto alfa y beta"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 212,
+        "question": "Un paciente tratado con antituberculosos desarrolla un cuadro clínico compatible con neuritis óptica. ¿cuál es el fármaco que pudo haber dado este efecto adverso?",
+        "options": [
+            "a. Isoniazida",
+            "b. Pirazinamida",
+            "c. Rifampicina",
+            "d. Etambutol"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 213,
+        "question": "¿Cuál es la indicación para el uso correcto del aerosol de un beta 2 agonista como el salbutamol?",
+        "options": [
+            "a. coordinar disparo y aspiración, con aerosol dentro de la cavidad oral, en cualquier posición erecta del paciente",
+            "b. Mantener a distancia de la boca, coordinar disparo y aspiración, mantener luego boca cerrada unos segundos.",
+            "c. coordinar disparo y aspiración, con aerosol dentro de la cavidad oral, en posición sentado del paciente desee",
+            "d. coordinar disparo y aspiración, con aerosol dentro de la cavidad oral, en cualquier posición que el paciente desee",
+            "e. paciente en decubiro dosal, con aerosol fuera de la cavidad a unos 5 cm y coordinar disparo. Enjuagar luego por riesgo de mucositis por Candida."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 214,
+        "question": "Para un paciente adulto mayor, con insomnio de conciliación, que tiene antecedentes de caída y fractura de cadera, ¿cuál de las siguientes sería la mejor indicación ?",
+        "options": [
+            "a. Diazepam por ser de accion corta a larga",
+            "b. Melatonina por respetar el ciclo fisiológico y sin efectos adversos de rebote",
+            "c. alprazolam, porque no da rebote y mejora los sintomas depresivos",
+            "d. Midazolam por ser solo inductor del sueño"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 215,
+        "question": "La glibenclamida pertenece al grupo de los antidiabéticos que mas riesgo de producir hipoglucemia tiene, ya que estimula la secreción directa de insulina pancreática. Verdadero Falso EL tratamiento para una cistitis no complicada podría ser con:",
+        "options": [
+            "a. cefalexina, nitrofurantoína, ciprofloxacina",
+            "b. gentamicina, nitrofurantoína, cefalexina",
+            "c. levooxacina, nitrofurantoína, claritromicina",
+            "d. ciprofloxacina, vancomicina, nitrofurantoína"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 216,
+        "question": "Un paciente de 74 años, presenta disnea en CF IV, con miocardiopatía dilatada. Se encuentra recibiendo medicación múltiple para la insuciencia cardíaca ¿Cuál de los fármacos utilizados en el tratamiento de la insuciencia cardíaca aumenta la contractilidad cardíaca?",
+        "options": [
+            "a. Hidroclorotiazida",
+            "b. Diltiazem",
+            "c. Propanolol",
+            "d. Digoxina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 220,
+        "question": "En un paciente de 30 años que consulta por tos productiva, fiebre, disnea CF II y se sospecha de NAC la conducta sería:",
+        "options": [
+            "a. Internación e iniciar tratamiento empírico con betalactámicos EV",
+            "b. Se inicia tratamiento empírico con penicilina benzatínica porque es de amplio espectro y se espera resultados de cultivos para ajustar tratamiento",
+            "c. Se inicia tratamiento con betalactámicos por vía oral, antipiréticos, se solicita cultivo y antibiograma de esputo y posteriormente ajustar el tratamiento según resultados",
+            "d. Internación y realizar cultivo de esputo y esperar resultado para iniciar tratamiento"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 221,
+        "question": "Paciente con sospecha de NAC reere que es alérgico a los betalactámicos, marque la opción correcta:",
+        "options": [
+            "a. se inicia tratamiento empírico con Azitromicina hasta tener resultados de cultivos",
+            "b. se inicia tratamiento empírico con macrólidos y como son de amplio espectro no se solicitan cultivos",
+            "c. se debe internar e iniciar tratamiento con vancomicina EV",
+            "d. se debe internar e iniciar tratamiento con Ampicilina/Sulbactan por vía EV"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 222,
+        "question": "Todos los siguientes son inhibidores de las betalactamasas, excepto:",
+        "options": [
+            "a. Ácido clavulánico",
+            "b. Sulbactam",
+            "c. Tazobactam",
+            "d. Aztreonam"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 223,
+        "question": "Todos son mecanismos de resistencia de los B-lactámicos, excepto:",
+        "options": [
+            "a. producción de betalactamasas",
+            "b. alteración en el transporte, común en gram +",
+            "c. modicación del sitio de acción, común en los gram +",
+            "d. modicación del sitio de acción, común en gram –"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 224,
+        "question": "Marque la opción correcta con respecto a los efectos adversos de los Blactámicos",
+        "options": [
+            "a. convulsiones",
+            "b. temblores",
+            "c. diarrea",
+            "d. reacciones analácticas"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 225,
+        "question": "Paciente con neumonía que no puede recibir B-lactámicos, marque la correcta:",
+        "options": [
+            "a. todas son correctas",
+            "b. puede iniciar tratamiento empírico con lincosamina",
+            "c. puede iniciar tratamiento empírico con macrólidos",
+            "d. puede iniciar tratamiento empírico con quinolonas"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 226,
+        "question": "Con respecto a los factores de riesgo para NIH, marque la opción incorrecta:",
+        "options": [
+            "a. uso de antiácidos o bloqueantes H2",
+            "b. todas son correctas",
+            "c. depresión del sensorio",
+            "d. broncoaspiración"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 227,
+        "question": "En cuanto al tratamiento de las NIH, marque opción correcta:",
+        "options": [
+            "a. no importa si el paciente no presenta complicaciones, se debe iniciar Vancomicina para cubrir gérmenes intrahospitalarios",
+            "b. Todas son correctas",
+            "c. se debe esperar resultados de hemocultivos y cultivo de esputo para dar antibiótico especico",
+            "d. en pacientes añosos es más frecuente las neumonías aspirativas por lo que una opción terapeutica sería ampicilina-sulbactam + clindamicina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 228,
+        "question": "Elija la opción incorrecta con respecto a los B2 adrenérgicos",
+        "options": [
+            "a. como efecto adverso pueden presentar taquicardia, temblor, hipopotasemia",
+            "b. Indacaterol, salbutamol y terbutalina corresponden a fármacos de este grupo",
+            "c. existe la presentación oral para cuando no se puede hacer por vía inhalatoria",
+            "d. El salbutamol tiene acción más rápida por que actúa sobre receptores alfa también"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 229,
+        "question": "Marque la opción incorrecta con respecto a los corticoides inhalados:",
+        "options": [
+            "a. El tratamiento regular con corticoides inhalados mejora los síntomas, la función pulmonar y la calidad de vida y reduce las exacerbaciones de la EPOC en pacientes con una FEV1 < 60% del teórico normal",
+            "b. Los corticoides inhalados están asociados a un aumento del riesgo de neumonía",
+            "c. Los corticoides inhalados utilizados solos con mejores que asociados a Agonistas B2 de larga duración",
+            "d. Efectos colaterales: Disfonía, candidiasis oral, tos, neumonía, osteoporosis, hematomas cutáneos"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 230,
+        "question": "Marque la opción incorrecta con respecto al tratamiento de la EPOC:",
+        "options": [
+            "a. el tono colinérgico es mayor en la EPOC que en el ASMA",
+            "b. los anticolinérgicos bloquean competitivamente la acción de la acetilcolina sobre la musculatura lisa bronquial",
+            "c. el bromuro de ipratropio es una antagonista selectivo de Rc muscarínicos",
+            "d. el bromuro de tiotropio es un antagonista selectivo de Rc M1 y M3"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 231,
+        "question": "Marque la opción correcta con respecto al tratamiento de la EPOC",
+        "options": [
+            "a. Roumilast es un antiinamatorio oral que inhibe selectivamente la fosfodiesterasa 4",
+            "b. La aminofilina es un tratamiento de 3° línea",
+            "c. Un efecto adverso de los inhibidores de la fosfodiesterasa 4 es la pérdida de peso",
+            "d. todas son correctas"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 232,
+        "question": "Marque la opción correcta con respecto al tratamiento de la EPOC",
+        "options": [
+            "a. La cirugía reductora de volumen está indicado principalmente en la bronquitis crónica",
+            "b. Si responde bien a broncodilatadores con que fume menos de lo habitual ya es suficiente",
+            "c. todas son correctas",
+            "d. El Trasplante Pulmonar ha demostrado mejorar la calidad de vida y la capacidad funcional en pacientes con EPOC muy grave y seleccionados adecuadamente"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 235,
+        "question": "La farmacocinética de los medicamentos anti-tabaquicos es variada. La más utilizada es la transdermica con los Parches nicotínicos debido a que no poseen efectos adversos Verdadero Falso Las formas de presentación de la nicotina son:",
+        "options": [
+            "a. chicle",
+            "b. todas son correctas",
+            "c. spray",
+            "d. parches"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 239,
+        "question": "Indique la opción correcta con respecto a las neumonías de origen intrahospitalarias:",
+        "options": [
+            "a. No requiere internación",
+            "b. No hace falta aislar al gérmen",
+            "c. Se da como primera línea la Vancomicina",
+            "d. Siempre debe aislarse el gérmen"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 240,
+        "question": "Ud recibe en la consulta a un paciente que presenta disnea, sibilancias y reere ser asmático. ¿Cuál sería el fármaco indicado para su tratamiento?",
+        "options": [
+            "a. Montelukast",
+            "b. Formoterol",
+            "c. Salbutamol",
+            "d. Salmeterol"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 241,
+        "question": "Marque la opción incorrecta respecto de los GLUCOCORTICOIDES",
+        "options": [
+            "a. Elevan la transcripción de receptores B2 adrenérgicos.",
+            "b. A nivel molecular los glucocorticoides tienen acción sobre la transcripción de genes.",
+            "c. La duración de su efecto a nivel pulmonar es de 6-8hs.",
+            "d. No son de elección para el asma persistente leve del adulto."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 242,
+        "question": "Marque la opción correcta:",
+        "options": [
+            "a. Los leucotrienos participan activamente en los fenómenos de broncoconstricción, hiperreactividad bronquial, inltración inamatoria e hipersecreción bronquial.",
+            "b. Montelukast no es utilizado en el tratamiento del asma.",
+            "c. La mialgia es el principal efecto adverso de los fármacos antileucotrienos.",
+            "d. Zarlukast y Montelukast son agonistas especicos de los receptores cysLT1"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 244,
+        "question": "¿Cuál de estas drogas cubre gérmenes anaeróbicos en su espectro?",
+        "options": [
+            "a. Metronidazol.",
+            "b. Clindimicina.",
+            "c. Lincosamina",
+            "d. Todas son correctas.",
+            "e. Metronidazol y Clindimicina."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 245,
+        "question": "De las siguientes afirmaciones de carbamazepina, indique la incorrecta:",
+        "options": [
+            "a. Lenta absorción por vía oral",
+            "b. Extenso metabolismo hepático",
+            "c. Vida media plasmática mayor a 2 horas",
+            "d. Se puede administrar EV"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 246,
+        "question": "Paciente diabético tratado con sulfunilureas con buen control glucémico, comienza a empeorar las glucemias. ¿Cuál de las siguientes drogas puede disminuir la eficacia de las sulfunilureas?",
+        "options": [
+            "a. Hidroclorotiazida",
+            "b. Salicilatos",
+            "c. Alcohol",
+            "d. Probenecid",
+            "e. Fibratos"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 247,
+        "question": "Un paciente joven con HTA severa secundaria a estenosis renal bilateral comienza su tratamiento antihipertensivo. Al cuarto día se evidencia deterioro de la función renal. La droga que se administró probablemente fue:",
+        "options": [
+            "a. IECA",
+            "b. Betabloqueante",
+            "c. Diuretico tiazidico",
+            "d. Alfa bloqueante",
+            "e. Metil Dopa"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 248,
+        "question": "Señale la frase incorrecta respecto a los beta-lactámicos:",
+        "options": [
+            "a. La Fosfomicina se administra cada 24 hs, sin efecto para cocos Gram+ * (estafilococos)",
+            "b. La Vancomicina se administra parenteral, bloquea la 3ª fase de la transpeptidación y produce nefro y ototoxicidad.",
+            "c. La Penicilina G Potásica con Probenecid tiene una T-1/2 de hasta 24 hs y se administra por vía parenteral.",
+            "d. El Imipenem se administra oral con Sulbactam (IBL), para Cocos Gram negativos, y las dipeptidasas renales lo activan"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 249,
+        "question": "La eritromicina produce aumento de la motilidad gastrointestinal debido a que es agonista del receptor:",
+        "options": [
+            "a. Receptor de gastrina",
+            "b. Receptor del péptido intestinal vasoactivo",
+            "c. Receptor de motilina",
+            "d. Receptor muscarinico",
+            "e. Receptor opioide Mu"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 250,
+        "question": "Un paciente bajo tratamiento con drogas antiarrítmicas comienza con un cuadro simil LES. Una de estas drogas pudo haber sido la causante:",
+        "options": [
+            "a. Verapamilo",
+            "b. Diltiazem",
+            "c. Atenolol",
+            "d. Sotalol",
+            "e. Quinidina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 251,
+        "question": "Uno de los siguientes hipolipemiantes es seguro en el embarazo:",
+        "options": [
+            "a. Acido nicotínico",
+            "b. Lovastatina",
+            "c. Simvastatina",
+            "d. Colestiramina",
+            "e. Gemfibrozil"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 252,
+        "question": "De las siguientes afirmaciones de la morfina, indique la incorrecta:",
+        "options": [
+            "a. Tiene vida media de 2 horas",
+            "b. Tiene unión a proteínas menor al 90%",
+            "c. Tiene biodisponibilidad oral del 100%",
+            "d. Tiene extenso metabolismo hepático"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 253,
+        "question": "Un paciente es tratado por insuficiencia cardiaca y fibrilación auricular crónica con Digoxina. Se le agrega al tratamiento Furosemida y a la semana siguiente presenta síntomas de intoxicación digitálica. ¿Cuál es la explicación farmacodinámica de este evento?",
+        "options": [
+            "a. La furosemida aumenta la absorción de la digoxina por vía oral",
+            "b. La furosemida provoca hipokalemia y esta potencia la acción de la digoxina",
+            "c. La furosemida provoca hiponatremia y ésta potencia la acción de la digoxina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 254,
+        "question": "Sobre los Oligoaminosacáridos, marque la correcta.",
+        "options": [
+            "a. La Gentamicina difunde por porinas, se une a los polisomas aumentando la permeabilidad con fuga de iones y proteínas",
+            "b. Los aminoglucósidos por vía oral son de elección en meningitis. especialmente en embarazadas.",
+            "c. La Neomicina EV se utiliza para tratamiento de TBC.",
+            "d. La Amikacina y Kanamicina son hepatotóxicas independientemente de la dosis.",
+            "e. Ninguna de las respuestas es correcta."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 255,
+        "question": "Un paciente es tratado con heparina sódica y usted necesita revertir rápidamente su efecto para una cirugía de urgencia. ¿Qué droga aplicaría?",
+        "options": [
+            "a. Aprotinina",
+            "b. Vitamina K",
+            "c. Factor VII",
+            "d. PFC",
+            "e. Sulfato de Protamina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 256,
+        "question": "Respecto a las tetraciclinas:",
+        "options": [
+            "a. Las Tetraciclinas se unen a la subunidad 30S, con volumen selectivo de distribución por tejidos ricos en calcio.",
+            "b. El espectro de las Tetraciclinas incluye Mollicutes, Ricketzias, Clamydias, Brucella, Vibrion Cholerae y Treponema.",
+            "c. Las RRAA de las tetraciclinas incluyen el Síndrome de Fanconi, nefrotoxicidad, hepatotoxicidad y alteraciones óseas.",
+            "d. Las tetraciclinas interactúan con Ca, Aines, DPH y Barbitúricos.",
+            "e. Todas las respuestas son correctas"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 257,
+        "question": "Una de las afirmaciones sobre la furosemida es falsa:",
+        "options": [
+            "a. Inhibe la bomba Na/K/2Cl",
+            "b. Puede administrarse en insuficiencia renal",
+            "c. Posee efecto venodilatador",
+            "d. Disminuye la calciuria",
+            "e. Es una droga efectiva en el Edema Agudo de Pulmón Indique el mecanismo de acción de las Quinolonas.",
+            "a. Inhibición de las PBP",
+            "b. Inhibición de la subunidad menor ribosomal",
+            "c. Inhibición de la subunidad mayor ribosomal",
+            "d. Inhibición de la topoisomerasas",
+            "e. Formación de radicales libres de oxigeno"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 258,
+        "question": "Hablando de Cefalosporinas:",
+        "options": [
+            "a. La Cefuroxima es tratamiento de elección para pseudomonas aeruginosa.",
+            "b. La Cefalexina se administra vía Oral cada 6 hs con espectro parecido a la Amoxicilina pero más potente.",
+            "c. La Ceftriaxona se administra oral cada 4-6 hs para combatir el estafilococ.",
+            "d. El Cefotetán EV cada 4-6 hs sirve para infecciones en SNC por cocos Gram +.",
+            "e. Ninguna de las respuestas es correcta."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 259,
+        "question": "De las siguientes insulinas, una no posee pico sino que tiene un plateau de aproximadamente 24 hs.",
+        "options": [
+            "a. Insulina glardina",
+            "b. Insulina NPH",
+            "c. Insulina regular",
+            "d. Insulina lis-pro"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 260,
+        "question": "¿Con qué parámetro del laboratorio evalúa la acción del acenocumarol?",
+        "options": [
+            "a. RIN",
+            "b. KPTT",
+            "c. Actividad anti Xa",
+            "d. T. Protrombina",
+            "e. T. Sangría"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 261,
+        "question": "De las siguientes situaciones, indique la que NO aumenta el riesgo de desarrollar acidosis láctica por Metformina.",
+        "options": [
+            "a. Obesidad",
+            "b. IRC",
+            "c. EPOC",
+            "d. Shock cardiogénico",
+            "e. Insuficiencia hepática aguda"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 262,
+        "question": "Una de las siguientes drogas es un antiarritmico que puede prolongar el QTc.",
+        "options": [
+            "a. Bisoprolol",
+            "b. Verapamilo",
+            "c. Diltiazem",
+            "d. Amiodarona",
+            "e. Lidocaína"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 263,
+        "question": "Usted debe elegir una benzodiacepina de vida media corta y de rápido comienzo de acción para realizar un procedimiento invasivo. ¿Cuál de las siguientes utilizaría?",
+        "options": [
+            "a. Diazepam",
+            "b. Flunitrazepam",
+            "c. Midazolam",
+            "d. Temazepam",
+            "e. Alprazolam"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 264,
+        "question": "Un paciente consulta por astenia, detectándose como causa Anemia hemolítica. ¿Cuál de las siguientes drogas antihipertensivas podría haber producido este cuadro?",
+        "options": [
+            "a. Alfametildopa",
+            "b. Hidralazina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 265,
+        "question": "El clotrimoxazol (TMSM) no cubre:",
+        "options": [
+            "a. Pseudomona Aeruginosa",
+            "b. Estafilococos meticilino sensible",
+            "c. Haemophilus influenza",
+            "d. Pneumocyistis",
+            "e. Echericha colis"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 266,
+        "question": "Paciente de 70 años con ICC es internado por presentar potasio plasmático e 7 mEq/l y alteraciones en el ECG compatible con hiperkalemia. La combinación de drogas que probablemente le produjo esta complicación fue:",
+        "options": [
+            "a. Carvedilol – Amiodarona",
+            "b. Enalapril – Espironolactona",
+            "c. Enalapril – Furosemida",
+            "d. Carvedilol – Enalapril"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 267,
+        "question": "Un paciente diabético bajo tratamiento antihipertensivo con Enalapril agrega una segunda droga. Evidencia en su domicilio que empeoran sus controles glucémicos. Esta segunda droga debe haber sido:",
+        "options": [
+            "a. Atenolol",
+            "b. Hidroclortiazida",
+            "c. Valsartan",
+            "d. Ramipril",
+            "e. Hidroclortiazida o Valsartan."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 268,
+        "question": "Un paciente con una emergencia hipertensiva e IRC es tratado con una droga titulable en forma endovenosa continua. Al segundo día presenta un cuadro psiquiátrico con alucinaciones y delirio. Esta droga pudo haber sido:",
+        "options": [
+            "a. Nitroprusiato de sodio",
+            "b. Hidralazina",
+            "c. Labetalol",
+            "d. Nitroglicerina",
+            "e. Alfametildopa"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 269,
+        "question": "Un paciente bajo tratamiento con drogas cardiovasculares consulta por disnea progresiva. Se realiza TAC de tórax que muestra patrón de neumonitis intersticial / fibrosis pulmonar. ¿Qué droga pudo haber sido la causante del cuadro?",
+        "options": [
+            "a. Atorvastatina",
+            "b. Carvedilol",
+            "c. Enalapril",
+            "d. Amiodarona",
+            "e. Espironolactona"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 270,
+        "question": "De los siguientes mencionados, ¿cuál es el mecanismo más importante para generar resistencia a los betalactamicos?",
+        "options": [
+            "a. Enzimas adenilasas",
+            "b. Enzimas acetilasas",
+            "c. Mutación de las PBP",
+            "d. Mutación de los ribosomas",
+            "e. Eflujo"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 271,
+        "question": "¿Cuál de los siguientes efectos adversos NO esperaría de los Glucopeptidos?",
+        "options": [
+            "a. síndrome del cuello rojo",
+            "b. Síndrome de Fanconi",
+            "c. Acidosis tubular renal",
+            "d. Ototoxicidad",
+            "e. Reacciones de hipersensibilidad"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 272,
+        "question": "De los siguientes efectos adversos, indique el que no se asocia a los bifosfonatos.",
+        "options": [
+            "a. Hipocalcemia",
+            "b. Hipertensión arterial",
+            "c. Hipokalemia",
+            "d. Hipomagnesemia",
+            "e. Vómitos"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 273,
+        "question": "Un paciente bajo tratamiento por IC refiere haber comenzado con agrandamiento mamario. ¿Cuál de las siguientes drogas pudo haberlo producido?",
+        "options": [
+            "a. Espironolactona",
+            "b. Enalapril",
+            "c. Aspirina",
+            "d. Atorvastatina",
+            "e. Carvedilol"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 274,
+        "question": "Un paciente con celulitis por Staphylococcusaureus resistente a penicilina pero meticilino sensible. ¿Cuál de los siguientes betalactamicos sería de indicación?",
+        "options": [
+            "a. Penicilina G",
+            "b. Clindamicina",
+            "c. Ampicilina",
+            "d. Amixicilina",
+            "e. Cefalotina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 275,
+        "question": "Respecto a las Quinolonas, marque la opción correcta.",
+        "options": [
+            "a. Su espectro incluye Gram +, TBC, gran negativos",
+            "b. Su espectro incluye Pseudomonas, Anaerobios y estafilococos",
+            "c. Se puede administrar sin problemas en embarazadas o niños hasta 18 años",
+            "d. Sus RRAA importantes son hipotensión, náuseas, psicosis, síndrome de abstinencia.",
+            "e. No se deben utilizar en pacientes inmunodeprimidos, ni tiene efecto en infecciones respiratorias, óseas ni urinarias."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 276,
+        "question": "¿Cuál de las siguientes drogas antidepresivas tienen más riesgo de provocar prolongación del segmento QT?",
+        "options": [
+            "a. Paroxetina",
+            "b. Bupropión",
+            "c. Fluoxetina",
+            "d. Imipramina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 277,
+        "question": "Ingresa a sala de emergencias un paciente tratado con hipoglucemiantes orales, por mareos y sudoración. Se constata hipoglucemia sintomática. ¿Cuál de las siguientes drogas tiene más probabilidad de provocar este cuadro?",
+        "options": [
+            "a. Metformina",
+            "b. Glibenclamida",
+            "c. Rosiglitazona",
+            "d. Acarbosa",
+            "e. Pioglitazona"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 278,
+        "question": "De los siguientes efectos adversos, indique el que NO esperaría de la Difenilhidantoina:",
+        "options": [
+            "a. Arritmia si se administra en forma rápida.",
+            "b. Ataxia",
+            "c. Hiperplasia gingival",
+            "d. Anemia megaloblastica",
+            "e. Lupus producido por drogas."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 279,
+        "question": "En una de las siguientes patologías usted evitaría administrar un Betabloqueante:",
+        "options": [
+            "a. HTA",
+            "b. Angina crónica estable",
+            "c. Bradiarritmias",
+            "d. Fibrilación auricular de alta respuesta",
+            "e. Hipertiroidismo"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 280,
+        "question": "¿Cuál de los siguientes efectos adversos NO corresponde a la Clindamicina?",
+        "options": [
+            "a. Diarrea Pseudomembranosa",
+            "b. Bloqueo neuromuscular",
+            "c. Necrosis tubular aguda",
+            "d. Hipersensibilidad"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 281,
+        "question": "Un paciente añoso es tratado con una droga antihipertensiva. Es ingresado al hospital por un síndrome confusional, detectándose como causa hiponatremia de 120 mEq/l. ¿Qué droga pudo haber causado dicho cuadro?",
+        "options": [
+            "a. Amlodipina",
+            "b. Diltiazem",
+            "c. Prazosin",
+            "d. Ramipril",
+            "e. Hidroclortiazida"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 282,
+        "question": "Se presenta paciente con intoxicación por Opioides, ¿qué droga utilizaría para revertir el cuadro?",
+        "options": [
+            "a. Bicarbonato",
+            "b. Flumazenil",
+            "c. N-acetilcisteína",
+            "d. Naloxona"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 283,
+        "question": "No esperaría con efecto adverso de la Insulina:",
+        "options": [
+            "a. Hipoglucmia",
+            "b. Hiperkalemia",
+            "c. Lipoatrofia",
+            "d. Lipohipertrofia",
+            "e. Retención hidrosalina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 284,
+        "question": "Un paciente tratado por HTA consulta por mareos. El examen físico evidencia hipotensión y bradicardia. ¿Cuál de las siguientes drogas puede estar usando para su HTA?",
+        "options": [
+            "a. Atenolol",
+            "b. Amlodipina",
+            "c. Furosemida",
+            "d. Enalapril",
+            "e. Valsartan"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 285,
+        "question": "NO es una indicación para la administración de un beta bloqueante:",
+        "options": [
+            "a. Cardiopatía isquémica",
+            "b. Enfermedad de Raynaud",
+            "c. Control de frecuencia en la FA",
+            "d. HTA",
+            "e. Profilaxis de resangrado de varices esofágicas"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 286,
+        "question": "Una de las siguientes No es una característica farmacocinética de las Estatinas",
+        "options": [
+            "a. Escasa unión a proteínas",
+            "b. Administración por vía oral",
+            "c. Metabolismo hepático",
+            "d. Vida media entre 2 a 10 hs"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 287,
+        "question": "¿Cuál de los siguientes es el efecto adverso más frecuente de la acarbosa?",
+        "options": [
+            "a. Nefrotoxicidad",
+            "b. Distensión abdominal",
+            "c. Hepatotoxicidad",
+            "d. Miositis",
+            "e. Leucopenia"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 288,
+        "question": "Cuál de los siguientes opioides tiene más potencia?",
+        "options": [
+            "a. Morfina",
+            "b. Codeina",
+            "c. Naloxona",
+            "d. Buprenorfina",
+            "e. Fentanilo"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 289,
+        "question": "Una de las siguientes afirmaciones sobre la digoxina es incorrecta:",
+        "options": [
+            "a. Puede administrase por vía oral y endovenosa",
+            "b. Su vida media es de 24 – 36 hs",
+            "c. Genera en el ECG la cubeta digitálica",
+            "d. Puede provocar bloqueo AV",
+            "e. Es una droga segura en la insuficiencia renal"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 290,
+        "question": "Entre las siguientes afirmaciones sobre los aminoglucosidos, indique la incorrecta:",
+        "options": [
+            "a. Tiene semivida plasmática menores a 5 horas",
+            "b. Tiene eliminación renal como droga inalterada",
+            "c. Tiene unión a proteínas menor al 80%",
+            "d. Puede administrarse vía endovenosa o intramuscular.",
+            "e. Tiene buena biodisponibilidad desde el tracto gastrointestinal era corregida 100 por 100"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 291,
+        "question": "Paciente femenina de 30 años a la que se le diagnostica hipertensión arterial porMAPA (148/95 mmHg). Su madre tiene 70 años, con diabetes tipo 2 ydislipidemia. Sin otro antecedente de relevancia. Altura: 1,65 m; Peso corporal: 77kg. Perímetro abdominal: 80 cm. Ciclos menstruales regulares, no usa métodosanticonceptivos. Resto del examen físico sin particularidades. ¿Cuál sería laopción mas correcta para el tratamiento de su hipertensión arterial?",
+        "options": [
+            "a. Solicita más estudios para descartar hipertensión secundaria.",
+            "b. Comienza con dosis escalonadas de nebivolol, medidas no farmacológicas y control al mes.",
+            "c. Indica solo tratamiento no farmacológico y cita al año para control.",
+            "d. Comenzar con dosis bajas de un antagonista del receptor AT1 de angiotensina y medidas no farmacológicas. Control al mes y eventual reajuste de dosis.",
+            "e. Comenzar con dosis bajas de un inhibidor del sistema renina angiotensina y medidas no farmacológicas. Control al mes y eventual reajuste de dosis"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 292,
+        "question": "¿Cuál de las siguientes circunstancias NO condiciona un incremento del riesgode toxicidad renal por aminoglucósidos?",
+        "options": [
+            "a. Uso simultáneo de AINEs",
+            "b. Uso simultáneo de vancomicina",
+            "c. Uso simultáneo de fluoxetina",
+            "d. Hipovolemia",
+            "e. Uso simultáneo de furosemida"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 293,
+        "question": "El tratamiento para la intoxicación aguda de paracetamol consiste en:",
+        "options": [
+            "a. Incrementar la ingesta de agua",
+            "b. Incrementar la diuresis",
+            "c. Administrar ácido acetil-salicílico",
+            "d. Alcalinizar la orina",
+            "e. Administrar N-Acetilcisteína (grupos sulfhidrilos)"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 294,
+        "question": "Paciente masculino con diagnóstico de enfermedad Bipolar que recibetratamiento . Concurre a la Guardia por presentar fatiga, cansancio muscular,incoordinación, diarrea, vómitos. Estos síntomas se debe a que fármaco.",
+        "options": [
+            "a. infeccion viral",
+            "b. Pródromo de intoxicación por litio",
+            "c. Litemia en rango menor de 0,3 meq/l",
+            "d. El litio no presenta efectos adversos",
+            "e. Efecto adverso de Carbamecepina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 295,
+        "question": "¿Cuál de las siguientes acciones de las benzodiacepinas no presentatolerancia?",
+        "options": [
+            "a. Miorrelajante",
+            "b. Hipnótico",
+            "c. Anticonvulsivante",
+            "d. Sedante",
+            "e. Ansiolìtica"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 296,
+        "question": "¿Cuál es el mecanismo de acción del fármaco que seleccionó en la preguntaanterior?",
+        "options": [
+            "a. Inhibe la síntesis de proteína por inhibición de la transpeptidación",
+            "b. Inhibe la ADN girasa",
+            "c. Formación de radicales libres a bajo potencial redox",
+            "d. Inhibe la síntesis de proteína por inhibición de la iniciación",
+            "e. Inhibe la síntesis de proteína por inhibición de la translocación"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 297,
+        "question": "Paciente alérgico a la penicilina ¿cuál de los siguientes antibióticos indicaría?",
+        "options": [
+            "a. Penicilina Benzatínica",
+            "b. fenoximetilpenicilina",
+            "c. Vancomicina",
+            "d. Ampicilina",
+            "e. Aztreonan"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 298,
+        "question": "¿Cuál de los siguientes fármacos ejerce su efecto laxante estimulando lamucosa colónica?",
+        "options": [
+            "a. Sorbitol",
+            "b. Bisacodilo",
+            "c. Vaselina líquida",
+            "d. Docusato sódico",
+            "e. Lactulosa"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 299,
+        "question": "El mecanismo de acción de la Carbamacepina es:",
+        "options": [
+            "a. Estimula receptores de Adenosina",
+            "b. Bloq. canales Na+ VD (prolonga inactivación) evitando la activación repetitiva",
+            "c. inhibe el receptor GABA A",
+            "d. Bloquea canales de K",
+            "e. mecanismo intranuclear"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 300,
+        "question": "¿A qué grupo de fármacos antiarritmicos pertenece la Propafenona?",
+        "options": [
+            "a. II",
+            "b. IV",
+            "c. III",
+            "d. · Ib",
+            "e. Ic"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 301,
+        "question": "¿Cuál de los siguientes agonistas b2 es de acción prolongada para el asma?",
+        "options": [
+            "a. Fenoterol",
+            "b. Formoterol",
+            "c. Salbutamol",
+            "d. Ipatropio",
+            "e. Terbutalina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 302,
+        "question": "¿Cuál es el fármaco de elección ante un paciente con hipertensión arterial resistente?",
+        "options": [
+            "a. Clonidina",
+            "b. betabloqueante",
+            "c. Antagonista del receptor de mineralocorticoide",
+            "d. Hidralazina",
+            "e. alfabloqueante"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 303,
+        "question": "¿Cuál de las siguientes características corresponde a la hipertermia maligna?",
+        "options": [
+            "a. Es producido por un agente pirógeno que actúa a nivel hipotalámico",
+            "b. Se acompaña de alcalosis metabólica",
+            "c. La clave del tratamiento es bajar la temperatura por medios físicos incorrecto",
+            "d. Se produce por la asociación entre un anestésico local más un relajante muscular",
+            "e. Presenta un componente genético"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 304,
+        "question": "Farmacología digestiva: ¿Cuál de los siguientes fármacos es antagonista D2 yagonista 5-HT4?",
+        "options": [
+            "a. Cisapride",
+            "b. Domperidona",
+            "c. Metoclopramida",
+            "d. Ondansetrón",
+            "e. Pergolida"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 305,
+        "question": "¿Cuál de los siguientes antiarritmicos puede ocasionar desordenes tiroideoscomo efecto adverso?",
+        "options": [
+            "a. Amiodarona",
+            "b. Propafenona",
+            "c. Adenosina",
+            "d. Procainamida",
+            "e. Flecainida"
+        ],
+        "answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": 306,
+        "question": "¿Cuál de las siguientes produce mayor elevación del colesterol HDL?",
+        "options": [
+            "a. Ácido nicotínico",
+            "b. Estatinas",
+            "c. Ezetimibe",
+            "d. Fibratos",
+            "e. Resinas de intercambio"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 307,
+        "question": "¿Cuál es el anti-hipertensivo de elección en una mujer de 60 años, asmática, concrisis de gota, PAS:148 mmHg y PAD: 96 mmHg, y estenosis de arteria renalsobre riñón único?",
+        "options": [
+            "a. Antagonista del receptor de la Ang II",
+            "b. Betabloqueante",
+            "c. Diurético",
+            "d. Calcioantagonista",
+            "e. Inhibidor de la ECA"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 308,
+        "question": "¿Cuál de los siguientes antipsicóticos es atípico?",
+        "options": [
+            "a. Risperidona",
+            "b. Sulpirida",
+            "c. Levomepromazina",
+            "d. Clorpromazina",
+            "e. Flufenazina"
+        ],
+        "answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": 309,
+        "question": "Teniendo en cuenta la clasi{cación clínica de los antipsicóticos indique cuál delos siguientes fármacos es un antipsicóticos incisivo:",
+        "options": [
+            "a. Amitriptilina",
+            "b. Haloperidol",
+            "c. Clorpromazina",
+            "d. Levomepromazina",
+            "e. Tioridazida"
+        ],
+        "answer": "B",
+        "explanation": ""
+    },
+    {
+        "id": 310,
+        "question": "¿Cuál de las opciones NO corresponde a un efecto adverso de lastiazolidinedionas?",
+        "options": [
+            "a. Aumento del riesgo de infarto de miocardio con rosiglitazona",
+            "b. Retención de |uídos",
+            "c. Cefalea",
+            "d. Aumento de la hemoglobina",
+            "e. Incremento del riesgo de fracturas en mujeres"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 311,
+        "question": "Señale la opción respecto al mecanismo de acción de las metilxantinas(teo{lina):",
+        "options": [
+            "a. Inhibe la transcripción de genes",
+            "b. Aumenta la expresión de receptores b",
+            "c. Estimula receptores b",
+            "d. Bloqueo muscarínico M",
+            "e. Bloqueo receptores A"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 312,
+        "question": "Señale el mecanismo de acción del sucralfato:",
+        "options": [
+            "a. Bloquea el receptor H",
+            "b. Es un antiácido",
+            "c. Inhibe irreversiblemente a la bomba H /K ATPasa",
+            "d. Es un protector de la mucosa gástrica",
+            "e. Es un laxante de tipo osmótico"
+        ],
+        "answer": "D",
+        "explanation": ""
+    },
+    {
+        "id": 313,
+        "question": "Paciente de 67 años con antecedentes de hipertensión arterial, dislipemia,diabetes e insu{ciencia cardíaca comienza con alteraciones visuales (visiónborrosa, visión con halos blancos y discromatopsias). ¿Cuál de los siguientesfármacos podría ser el causante de dichos efectos?",
+        "options": [
+            "a. Hidralazina",
+            "b. Milrinona",
+            "c. Digoxina",
+            "d. Levosimendan",
+            "e. Amlodipina"
+        ],
+        "answer": "C",
+        "explanation": ""
+    },
+    {
+        "id": 314,
+        "question": "¿Cuál de los siguientes fármacos NO ha demostrado disminuir la mortalidad en la insuficiencia cardíaca?",
+        "options": [
+            "a. Enalapril",
+            "b. Espironolactona",
+            "c. Digoxina",
+            "d. Metoprolol",
+            "e. Carvedilol El alopurinol tiene los siguientes efectos adverso EXCEPTO:",
+            "a. Hipersensibilidad",
+            "b. Leucopenia",
+            "c. Trombocitopenia",
+            "d. Amenorrea",
+            "e. Intolerancia gástrica"
+        ],
+        "answer": "I",
+        "explanation": ""
+    },
+    {
+        "id": 315,
+        "question": "¿Cuál de los siguientes fármacos utilizados para el asma, NO produce broncodilatación?",
+        "options": [
+            "a. Teo{linas",
+            "b. Agonistas b2",
+            "c. Glucocorticoides",
+            "d. Antimuscarínicos",
+            "e. Teo{linas y glucocorticoides"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 316,
+        "question": "Marque cuál de las cefalosporina de tercera generación tiene espectroampliado y es antipseudomona.",
+        "options": [
+            "a. Ceftacidima",
+            "b. Cefuroxima",
+            "c. Cefalexina",
+            "d. Cefaclor",
+            "e. cefamandol"
+        ],
+        "answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": 317,
+        "question": "¿Cuál de los siguientes fármacos tiene propiedades antidepresivas y esindicado para pacientes depresivos con insomnio porque no altera laarquitectura del sueño?.",
+        "options": [
+            "a. Trazodona",
+            "b. Bupropion",
+            "c. Difenhidramina",
+            "d. Amitriptilina",
+            "e. Benzodiacepina"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 318,
+        "question": "Señale cuál de las siguientes opciones corresponde al mecanismo por cual losbetabloqueantes de no selectivos empeoran la sensibilidad a la insulina:",
+        "options": [
+            "a. Disminuye la captación muscular de glucosa",
+            "b. Estimulan la AMPkinasa hepática y muscular",
+            "c. Aumenta la expresión génica de enzimas lipogénicas",
+            "d. Disminuyen la oxidación de ácidos grasos",
+            "e. Estimulan la glucogenogenesis"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 319,
+        "question": "¿Qué antibiótico se asocia a toxicidad hematológica (anemia aplásica)?",
+        "options": [
+            "a. Tetraciclina",
+            "b. Levo|oxacina",
+            "c. Estreptomicina",
+            "d. Clindamicina",
+            "e. Cloranfenicol"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 320,
+        "question": "¿Cuál de los siguientes fármacos produce quelación de otros medicamentos, impidiendo su absorción de forma significativa?",
+        "options": [
+            "a. Ranitidina",
+            "b. Sucralfato",
+            "c. Misoprostol",
+            "d. Omeprazol",
+            "e. Metoclopramida"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 321,
+        "question": "Señale la opción correcta respecto a los anticoagulantes orales (ACO):",
+        "options": [
+            "a. Su eficacia no depende de la dosis inicial sino de la vida media de los factores K dependientes",
+            "b. Inhiben la glutamil-carboxilasa gamma",
+            "c. Su eficacia se monitorea con el KPTT",
+            "d. Se necesitan 72 horas para lograr una anticoagulación eficaz",
+            "e. Presentan baja unión a proteínas"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 322,
+        "question": "En pacientes adultos mayores ¿cuál de los siguientes fármacos antidepresivos utilizaría en un adulto mayor con depresión ?",
+        "options": [
+            "a. Antidepresivos triciclicos",
+            "b. No están indicados los antidepresivos",
+            "c. IRSS",
+            "d. Bupropion",
+            "e. IMAO"
+        ],
+        "answer": "C",
+        "explanation": ""
+    },
+    {
+        "id": 323,
+        "question": "¿Cuál de las siguientes circunstancias NO aumenta el riesgo de intoxicacióndigitálica?",
+        "options": [
+            "a. Hipopotasemia",
+            "b. Hipercalcemia",
+            "c. Insu{ciencia respiratoria",
+            "d. Hipomagnesemia",
+            "e. Hipertiroidismo"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 324,
+        "question": "¿Cuál de los siguientes Fármacos presenta Efecto tiramínico ?",
+        "options": [
+            "a. velanfaxina",
+            "b. IMAO",
+            "c. amitriptilina",
+            "d. Risperidona",
+            "e. imipramina"
+        ],
+        "answer": "B",
+        "explanation": ""
+    },
+    {
+        "id": 325,
+        "question": "Señale la opción INCORRECTA respecto a la pirazinamida:",
+        "options": [
+            "a. Se activa en medio ácido",
+            "b. Posee efecto bacteriostático",
+            "c. Es un análogo de nicotinamida",
+            "d. Puede producir hepatotoxicidad",
+            "e. Inter{ere con la síntesis de ácido micólico"
+        ],
+        "answer": "B",
+        "explanation": ""
+    },
+    {
+        "id": 326,
+        "question": "Cuál de los siguientes fármacos para el tratamiento de los trastornos ácido-sensitivos debe administrarse con precaución, por su potencial abortivo en las mujeres fértiles?",
+        "options": [
+            "a. Ranitidina",
+            "b. Misoprostol",
+            "c. Lansoprazol",
+            "d. Hidróxido de aluminio",
+            "e. Hidróxido de magnesio"
+        ],
+        "answer": "B",
+        "explanation": ""
+    },
+    {
+        "id": 327,
+        "question": "Señale la respuesta FALSA sobre las heparinas de bajo peso molecular:",
+        "options": [
+            "a. Es preciso monitorizar sus efectos en la mayoría de los pacientes",
+            "b. Todas se eliminan por riñón",
+            "c. Producen trombocitopenia con menor frecuencia que la heparina no fraccionada",
+            "d. Su biodisponibilidad es superior a la heparina no fraccionada",
+            "e. Algunas son compuestos obtenidos a partir de la heparina no fraccionada."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 328,
+        "question": "¿Cuál de los siguientes fármacos sería el más indicado para tratar unahipertrigliceridemia?",
+        "options": [
+            "a. Atorvastatina",
+            "b. Inhibidor de la PCSK9",
+            "c. Rosuvastatina",
+            "d. Fenofibrato",
+            "e. Ezetimibe"
+        ],
+        "answer": "D",
+        "explanation": ""
+    },
+    {
+        "id": 329,
+        "question": "¿Cuál de los siguientes fármacos es un inhibidor altamente selectivo de la COX-2?",
+        "options": [
+            "a. Indometacina",
+            "b. Ibuprofeno",
+            "c. Piroxicam",
+            "d. Celecoxib",
+            "e. Meloxicam"
+        ],
+        "answer": "D",
+        "explanation": ""
+    },
+    {
+        "id": 330,
+        "question": "Cuál de los siguientes fármacos es utilizado como antiepiléptico y antirrecurrencial:",
+        "options": [
+            "a. Risperidona",
+            "b. Haloperidol",
+            "c. Acido Valproico",
+            "d. olanzapina",
+            "e. Litio"
+        ],
+        "answer": "C",
+        "explanation": ""
+    },
+    {
+        "id": 331,
+        "question": "¿Cuál de los siguientes es el mecanismo de acción del tiro{ban?",
+        "options": [
+            "a. Antagonista del receptor GP IIb-IIIa",
+            "b. Agonista del receptor de TXA2 (tromboxano A2)",
+            "c. Bloquea el receptor P2Y12",
+            "d. Aumenta los niveles de AMPc",
+            "e. Bloquea el receptor beta3"
+        ],
+        "answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": 332,
+        "question": "Marque la respuesta incorrecta sobre los Triptanos :",
+        "options": [
+            "a. Fármacos no efectivos para el tratamiento agudo de la migraña.",
+            "b. Los triptanos no producen síndrome serotoninérgico.",
+            "c. El Sumatriptán tiene como efecto adverso más frecuente el gusto amargo",
+            "d. Los triptanos no están indicados en pacientes con cardiopatías",
+            "e. Los triptanos actúan de manera recíproca y potente con los receptores 5-HT1B y 5- HT1D."
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 333,
+        "question": "Mujer de 49 años con HTA nivel II, menopáusica desde hace 3. Poseeantecedentes de migraña desde los 20 años y asma desde los 41 años. ¿Cuál delos siguientes fármacos NO estaría indicado en el tratamiento de su HTA?",
+        "options": [
+            "a. Betabloqueantes de segunda generación",
+            "b. Antagonistas cálcicos",
+            "c. Diuréticos",
+            "d. IECA",
+            "e. Prazosín"
+        ],
+        "answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": 334,
+        "question": "A nivel uterino, los AINES provocan (elija la opción correcta):",
+        "options": [
+            "a. Aumento de la motilidad uterina (Aceleran el trabajo de parto)",
+            "b. Carecen de efectos sobre el útero grávido",
+            "c. Disminución de la motilidad uterina (Retrasan el trabajo de parto)",
+            "d. Disminuyen el riesgo de sangrado uterino durante el parto",
+            "e. Aumenta el riesgo de cáncer de útero"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 335,
+        "question": "Marque la a{rmación correcta sobre la Penicilina G (bencilpenicilina) :",
+        "options": [
+            "a. Tiene espectro reducido",
+            "b. Inhibe la síntesis proteica uniéndose a la subunidad 40 s",
+            "c. No presenta efectos adversos",
+            "d. Tiene espectro antipseudomona.",
+            "e. Se indica por vía oral solamente"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 336,
+        "question": "¿Cuál de las siguientes opciones NO se corresponde con un efecto de los diuréticos tiazídicos?",
+        "options": [
+            "a. Intolerancia a hidratos de carbono",
+            "b. Hipercalcemia",
+            "c. Dislipemia secundaria",
+            "d. Vasodilatación",
+            "e. Bradicardia"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 337,
+        "question": "Cuál de las siguientes combinaciones de inhibidores nucleósídicos de la retrotranscriptasa NO está indicado?",
+        "options": [
+            "a. Didanosina-Zidovudina",
+            "b. Abacavir-Didanosina",
+            "c. Lamivudina-Zidovudina",
+            "d. Estavudina-Zidovudina",
+            "e. Lamivudina-Estavudina"
+        ],
+        "answer": "D",
+        "explanation": ""
+    },
+    {
+        "id": 338,
+        "question": "¿Cuál de los siguientes fármacos produce alcalosis metabólica?",
+        "options": [
+            "a. Diuréticos ahorradores de potasio",
+            "b. Diuréticos de asa",
+            "c. Antagonistas del receptor de angiotensina II",
+            "d. AINEs",
+            "e. IECAs"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    },
+    {
+        "id": 339,
+        "question": "¿Cuál de las siguientes combinaciones forma el trípode en el que asienta eltratamiento farmacológico que demuestra mayor bene{cio en la sobrevida depacientes con insu{ciencia cardíaca crónica?",
+        "options": [
+            "a. diuréticos, antagonistas cálcicos, antialdosterónicos",
+            "b. betabloqueantes, antagonistas cálcicos, IECA",
+            "c. betabloqueantes, inhibidor del sistema renina angiotensina, antialdosterónicos",
+            "d. inhibidor del sistema renina angiotensina, antagonista cálcico, antialdosterónicos",
+            "e. betabloqueantes, diuréticos, antagonistas cálcicos"
+        ],
+        "answer": "A",
+        "explanation": "Warning: The PDF did not specify the correct answer for this question."
+    }
+]
