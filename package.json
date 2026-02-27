@@ -1,0 +1,24 @@
+{
+  "name": "studyplat",
+  "version": "1.0.0",
+  "main": "check_duplicates.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sn0wfly/studyplat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sn0wfly/studyplat/issues"
+  },
+  "homepage": "https://github.com/Sn0wfly/studyplat#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "dotenv": "^17.3.1"
+  }
+}

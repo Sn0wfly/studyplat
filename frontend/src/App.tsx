@@ -275,6 +275,7 @@ export default function App() {
               animate="center"
               exit="exit"
               transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
+              style={{ willChange: "transform, opacity, filter", transform: "translateZ(0)" }}
               className="w-full flex flex-col gap-6 lg:gap-8"
             >
               {/* Question */}
