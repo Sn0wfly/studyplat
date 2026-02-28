@@ -4,13 +4,23 @@ import { ChevronRight, ChevronLeft, Info, Activity, RefreshCcw, LayoutDashboard,
 import clsx from 'clsx';
 import questionsData from './questions.json';
 import LoginPage from './LoginPage';
+import SubjectSelector from './SubjectSelector';
+import SubjectNavbar from './SubjectNavbar';
+import AmbossQuiz from './AmbossQuiz';
+import type { Subject } from './types';
+
+type View = 'selector' | 'terapeutica' | 'amboss';
 
 export default function App() {
   const [authenticated, setAuthenticated] = useState(false);
   const [username, setUsername] = useState<string | null>(null);
   const [userPassword, setUserPassword] = useState<string | null>(null);
 
-  // Progress tracking
+  // Navigation
+  const [currentView, setCurrentView] = useState<View>('selector');
+  const [currentSubject, setCurrentSubject] = useState<Subject | null>(null);
+
+  // Progress tracking (terapéutica)
   const [correctIds, setCorrectIds] = useState<number[]>([]);
   const [incorrectIds, setIncorrectIds] = useState<number[]>([]);
 
@@ -36,7 +46,6 @@ export default function App() {
     if (activeQuestions.length > 0 && currentIndex >= activeQuestions.length) {
       setCurrentIndex(0);
     } else if (activeQuestions.length === 0 && currentIndex !== 0) {
-      // If there are no active questions, reset index to 0
       setCurrentIndex(0);
     }
   }, [activeQuestions.length, currentIndex, mode, sessionCorrectIds, sessionIncorrectIds]);
@@ -53,7 +62,6 @@ export default function App() {
         setIncorrectIds(initialData.incorrect || []);
         setSessionCorrectIds(initialData.correct || []);
         setSessionIncorrectIds(initialData.incorrect || []);
-        // sync to local just in case
         localStorage.setItem(`studyplat_${user}`, JSON.stringify(initialData));
       } else {
         const saved = localStorage.getItem(`studyplat_${user}`);
@@ -70,9 +78,47 @@ export default function App() {
     }} />;
   }
 
+  // Subject Selector
+  if (currentView === 'selector') {
+    return (
+      <SubjectSelector
+        username={username}
+        onSelectTerapeutica={() => {
+          setCurrentView('terapeutica');
+          setShowDashboard(false);
+          setCurrentIndex(0);
+          setSelectedLetter(null);
+          setShowExplanation(false);
+        }}
+        onSelectAmboss={(subject) => {
+          setCurrentSubject(subject);
+          setCurrentView('amboss');
+        }}
+        onLogout={() => {
+          setAuthenticated(false);
+          setUsername(null);
+          setUserPassword(null);
+        }}
+      />
+    );
+  }
+
+  // AMBOSS Quiz
+  if (currentView === 'amboss' && currentSubject) {
+    return (
+      <AmbossQuiz
+        subject={currentSubject}
+        username={username}
+        userPassword={userPassword}
+        onBack={() => setCurrentView('selector')}
+      />
+    );
+  }
+
+  // ─── Terapéutica Clínica Quiz (original code, unchanged) ───
+
   const currentQ = activeQuestions[currentIndex];
 
-  // Helper method to save securely
   const saveProgressRemote = async (correct: number[], incorrect: number[]) => {
     fetch('/api/save-progress', {
       method: 'POST',
@@ -85,9 +131,8 @@ export default function App() {
     if (selectedLetter !== null) return;
     const letter = String.fromCharCode(65 + index);
     setSelectedLetter(letter);
-    setTimeout(() => setShowExplanation(true), 400); // Stagger explanation
+    setTimeout(() => setShowExplanation(true), 400);
 
-    // Track Progress
     const isCorrect = currentQ.answer === letter;
     let newC = [...correctIds];
     let newI = [...incorrectIds];
@@ -133,6 +178,7 @@ export default function App() {
 
   if (!currentQ) return (
     <div className="min-h-screen bg-mesh flex items-center justify-center flex-col gap-4">
+      <SubjectNavbar subjectName="Terapéutica Clínica" onBack={() => setCurrentView('selector')} />
       <Activity className="animate-spin text-primary/40" size={32} />
       {mode === 'incorrect' && activeQuestions.length === 0 && (
         <p className="text-primary/60 font-mono text-sm tracking-wider">No incorrect questions to review! Great job!</p>
@@ -146,6 +192,7 @@ export default function App() {
   if (showDashboard) {
     return (
       <div className="min-h-screen bg-mesh flex flex-col items-center justify-center p-4 sm:p-6 relative overflow-hidden">
+        <SubjectNavbar subjectName="Terapéutica Clínica" onBack={() => setCurrentView('selector')} />
         <div className="glass-card max-w-lg w-full p-8 flex flex-col gap-6 text-center relative z-10">
           <h2 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-br from-white to-white/40">
             {username}'s Progress
@@ -220,6 +267,7 @@ export default function App() {
 
   return (
     <div className="min-h-[100dvh] sm:max-h-screen bg-mesh flex flex-col items-center justify-between px-4 py-6 sm:p-4 relative overflow-x-hidden sm:overflow-hidden">
+      <SubjectNavbar subjectName="Terapéutica Clínica" onBack={() => setCurrentView('selector')} />
 
       {/* Avant-Garde Progress Indicator */}
       <div className="fixed top-0 left-0 w-full h-1 bg-border/20 z-50">
@@ -235,7 +283,7 @@ export default function App() {
       <div className="fixed top-1/4 left-1/4 w-96 h-96 bg-primary/5 rounded-full blur-[120px] pointer-events-none mix-blend-screen" />
       <div className="fixed bottom-1/4 right-1/4 w-[30rem] h-[30rem] bg-accent-green/5 rounded-full blur-[150px] pointer-events-none mix-blend-screen" />
 
-      <main className="w-full max-w-3xl relative z-10 flex flex-col flex-1 justify-between gap-4 py-2">
+      <main className="w-full max-w-3xl relative z-10 flex flex-col flex-1 justify-between gap-4 py-2 mt-6">
 
         {/* Header Suite */}
         <header className="flex justify-between items-end border-b border-border/50 pb-4 shrink-0">

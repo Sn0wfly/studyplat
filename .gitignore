@@ -15,3 +15,8 @@ venv/
 .env/
 .venv/
 *.log
+
+# Large assets
+images/
+output/
+frontend/public/images/

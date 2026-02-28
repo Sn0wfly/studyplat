@@ -1,0 +1,422 @@
+[
+  {
+    "id": "aging",
+    "name": "Envejecimiento",
+    "file": "amboss_aging.json",
+    "count": 36
+  },
+  {
+    "id": "allergy_and_immunology",
+    "name": "Alergia e Inmunología",
+    "file": "amboss_allergy_and_immunology.json",
+    "count": 363
+  },
+  {
+    "id": "anatomy",
+    "name": "Anatomía",
+    "file": "amboss_anatomy.json",
+    "count": 168
+  },
+  {
+    "id": "anesthesiology",
+    "name": "Anestesiología",
+    "file": "amboss_anesthesiology.json",
+    "count": 66
+  },
+  {
+    "id": "behavioral_sciences",
+    "name": "Ciencias de la Conducta",
+    "file": "amboss_behavioral_sciences.json",
+    "count": 171
+  },
+  {
+    "id": "biochemistry",
+    "name": "Bioquímica",
+    "file": "amboss_biochemistry.json",
+    "count": 92
+  },
+  {
+    "id": "care_of_the_well_patient",
+    "name": "Medicina Preventiva",
+    "file": "amboss_care_of_the_well_patient.json",
+    "count": 64
+  },
+  {
+    "id": "child_and_adolescent_psychiatry",
+    "name": "Psiquiatría Infantil y del Adolescente",
+    "file": "amboss_child_and_adolescent_psychiatry.json",
+    "count": 80
+  },
+  {
+    "id": "clinical_pathology_and_laboratory_medicine",
+    "name": "Laboratorio Clínico",
+    "file": "amboss_clinical_pathology_and_laboratory_medicine.json",
+    "count": 679
+  },
+  {
+    "id": "clinical_pharmacology",
+    "name": "Farmacología Clínica",
+    "file": "amboss_clinical_pharmacology.json",
+    "count": 714
+  },
+  {
+    "id": "critical_care",
+    "name": "Cuidados Intensivos",
+    "file": "amboss_critical_care.json",
+    "count": 164
+  },
+  {
+    "id": "dermatology",
+    "name": "Dermatología",
+    "file": "amboss_dermatology.json",
+    "count": 387
+  },
+  {
+    "id": "embryology",
+    "name": "Embriología",
+    "file": "amboss_embryology.json",
+    "count": 26
+  },
+  {
+    "id": "emergency_medicine",
+    "name": "Emergentología",
+    "file": "amboss_emergency_medicine.json",
+    "count": 683
+  },
+  {
+    "id": "environmental_exposure",
+    "name": "Medicina Ambiental",
+    "file": "amboss_environmental_exposure.json",
+    "count": 45
+  },
+  {
+    "id": "epidemiology_and_biostatistics",
+    "name": "Epidemiología y Bioestadística",
+    "file": "amboss_epidemiology_and_biostatistics.json",
+    "count": 151
+  },
+  {
+    "id": "family_medicine",
+    "name": "Medicina Familiar",
+    "file": "amboss_family_medicine.json",
+    "count": 1332
+  },
+  {
+    "id": "foundational_pharmacology",
+    "name": "Farmacología Básica",
+    "file": "amboss_foundational_pharmacology.json",
+    "count": 484
+  },
+  {
+    "id": "genetics",
+    "name": "Genética",
+    "file": "amboss_genetics.json",
+    "count": 247
+  },
+  {
+    "id": "geriatrics",
+    "name": "Geriatría",
+    "file": "amboss_geriatrics.json",
+    "count": 106
+  },
+  {
+    "id": "gynecology",
+    "name": "Ginecología",
+    "file": "amboss_gynecology.json",
+    "count": 401
+  },
+  {
+    "id": "histology",
+    "name": "Histología",
+    "file": "amboss_histology.json",
+    "count": 36
+  },
+  {
+    "id": "infectious_diseases",
+    "name": "Infectología",
+    "file": "amboss_infectious_diseases.json",
+    "count": 742
+  },
+  {
+    "id": "internal_medicine",
+    "name": "Medicina Interna",
+    "file": "amboss_internal_medicine.json",
+    "count": 2383,
+    "children": [
+      {
+        "id": "internal_medicine_cardiology_and_angiology",
+        "name": "Cardiología",
+        "file": "amboss_internal_medicine_cardiology_and_angiology.json",
+        "count": 547
+      },
+      {
+        "id": "internal_medicine_endocrinology_and_metabolism",
+        "name": "Endocrinología",
+        "file": "amboss_internal_medicine_endocrinology_and_metabolism.json",
+        "count": 554
+      },
+      {
+        "id": "internal_medicine_gastroenterology",
+        "name": "Gastroenterología",
+        "file": "amboss_internal_medicine_gastroenterology.json",
+        "count": 564
+      },
+      {
+        "id": "internal_medicine_hematology",
+        "name": "Hematología",
+        "file": "amboss_internal_medicine_hematology.json",
+        "count": 369
+      },
+      {
+        "id": "internal_medicine_nephrology",
+        "name": "Nefrología",
+        "file": "amboss_internal_medicine_nephrology.json",
+        "count": 263
+      },
+      {
+        "id": "internal_medicine_pulmonology",
+        "name": "Neumonología",
+        "file": "amboss_internal_medicine_pulmonology.json",
+        "count": 419
+      },
+      {
+        "id": "internal_medicine_rheumatology",
+        "name": "Reumatología",
+        "file": "amboss_internal_medicine_rheumatology.json",
+        "count": 197
+      }
+    ]
+  },
+  {
+    "id": "legal_medicine_and_ethics",
+    "name": "Medicina Legal y Bioética",
+    "file": "amboss_legal_medicine_and_ethics.json",
+    "count": 114
+  },
+  {
+    "id": "microbiology_and_virology",
+    "name": "Microbiología",
+    "file": "amboss_microbiology_and_virology.json",
+    "count": 354
+  },
+  {
+    "id": "molecular_and_cell_biology",
+    "name": "Biología Celular y Molecular",
+    "file": "amboss_molecular_and_cell_biology.json",
+    "count": 28
+  },
+  {
+    "id": "neonatology",
+    "name": "Neonatología",
+    "file": "amboss_neonatology.json",
+    "count": 188
+  },
+  {
+    "id": "neurology",
+    "name": "Neurología",
+    "file": "amboss_neurology.json",
+    "count": 716
+  },
+  {
+    "id": "nutrition",
+    "name": "Nutrición",
+    "file": "amboss_nutrition.json",
+    "count": 31
+  },
+  {
+    "id": "obstetrics",
+    "name": "Obstetricia",
+    "file": "amboss_obstetrics.json",
+    "count": 353
+  },
+  {
+    "id": "occupational_medicine",
+    "name": "Medicina Ocupacional",
+    "file": "amboss_occupational_medicine.json",
+    "count": 129
+  },
+  {
+    "id": "oncology",
+    "name": "Oncología",
+    "file": "amboss_oncology.json",
+    "count": 266
+  },
+  {
+    "id": "ophthalmology",
+    "name": "Oftalmología",
+    "file": "amboss_ophthalmology.json",
+    "count": 124
+  },
+  {
+    "id": "orthopedics",
+    "name": "Ortopedia",
+    "file": "amboss_orthopedics.json",
+    "count": 282
+  },
+  {
+    "id": "osteopathic_manipulative_medicine",
+    "name": "Medicina Osteopática",
+    "file": "amboss_osteopathic_manipulative_medicine.json",
+    "count": 6,
+    "children": [
+      {
+        "id": "osteopathic_manipulative_medicine_osteopathic_principles_and_practice",
+        "name": "Principios Osteopáticos",
+        "file": "amboss_osteopathic_manipulative_medicine_osteopathic_principles_and_practice.json",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "otolaryngology",
+    "name": "Otorrinolaringología",
+    "file": "amboss_otolaryngology.json",
+    "count": 137
+  },
+  {
+    "id": "pain_medicine",
+    "name": "Algología",
+    "file": "amboss_pain_medicine.json",
+    "count": 38
+  },
+  {
+    "id": "palliative_medicine",
+    "name": "Medicina Paliativa",
+    "file": "amboss_palliative_medicine.json",
+    "count": 26
+  },
+  {
+    "id": "pathology",
+    "name": "Patología",
+    "file": "amboss_pathology.json",
+    "count": 720
+  },
+  {
+    "id": "pediatric_surgery",
+    "name": "Cirugía Pediátrica",
+    "file": "amboss_pediatric_surgery.json",
+    "count": 133
+  },
+  {
+    "id": "pediatrics",
+    "name": "Pediatría",
+    "file": "amboss_pediatrics.json",
+    "count": 942
+  },
+  {
+    "id": "physical_medicine_and_rehabilitation",
+    "name": "Medicina Física y Rehabilitación",
+    "file": "amboss_physical_medicine_and_rehabilitation.json",
+    "count": 22
+  },
+  {
+    "id": "physiology",
+    "name": "Fisiología",
+    "file": "amboss_physiology.json",
+    "count": 99
+  },
+  {
+    "id": "poisoning_and_toxicology",
+    "name": "Intoxicaciones y Toxicología",
+    "file": "amboss_poisoning_and_toxicology.json",
+    "count": 3
+  },
+  {
+    "id": "proctology",
+    "name": "Proctología",
+    "file": "amboss_proctology.json",
+    "count": 14
+  },
+  {
+    "id": "psychiatry_and_psychotherapy",
+    "name": "Psiquiatría",
+    "file": "amboss_psychiatry_and_psychotherapy.json",
+    "count": 384
+  },
+  {
+    "id": "psychosomatic_medicine",
+    "name": "Psicosomática",
+    "file": "amboss_psychosomatic_medicine.json",
+    "count": 62
+  },
+  {
+    "id": "public_health_and_health_economics",
+    "name": "Salud Pública",
+    "file": "amboss_public_health_and_health_economics.json",
+    "count": 158
+  },
+  {
+    "id": "radiology",
+    "name": "Radiología",
+    "file": "amboss_radiology.json",
+    "count": 321
+  },
+  {
+    "id": "sports_medicine",
+    "name": "Medicina Deportiva",
+    "file": "amboss_sports_medicine.json",
+    "count": 2
+  },
+  {
+    "id": "surgery",
+    "name": "Cirugía",
+    "file": "amboss_surgery.json",
+    "count": 1053,
+    "children": [
+      {
+        "id": "surgery_abdominal_surgery",
+        "name": "Cirugía Abdominal",
+        "file": "amboss_surgery_abdominal_surgery.json",
+        "count": 257
+      },
+      {
+        "id": "surgery_cardiothoracic_surgery",
+        "name": "Cirugía Cardiotorácica",
+        "file": "amboss_surgery_cardiothoracic_surgery.json",
+        "count": 141
+      },
+      {
+        "id": "surgery_general_surgery",
+        "name": "Cirugía General",
+        "file": "amboss_surgery_general_surgery.json",
+        "count": 693
+      },
+      {
+        "id": "surgery_hand_surgery",
+        "name": "Cirugía de Mano",
+        "file": "amboss_surgery_hand_surgery.json",
+        "count": 18
+      },
+      {
+        "id": "surgery_neurosurgery",
+        "name": "Neurocirugía",
+        "file": "amboss_surgery_neurosurgery.json",
+        "count": 162
+      },
+      {
+        "id": "surgery_trauma_surgery",
+        "name": "Cirugía Traumatológica",
+        "file": "amboss_surgery_trauma_surgery.json",
+        "count": 144
+      },
+      {
+        "id": "surgery_vascular_surgery",
+        "name": "Cirugía Vascular",
+        "file": "amboss_surgery_vascular_surgery.json",
+        "count": 133
+      }
+    ]
+  },
+  {
+    "id": "urology",
+    "name": "Urología",
+    "file": "amboss_urology.json",
+    "count": 208
+  },
+  {
+    "id": "venereology",
+    "name": "Venereología",
+    "file": "amboss_venereology.json",
+    "count": 48
+  }
+]
