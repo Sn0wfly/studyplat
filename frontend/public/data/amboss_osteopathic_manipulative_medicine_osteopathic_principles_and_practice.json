@@ -1,19 +1,19 @@
 [
   {
     "eid": "cm0aeg",
-    "question_text": "A 53-year-old woman comes to the physician because of a 3-month history of intermittent severe left neck, shoulder, and arm pain and paresthesias of the left hand. The pain radiates to the radial aspect of her left forearm, thumb, and index finger. She first noticed her symptoms after helping a friend set up a canopy tent. There is no family history of serious illness. She appears healthy. Vital signs are within normal limits. When the patient extends and rotates her head to the left and downward pressure is applied, she reports paresthesias along the radial aspect of her left forearm and thumb. There is weakness when extending the left wrist against resistance. The brachioradialis reflex is 1+ on the left and 2+ on the right. The radial pulse is palpable bilaterally. The remainder of the examination shows no abnormalities. Which of the following is the most likely diagnosis?",
-    "content_preview": "A 53-year-old woman comes to the physician because of a 3-month history of intermittent severe left neck, shoulder, and arm pain and paresthesias of the left hand. The pain radiates to the radial aspect of her left forearm, thumb, and index finger. She first noticed her symptoms after helping a friend set up a canopy tent. There is no family history of serious illness. She appears healthy. Vital signs are within normal limits. When the patient extends and rotates her head to the left and downward pressure is applied, she reports paresthesias along the radial aspect of her left forearm and thumb. There is weakness when extending the left wrist against resistance. The brachioradialis reflex is 1+ on the left and 2+ on the right. The radial pulse is palpable bilaterally. The remainder of the examination shows no abnormalities. Which of the following is the most likely diagnosis?",
+    "question_text": "Una mujer de 53 años acude al médico por un antecedente de 3 meses de dolor intermitente severo en cuello, hombro y brazo izquierdos, junto con parestesias en la mano izquierda. El dolor irradia hacia el aspecto radial de su antebrazo izquierdo, pulgar e índice. Primero notó los síntomas después de ayudar a una amiga a montar una carpa tipo toldo. No hay antecedentes familiares de enfermedades graves. Parece saludable. Los signos vitales están dentro de límites normales. Al extender y rotar la cabeza hacia la izquierda y aplicar presión descendente, refiere parestesias a lo largo del aspecto radial de su antebrazo y pulgar izquierdos. Existe debilidad al extender la muñeca izquierda contra resistencia. El reflejo braquiorradial es 1+ en el lado izquierdo y 2+ en el derecho. El pulso radial es palpable bilateralmente. El resto del examen físico no muestra anomalías. ¿Cuál de las siguientes es el diagnóstico más probable?",
+    "content_preview": "Una mujer de 53 años acude al médico por un antecedente de 3 meses de dolor intermitente severo en cuello, hombro y brazo izquierdos, junto con parestesias de la mano izquierda. El dolor irradia hacia el aspecto radial de su antebrazo izquierdo, pulgar e índice. Primero notó los síntomas después de ayudar a una amiga a montar una carpa tipo toldo. No hay antecedentes familiares de enfermedades graves. Parece saludable. Los signos vitales están dentro de límites normales. Al extender y rotar la cabeza hacia la izquierda y aplicar presión descendente, refiere parestesias a lo largo del aspecto radial de su antebrazo y pulgar izquierdos. Existe debilidad al extender la muñeca izquierda contra resistencia. El reflejo braquiorradial es 1+ en el lado izquierdo y 2+ en el derecho. El pulso radial es palpable bilateralmente. El resto del examen físico no muestra anomalías. ¿Cuál de las siguientes es el diagnóstico más probable?",
     "correct_answer": "F",
     "difficulty": 2,
-    "hint": "The pattern of symptoms and exam findings indicate that a nerve root has been damaged.",
-    "learning_objective": "Recognize C5-C6 disk herniation.",
+    "hint": "El patrón de síntomas y hallazgos en el examen indican que una raíz nerviosa ha sido dañada.",
+    "learning_objective": "Reconocer una hernia discal C5-C6.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "Carpal tunnel syndrome",
+        "content": "Síndrome del túnel carpiano",
         "is_correct": false,
-        "explanation_why": "Carpal tunnel syndrome (CTS) typically manifests with radiating pain, paresthesias, and weakness. However, these symptoms are generally confined to the hand, specifically the palmar radial aspect, the first three digits, and the radial half of the fourth digit. Symptoms are often worse at night or after repetitive movements of the hand. The patient here does not have this pattern of symptoms. Additionally, a patient with CTS would not have pain in the neck or arm, weakness when extending the wrist (a sign of damage to the radial nerve or its corresponding cervical nerve roots), nor pain with Spurling's test.",
+        "explanation_why": "El síndrome del túnel carpiano (STC) suele manifestarse con dolor radiante, parestesias y debilidad. Sin embargo, estos síntomas generalmente están confinados a la mano, específicamente en el aspecto radial palmar, los primeros tres dedos y la mitad radial del cuarto dedo. Los síntomas suelen empeorar durante la noche o después de movimientos repetitivos de la mano. La paciente no presenta este patrón de síntomas. Además, un paciente con STC no tendría dolor en cuello o brazo, debilidad al extender la muñeca (signo de daño del nervio radial o sus raíces cervicales correspondientes), ni dolor con la prueba de Spurling.",
         "explanation_but": "",
         "selection_rate": 2,
         "images": [
@@ -28,17 +28,17 @@
       },
       {
         "letter": "B",
-        "content": "C3-C4 spondylosis",
+        "content": "Espondilosis C3-C4",
         "is_correct": false,
-        "explanation_why": "A patient with degeneration of the spine between vertebral bodies C3 and C4 may experience damage to the C4 nerve root. If the C4 nerve root were damaged, a patient might describe pain and paresthesia in the lateral aspect of the neck or the interscapular region, difficulty elevating the shoulder, and/or dyspnea or shortness of breath, as C4 also innervates the diaphragm muscle.",
+        "explanation_why": "Un paciente con degeneración de la columna entre las vértebras C3 y C4 podría experimentar daño en la raíz nerviosa C4. Si la raíz nerviosa C4 estuviera dañada, el paciente podría describir dolor y parestesias en el aspecto lateral del cuello o la región interescápula, dificultad para elevar el hombro y/o disnea o falta de aire, ya que C4 también inerva el músculo diafragmático.",
         "explanation_but": "",
         "selection_rate": 10
       },
       {
         "letter": "C",
-        "content": "Syringomyelia",
+        "content": "Siringomielia",
         "is_correct": false,
-        "explanation_why": "A patient with syringomyelia would also likely present with radiating radicular pain, paresthesias, diminished reflexes, and weakness of the upper extremities. However, symptoms would be bilateral and usually include decreased sensation in a “cape-like” distribution secondary to the progressive compression and damage to crossing neural fibers of the lateral spinothalamic tract. It would also manifest as flaccid paralysis and muscle atrophy due to damage to the medial part of the corticospinal tract.",
+        "explanation_why": "Un paciente con siringomielia también podría presentar dolor radicular radiante, parestesias, reflejos disminuidos y debilidad en los miembros superiores. Sin embargo, los síntomas serían bilaterales y generalmente incluirían disminución de la sensibilidad en distribución tipo 'cape' secundaria a la compresión progresiva y daño de fibras nerviosas cruzadas del tracto espinotalámico lateral. También se manifestaría como parálisis flácida y atrofia muscular debido al daño en la parte medial del tracto corticoespinal.",
         "explanation_but": "",
         "selection_rate": 1,
         "images": [
@@ -53,17 +53,17 @@
       },
       {
         "letter": "D",
-        "content": "Thoracic outlet syndrome",
+        "content": "Síndrome del desfiladero torácico",
         "is_correct": false,
-        "explanation_why": "A patient with thoracic outlet syndrome (TOS) may present with pain, paresthesias, and weakness of the upper extremity, often following overhead activity. However, rather than causing symptoms to one specific nerve root, TOS usually compresses the lower trunk (C8–T1 nerve roots) of the brachial plexus. In a patient with TOS, Spurling's test would not recreate the patient's symptoms because the test is relatively specific for damage/irritation of the cervical nerve roots rather than the brachial plexus. Furthermore, TOS often affects vascular structures as well; patients present with arm pallor, coldness, decreased pulses, and/or cyanosis of the affected extremity, none of which is present in this patient.",
+        "explanation_why": "Un paciente con síndrome del desfiladero torácico (SDT) podría presentar dolor, parestesias y debilidad en el miembro superior, a menudo tras actividades con los brazos en alto. Sin embargo, en lugar de afectar una raíz nerviosa específica, el SDT suele comprimir el tronco inferior (raíces nerviosas C8–T1) del plexo braquial. En un paciente con SDT, la prueba de Spurling no reproduciría los síntomas del paciente, ya que esta prueba es relativamente específica para daño/irritación de las raíces nerviosas cervicales en lugar del plexo braquial. Además, el SDT afecta con frecuencia estructuras vasculares; los pacientes presentan palidez, frialdad, pulsos disminuidos y/o cianosis en el miembro afectado, ninguno de los cuales está presente en esta paciente.",
         "explanation_but": "",
         "selection_rate": 18
       },
       {
         "letter": "E",
-        "content": "Amyotrophic lateral sclerosis",
+        "content": "Esclerosis lateral amiotrófica",
         "is_correct": false,
-        "explanation_why": "This patient has some characteristic symptoms of amyotrophic lateral sclerosis (ALS). She is in the typical age range for symptom onset (50–70 years) and presents with unilateral paresthesias and weakness. Classically, ALS manifests with symptoms of both upper motor neuron (e.g., increased muscle tone, spasticity, increased reflexes) and lower motor neuron dysfunction (e.g., flaccid paralysis, decreased reflexes, atrophy). Although possible, the majority of the patients do not report sensory dysfunction. This patient has pain and paresthesia that radiates from the neck distally to the arm and hand, indicating selective nerve root compression.",
+        "explanation_why": "Esta paciente presenta algunos síntomas característicos de la esclerosis lateral amiotrófica (ELA). Tiene la edad típica de inicio de síntomas (50–70 años) y presenta parestesias y debilidad unilaterales. Clásicamente, la ELA se manifiesta con síntomas de disfunción de neurona motora superior (ej. tono muscular aumentado, espasticidad, reflejos aumentados) y de neurona motora inferior (ej. parálisis flácida, reflejos disminuidos, atrofia). Aunque es posible, la mayoría de los pacientes no refieren disfunción sensorial. Esta paciente tiene dolor y parestesias que irradian desde el cuello distalmente hacia el brazo y la mano, lo que indica compresión selectiva de una raíz nerviosa.",
         "explanation_but": "",
         "selection_rate": 0,
         "images": [
@@ -78,9 +78,9 @@
       },
       {
         "letter": "F",
-        "content": "C5-C6 disk herniation",
+        "content": "Hernia discal C5-C6",
         "is_correct": true,
-        "explanation_why": "This patient has cervical radiculopathy, most likely from a C5–C6 spinal disk herniation. Her radiating pain and paresthesias are caused by damage and/or irritation of the C6 nerve root, which innervates the radial aspect of the forearm and the thumb. These symptoms are reproduced with Spurling's maneuver, which has a high specificity for cervical radiculopathy. This patient's weakness results from damage to the same nerve root, as C6 provides motor function to the wrist extensors. C6 nerve root damage is also causing the decreased brachioradialis reflex in this patient, as C6 supplies motor function to that muscle.\n\nOther possible causes of the patient's radiculopathy include cervical spondylosis or a tumor causing nerve root compression. Her neurologic symptoms may also be caused by infections that affect the peripheral nervous system such as herpes zoster and Lyme disease. The diagnostic workup includes MRI, which would show a laterally prolapsed disk with surrounding edema in the case of disk herniation.",
+        "explanation_why": "Esta paciente presenta radiculopatía cervical, probablemente por una hernia discal C5–C6. Su dolor radiante y parestesias son causados por daño e/o irritación de la raíz nerviosa C6, que inerva el aspecto radial del antebrazo y el pulgar. Estos síntomas se reproducen con la maniobra de Spurling, que tiene alta especificidad para radiculopatía cervical. La debilidad de la paciente resulta del daño a la misma raíz nerviosa, ya que C6 proporciona función motora a los extensores de la muñeca. El daño a la raíz nerviosa C6 también está causando la disminución del reflejo braquiorradial en esta paciente, ya que C6 suministra función motora a ese músculo.\n\nOtras causas posibles de la radiculopatía de la paciente incluyen espondilosis cervical o un tumor que cause compresión de la raíz nerviosa. Sus síntomas neurológicos también podrían ser causados por infecciones que afectan el sistema nervioso periférico, como herpes zoster y enfermedad de Lyme. El estudio diagnóstico incluye resonancia magnética (RM), que mostraría un disco prolapsado lateralmente con edema circundante en caso de hernia discal.",
         "explanation_but": "",
         "selection_rate": 69,
         "images": [
@@ -98,43 +98,43 @@
   },
   {
     "eid": "Wm0Peg",
-    "question_text": "A 27-year-old man comes to the physician because of intermittent right shoulder pain for the past 2 weeks. The pain awakens him at night and is worse when he lies on the right shoulder. He does not have any paresthesia or numbness in the right arm. He is a painter, and these episodes of pain have not allowed him to work efficiently. He appears healthy. Vital signs are within normal limits. Examination shows painful abduction of the arm above the shoulder. There is severe pain when the elbow is flexed and the right shoulder is internally rotated. Elevation of the internally rotated and outstretched arm causes pain over the anterior lateral aspect of the shoulder. An x-ray of the shoulder shows no abnormalities. Injection of 5 mL of 1% lidocaine into the right subacromial space relieves the pain and increases the range of motion of the right arm. Which of the following is the most appropriate next step in management?",
-    "content_preview": "A 27-year-old man comes to the physician because of intermittent right shoulder pain for the past 2 weeks. The pain awakens him at night and is worse when he lies on the right shoulder. He does not have any paresthesia or numbness in the right arm. He is a painter, and these episodes of pain have not allowed him to work efficiently. He appears healthy. Vital signs are within normal limits. Examination shows painful abduction of the arm above the shoulder. There is severe pain when the elbow is flexed and the right shoulder is internally rotated. Elevation of the internally rotated and outstretched arm causes pain over the anterior lateral aspect of the shoulder. An x-ray of the shoulder shows no abnormalities. Injection of 5 mL of 1% lidocaine into the right subacromial space relieves the pain and increases the range of motion of the right arm. Which of the following is the most appropriate next step in management?",
+    "question_text": "Un hombre de 27 años acude al médico por dolor intermitente en el hombro derecho durante las últimas 2 semanas. El dolor lo despierta por la noche y empeora cuando se acuesta sobre el hombro derecho. No presenta parestesias ni adormecimiento en el brazo derecho. Es pintor, y estos episodios de dolor no le han permitido trabajar eficientemente. Parece estar sano. Los signos vitales están dentro de límites normales. El examen físico muestra dolor a la abducción del brazo por encima del hombro. Existe dolor intenso cuando el codo está flexionado y el hombro derecho se rota internamente. La elevación del brazo en rotación interna y extensión provoca dolor en el aspecto anterolateral del hombro. Una radiografía del hombro no muestra anomalías. La inyección de 5 mL de lidocaína al 1% en el espacio subacromial derecho alivia el dolor e incrementa el rango de movimiento del brazo derecho. ¿Cuál de las siguientes es el siguiente paso más apropiado en el manejo?",
+    "content_preview": "Un hombre de 27 años acude al médico por dolor intermitente en el hombro derecho durante las últimas 2 semanas. El dolor lo despierta por la noche y empeora cuando se acuesta sobre el hombro derecho. No presenta parestesias ni adormecimiento en el brazo derecho. Es pintor, y estos episodios de dolor no le han permitido trabajar eficientemente. Parece estar sano. Los signos vitales están dentro de límites normales. El examen físico muestra dolor a la abducción del brazo por encima del hombro. Existe dolor intenso cuando el codo está flexionado y el hombro derecho se rota internamente. Elevación del brazo en rotación interna y extensión provoca dolor en el aspecto anterolateral del hombro. Una radiografía del hombro no muestra anomalías. La inyección de 5 mL de lidocaína al 1% en el espacio subacromial derecho alivia el dolor e incrementa el rango de movimiento del brazo derecho. ¿Cuál de las siguientes es el siguiente paso más apropiado en el manejo?",
     "correct_answer": "D",
     "difficulty": 2,
-    "hint": "This patient's examination findings include a positive painful arc test, Hawkins-Kennedy test, Neer test, and positive lidocaine injection test, all of which raise concern for subacromial impingement syndrome. This syndrome is most common in individuals who frequently engage in overhead activities (e.g., painters).",
-    "learning_objective": "Recognize subacromial impingement syndrome, and choose the initial conservative management.",
+    "hint": "Los hallazgos del examen de este paciente incluyen pruebas positivas para el arco doloroso (painful arc test), Hawkins-Kennedy, Neer y la prueba de inyección con lidocaína, lo que genera preocupación por el síndrome de atrapamiento subacromial. Este síndrome es más común en individuos que realizan actividades por encima de la cabeza con frecuencia (ej. pintores).",
+    "learning_objective": "Reconocer el síndrome de atrapamiento subacromial y seleccionar el manejo conservador inicial.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "MRI of the shoulder",
+        "content": "RM del hombro",
         "is_correct": false,
-        "explanation_why": "In patients with suspected subacromial impingement syndrome, such as this man, an MRI of the shoulder should be performed if the etiology of the shoulder pain is unclear after initial evaluation, if symptoms fail to improve with conservative therapy, or if a soft tissue injury (e.g., rotator cuff tear) is suspected. The pain elicited in this patient is consistent with subacromial impingement syndrome. In addition, he lacks findings consistent with rotator cuff tear (e.g., loss of strength, displaced humeral head on x-ray), and he has not received prior therapy. An MRI of the shoulder is not indicated at this point.",
+        "explanation_why": "En pacientes con síndrome de atrapamiento subacromial sospechado, como este hombre, una RM del hombro debe realizarse si la etiología del dolor de hombro no está clara tras la evaluación inicial, si los síntomas no mejoran con terapia conservadora o si se sospecha una lesión de tejido blando (ej. rotura del manguito rotador). El dolor que presenta este paciente es consistente con el síndrome de atrapamiento subacromial. Además, carece de hallazgos compatibles con rotura del manguito rotador (ej. pérdida de fuerza, desplazamiento de la cabeza humeral en la radiografía) y no ha recibido terapia previa. Una RM del hombro no está indicada en este momento.",
         "explanation_but": "",
         "selection_rate": 22
       },
       {
         "letter": "B",
-        "content": "Intraarticular glucocorticoids",
+        "content": "Corticoides intraarticulares",
         "is_correct": false,
-        "explanation_why": "Although intraarticular glucocorticoid therapy may improve symptoms in patients with chronic subacromial impingement syndrome, it is not the most appropriate next step in management for patients recently diagnosed with subacromial impingement syndrome. Other treatment options (e.g., a trial of oral analgesics) should be explored first.",
+        "explanation_why": "Aunque la terapia con corticoides intraarticulares puede mejorar los síntomas en pacientes con síndrome de atrapamiento subacromial crónico, no es el siguiente paso más apropiado en el manejo de pacientes recién diagnosticados con este síndrome. Otras opciones de tratamiento (ej. prueba con analgésicos orales) deben explorarse primero.",
         "explanation_but": "",
         "selection_rate": 8
       },
       {
         "letter": "C",
-        "content": "Arthroscopic repair",
+        "content": "Reparación artroscópica",
         "is_correct": false,
-        "explanation_why": "Arthroscopic subacromial decompression is recommended for patients with chronic subacromial impingement syndrome, but it is not the most appropriate next step in the management of this patient whose symptoms started recently.",
+        "explanation_why": "La descompresión subacromial artroscópica está recomendada para pacientes con síndrome de atrapamiento subacromial crónico, pero no es el siguiente paso más apropiado en el manejo de este paciente, cuyos síntomas son recientes.",
         "explanation_but": "",
         "selection_rate": 3
       },
       {
         "letter": "D",
-        "content": "Physical therapy",
+        "content": "Fisioterapia",
         "is_correct": true,
-        "explanation_why": "Conservative treatment with a trial of analgesia (e.g., with NSAIDs) and physical therapy is considered the first-line therapy for patients with subacromial impingement syndrome. In patients who fail to improve with physical therapy and oral analgesics, subacromial glucocorticoid injections may provide symptomatic relief. If conservative therapy fails to improve symptoms, advanced imaging (e.g., MRI) should be obtained to rule out complications (e.g., rotator cuff tear), after which arthroscopic subacromial decompression can be considered.\n\nFor patients who present with shoulder pain, it is important to distinguish between impingement, tendinitis, and a tear of the rotator cuff. Conservative measures are appropriate in the initial management of all of these conditions, but a suspected tear in a young, active patient warrants evaluation for surgical repair.",
+        "explanation_why": "El tratamiento conservador con prueba de analgésicos (ej. AINEs) y fisioterapia se considera la terapia de primera línea en pacientes con síndrome de atrapamiento subacromial. En pacientes que no mejoran con fisioterapia y analgésicos orales, las inyecciones de corticoides subacromiales pueden proporcionar alivio sintomático. Si la terapia conservadora no mejora los síntomas, debe obtenerse imagenología avanzada (ej. RM) para descartar complicaciones (ej. rotura del manguito rotador), tras lo cual se puede considerar la descompresión subacromial artroscópica.\n\nEn pacientes que presentan dolor de hombro, es importante distinguir entre atrapamiento, tendinitis y rotura del manguito rotador. Las medidas conservadoras son apropiadas en el manejo inicial de todas estas condiciones, pero una rotura sospechada en un paciente joven y activo justifica evaluación para reparación quirúrgica.",
         "explanation_but": "",
         "selection_rate": 66,
         "images": [
@@ -149,9 +149,9 @@
       },
       {
         "letter": "E",
-        "content": "Thoracic outlet decompression",
+        "content": "Descompresión del outlet torácico",
         "is_correct": false,
-        "explanation_why": "Thoracic outlet decompression is used to treat thoracic outlet syndrome, a condition that manifests with overhead shoulder pain. However, this condition also causes paresthesias and brachial plexus weakness, which are not seen in this case. This patient's examination findings are more consistent with a diagnosis of subacromial impingement syndrome, a condition in which thoracic outlet decompression has no role in treatment.",
+        "explanation_why": "La descompresión del outlet torácico se utiliza para tratar el síndrome del outlet torácico, una condición que se manifiesta con dolor en el hombro al elevar el brazo. Sin embargo, esta condición también causa parestesias y debilidad del plexo braquial, hallazgos que no se observan en este caso. Los hallazgos del examen de este paciente son más consistentes con un diagnóstico de síndrome de atrapamiento subacromial, condición en la que la descompresión del outlet torácico no tiene papel en el tratamiento.",
         "explanation_but": "",
         "selection_rate": 2
       }
@@ -160,27 +160,27 @@
   },
   {
     "eid": "vKaARl",
-    "question_text": "A 67-year-old man comes to the physician because of worsening lower back pain for 6 weeks. He reports that the pain is most intense with movement and that it sometimes occurs at night. Over the past 3 months, he has noticed a weakened urinary stream. He has not seen any blood in his urine. His only daily medication is ibuprofen, which does not provide adequate pain relief. Examination shows no spinal deformities. Palpation of the lumbar spinal process elicits localized tenderness. Muscle strength is normal. Sensation is intact bilaterally. Which of the following is the most likely cause of this patient’s back pain?",
-    "content_preview": "A 67-year-old man comes to the physician because of worsening lower back pain for 6 weeks. He reports that the pain is most intense with movement and that it sometimes occurs at night. Over the past 3 months, he has noticed a weakened urinary stream. He has not seen any blood in his urine. His only daily medication is ibuprofen, which does not provide adequate pain relief. Examination shows no spinal deformities. Palpation of the lumbar spinal process elicits localized tenderness. Muscle strength is normal. Sensation is intact bilaterally. Which of the following is the most likely cause of this patient’s back pain?",
+    "question_text": "Un hombre de 67 años acude al médico por dolor lumbar bajo de evolución progresiva en las últimas 6 semanas. Refiere que el dolor es más intenso con el movimiento y que, en ocasiones, ocurre de noche. En los últimos 3 meses, ha notado un chorro urinario debilitado. No ha observado sangre en la orina. Su único medicamento diario es ibuprofeno, que no alivia adecuadamente el dolor. El examen físico no muestra deformidades espinales. La palpación de los procesos espinosos lumbares desencadena dolor localizado. La fuerza muscular es normal y la sensibilidad está intacta bilateralmente. ¿Cuál de las siguientes es la causa más probable del dolor de espalda de este paciente?",
+    "content_preview": "Un hombre de 67 años acude al médico por dolor lumbar bajo de evolución progresiva en las últimas 6 semanas. Refiere que el dolor es más intenso con el movimiento y que, en ocasiones, ocurre de noche. En los últimos 3 meses, ha notado un chorro urinario debilitado. No ha observado sangre en la orina. Su único medicamento diario es ibuprofeno, que no alivia adecuadamente el dolor. El examen físico no muestra deformidades espinales. La palpación de los procesos espinosos lumbares desencadena dolor localizado. La fuerza muscular es normal y la sensibilidad está intacta bilateralmente. ¿Cuál de las siguientes es la causa más probable del dolor de espalda de este paciente?",
     "correct_answer": "A",
     "difficulty": 2,
-    "hint": "The most important risk factor for this patient's underlying disease is advanced age (> 50 years).",
-    "learning_objective": "Recognize malignancy as a cause of back pain in older adults.",
+    "hint": "El factor de riesgo más importante para la enfermedad subyacente de este paciente es la edad avanzada (> 50 años).",
+    "learning_objective": "Reconocer la malignidad como causa de dolor lumbar en adultos mayores.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "Malignancy",
+        "content": "Malignidad",
         "is_correct": true,
-        "explanation_why": "Subacute progressive lumbar back pain and a weakened urinary stream in a patient > 50 years of age should raise suspicion for advanced-stage prostate cancer with bony metastasis. Prostate cancer is frequently associated with skeletal metastases, with the spine being the most common location. Accordingly, some patients present with lower back pain as the initial manifestation. Red flags for metastatic bone disease include a history of cancer, advanced age, unexplained weight loss, and bone pain that does not improve after one month. Besides pain, which commonly occurs at night and exacerbates with movement, patients with metastatic bone disease from prostate cancer can present with pathologic fractures, hypocalcemia (due to osteoblastic metastasis), and neurological deficits (due to spinal cord compression).",
+        "explanation_why": "Dolor lumbar bajo progresivo subagudo y un chorro urinario debilitado en un paciente > 50 años deben generar sospecha de cáncer de próstata en etapa avanzada con metástasis ósea. El cáncer de próstata se asocia frecuentemente con metástasis esqueléticas, siendo la columna vertebral el sitio más común. Por lo tanto, algunos pacientes pueden presentar dolor lumbar bajo como manifestación inicial. Las banderas rojas para enfermedad ósea metastásica incluyen antecedentes de cáncer, edad avanzada, pérdida de peso inexplicable y dolor óseo que no mejora después de un mes. Además del dolor, que comúnmente ocurre de noche y se exacerba con el movimiento, los pacientes con enfermedad ósea metastásica por cáncer de próstata pueden presentar fracturas patológicas, hipocalcemia (por metástasis osteoblásticas) y déficits neurológicos (por compresión de la médula espinal).",
         "explanation_but": "",
         "selection_rate": 66
       },
       {
         "letter": "B",
-        "content": "Lumbar spinal stenosis",
+        "content": "Estenosis lumbar espinal",
         "is_correct": false,
-        "explanation_why": "Lower back pain is a common manifestation of lumbar spinal stenosis (LSS), a condition that mostly affects individuals > 60 years of age. LSS typically causes bilateral radiating pain to the buttocks and/or legs that is exacerbated by activities involving lumbar extension (e.g., standing, walking downhill) and relieved by lumbar flexion (e.g., sitting or lying down when sleeping). Furthermore, he does not have typical symptoms of LSS, such as cramping, numbness, weakness, or tingling in the legs. While LSS can rarely lead to urinary retention symptoms secondary to cauda equina syndrome, this patient's normal sensorimotor function makes such a diagnosis unlikely.",
+        "explanation_why": "El dolor lumbar bajo es una manifestación común de la estenosis lumbar espinal (ELE), una condición que principalmente afecta a individuos > 60 años. La ELE típicamente causa dolor radiante bilateral hacia los glúteos y/o piernas, exacerbado por actividades que involucran extensión lumbar (ej. estar de pie, bajar cuesta) y aliviado por flexión lumbar (ej. sentarse o acostarse al dormir). Además, no presenta síntomas típicos de ELE, como calambres, adormecimiento, debilidad o hormigueo en las piernas. Aunque la ELE puede rara vez llevar a síntomas de retención urinaria secundaria al síndrome de la cauda equina, la función sensoriomotora normal de este paciente hace poco probable dicho diagnóstico.",
         "explanation_but": "",
         "selection_rate": 11,
         "images": [
@@ -197,31 +197,31 @@
         "letter": "C",
         "content": "Osteoporosis",
         "is_correct": false,
-        "explanation_why": "Individuals with osteoporosis have an increased susceptibility to pathological vertebral compression fractures. These fractures may manifest with lower back pain and point tenderness. However, a more acute presentation would be expected in a fracture. Moreover, osteoporosis most commonly affects postmenopausal women, individuals > 70 years of age, and individuals with risk factors such as long-term steroid therapy. While vertebral compression fractures can rarely lead to urinary retention symptoms secondary to cauda equina syndrome, this patient's normal sensorimotor function makes such a diagnosis unlikely.",
+        "explanation_why": "Los individuos con osteoporosis tienen mayor susceptibilidad a fracturas vertebrales por compresión patológicas. Estas fracturas pueden manifestarse con dolor lumbar bajo y dolor a la palpación localizada. Sin embargo, se esperaría una presentación más aguda en una fractura. Además, la osteoporosis afecta principalmente a mujeres posmenopáusicas, individuos > 70 años y aquellos con factores de riesgo como terapia prolongada con esteroides. Aunque las fracturas vertebrales por compresión pueden rara vez llevar a retención urinaria secundaria al síndrome de la cauda equina, la función sensoriomotora normal de este paciente hace poco probable dicho diagnóstico.",
         "explanation_but": "",
         "selection_rate": 4
       },
       {
         "letter": "D",
-        "content": "Spinal epidural abscess",
+        "content": "Absceso epidural espinal",
         "is_correct": false,
-        "explanation_why": "Subacute lower back pain worsened by palpation is a typical manifestation of a spinal epidural abscess (SEA). However, SEA is commonly associated with further symptoms, such as fever, malaise, and, eventually, neurologic deficits (secondary to spinal cord compression). Moreover, this patient has no risk factors for this condition (e.g., IV drug use, recent invasive spinal procedures, immunosuppression). While SEA can rarely lead to urinary retention symptoms secondary to cauda equina syndrome, this patient's normal sensorimotor function makes such a diagnosis unlikely.",
+        "explanation_why": "El dolor lumbar bajo subagudo empeorado por la palpación es una manifestación típica del absceso epidural espinal (AEE). Sin embargo, el AEE suele asociarse con síntomas adicionales, como fiebre, malestar general y, eventualmente, déficits neurológicos (secundarios a compresión medular). Además, este paciente no presenta factores de riesgo para esta condición (ej. uso de drogas intravenosas, procedimientos espinales invasivos recientes, inmunosupresión). Aunque el AEE puede rara vez llevar a retención urinaria secundaria al síndrome de la cauda equina, la función sensoriomotora normal de este paciente hace poco probable dicho diagnóstico.",
         "explanation_but": "",
         "selection_rate": 3
       },
       {
         "letter": "E",
-        "content": "Disk herniation",
+        "content": "Hernia discal",
         "is_correct": false,
-        "explanation_why": "Lumbar disk herniation can manifest with severe lower back pain. However, disk herniation typically manifests with an acute stabbing pain that radiates to the legs and is associated with neurological deficits, such as paresthesia, loss of deep tendon reflexes, and muscle weakness. Moreover, disk herniation is usually triggered by physical exertion (e.g., bending, heavy lifting), which this patient has not reported. While a large posteromedial disk herniation can lead to urinary retention symptoms secondary to cauda equina syndrome, this patient's normal sensorimotor function makes such a diagnosis unlikely.",
+        "explanation_why": "La hernia discal lumbar puede manifestarse con dolor lumbar bajo severo. Sin embargo, la hernia discal típicamente se presenta con dolor agudo punzante que irradia a las piernas y se asocia con déficits neurológicos, como parestesias, pérdida de reflejos osteotendinosos y debilidad muscular. Además, la hernia discal suele desencadenarse por esfuerzo físico (ej. flexión, levantamiento de peso), algo que este paciente no ha reportado. Aunque una gran hernia discal posteromedial puede llevar a retención urinaria secundaria al síndrome de la cauda equina, la función sensoriomotora normal de este paciente hace poco probable dicho diagnóstico.",
         "explanation_but": "",
         "selection_rate": 11
       },
       {
         "letter": "F",
-        "content": "Lumbar strain",
+        "content": "Esguince lumbar",
         "is_correct": false,
-        "explanation_why": "Lumbar muscle strain is the most common cause of lower back pain. Muscle strain can manifest with lower back pain that is most intense with movement, reproducible on palpation, and not associated with sensory or motor dysfunction. Nocturnal pain and a weakened urinary stream, however, are not associated with lumbar strain. Lack of improvement after 6 weeks of therapy with NSAIDs should further raise suspicion for a nonmuscular cause of the pain. Moreover, lumbar muscle strain is usually triggered by physical exertion (e.g., heavy lifting), which this patient has not reported.",
+        "explanation_why": "El esguince muscular lumbar es la causa más común de dolor lumbar bajo. El esguince muscular puede manifestarse con dolor lumbar bajo más intenso con el movimiento, reproducible a la palpación y no asociado a disfunción sensorial o motora. Sin embargo, el dolor nocturno y el chorro urinario debilitado no están asociados con el esguince lumbar. La falta de mejora después de 6 semanas de tratamiento con AINE debe generar mayor sospecha de una causa no muscular del dolor. Además, el esguince muscular lumbar suele desencadenarse por esfuerzo físico (ej. levantamiento de peso), algo que este paciente no ha reportado.",
         "explanation_but": "",
         "selection_rate": 6
       }
@@ -230,19 +230,19 @@
   },
   {
     "eid": "V6aGPl",
-    "question_text": "A 21-year-old woman comes to the physician for a follow-up examination. Four months ago, she underwent posterior arthrodesis for thoracolumbar scoliosis. She has recovered well from the surgery but noticed difficulties combing her hair with her right hand. A photograph of the patient's back is shown. The nerve that was most likely injured in the surgery originates from which of the following spinal roots?",
-    "content_preview": "A 21-year-old woman comes to the physician for a follow-up examination. Four months ago, she underwent posterior arthrodesis for thoracolumbar scoliosis. She has recovered well from the surgery but noticed difficulties combing her hair with her right hand. A photograph of the patient's back is shown. The nerve that was most likely injured in the surgery originates from which of the following spinal roots?",
+    "question_text": "Una mujer de 21 años acude al médico para un examen de seguimiento. Hace cuatro meses, se sometió a una artrodesis posterior por escoliosis toracolumbar. Ha tenido una buena recuperación de la cirugía, pero notó dificultades para peinarse con su mano derecha. Se muestra una fotografía de la espalda de la paciente. El nervio que con mayor probabilidad resultó lesionado durante la cirugía proviene de cuál de las siguientes raíces espinales?",
+    "content_preview": "Una mujer de 21 años acude al médico para un examen de seguimiento. Hace cuatro meses, se sometió a una artrodesis posterior por escoliosis toracolumbar. Ha tenido una buena recuperación de la cirugía, pero notó dificultades para peinarse con su mano derecha. Se muestra una fotografía de la espalda de la paciente. El nervio que con mayor probabilidad resultó lesionado durante la cirugía proviene de cuál de las siguientes raíces espinales?",
     "correct_answer": "F",
     "difficulty": 3,
-    "hint": "The image shows winging of the scapula, which is characteristic of long thoracic nerve injury.",
-    "learning_objective": "Recognize long thoracic nerve injury, and recall its spinal root origin.",
+    "hint": "La imagen muestra un ala escápula (winging of the scapula), característico de lesión del nervio torácico largo.",
+    "learning_objective": "Reconocer la lesión del nervio torácico largo y recordar su origen en raíces espinales.",
     "source": null,
     "answers": [
       {
         "letter": "A",
         "content": "C8-T1",
         "is_correct": false,
-        "explanation_why": "The lower trunk of the brachial plexus and the ulnar nerve receive nerve fibers from C8–T1 spinal roots. In surgeries that require the patient to be in a prone position (e.g., spinal surgery), improper positioning of the arms can injure the lower trunk (due to arm hyperabduction) or the ulnar nerve (due to pressure on the cubital tunnel). However, lower brachial plexus palsy (Klumpke palsy) would manifest with weakness of all the intrinsic muscles of the hand and sensory deficits on the medial side of the corresponding upper limb. Ulnar nerve injury results in weakness of the fourth and fifth lumbricals and sensory deficits in the fourth and fifth digit. Scapular winging would not be expected in either condition.",
+        "explanation_why": "El tronco inferior del plexo braquial y el nervio cubital reciben fibras nerviosas de las raíces espinales C8–T1. En cirugías que requieren posición prona del paciente (ej. cirugía espinal), una mala colocación de los brazos puede lesionar el tronco inferior (por hiperabducción del brazo) o el nervio cubital (por presión en el túnel cubital). Sin embargo, una parálisis del plexo braquial inferior (síndrome de Klumpke) se manifestaría con debilidad de todos los músculos intrínsecos de la mano y déficits sensoriales en el borde medial del miembro superior correspondiente. La lesión del nervio cubital provoca debilidad de los 4° y 5° lumbricales y déficits sensoriales en el 4° y 5° dedo. No se esperaría *ala escápula* en ninguna de estas condiciones.",
         "explanation_but": "",
         "selection_rate": 14,
         "images": [
@@ -259,7 +259,7 @@
         "letter": "B",
         "content": "C6-C8",
         "is_correct": false,
-        "explanation_why": "The thoracodorsal nerve receives nerve fibers from the C6–C8 spinal roots. It lies along the posterior axillary wall, making it vulnerable to injury during axillary lymph node dissection. Injury to this nerve causes weakness of the latissimus dorsi and teres major and manifests with impaired internal rotation and adduction of the arm. Scapular winging or difficulty with combing hair would not be expected.",
+        "explanation_why": "El nervio toracodorsal recibe fibras nerviosas de las raíces espinales C6–C8. Se ubica a lo largo de la pared axilar posterior, siendo vulnerable a lesiones durante disecciones de ganglios linfáticos axilares. La lesión de este nervio causa debilidad del músculo dorsal ancho y del redondo mayor, manifestándose con dificultad para la rotación interna y aducción del brazo. No se esperaría *ala escápula* ni dificultad para peinarse.",
         "explanation_but": "",
         "selection_rate": 9
       },
@@ -267,7 +267,7 @@
         "letter": "C",
         "content": "C1-C3",
         "is_correct": false,
-        "explanation_why": "The ansa cervicalis receives nerve fibers from C1–C3 spinal roots. It lies in the carotid triangle of the neck and primarily innervates the infrahyoid muscles. Damage to the ansa cervicalis can occur during neck dissection or trauma to the cervical spine and results in a change in voice and swallowing difficulties. Scapular winging or difficulty with combing hair would not be expected.",
+        "explanation_why": "El ansa cervicalis recibe fibras nerviosas de las raíces espinales C1–C3. Se localiza en el triángulo carotídeo del cuello e inerva principalmente los músculos infrahioideos. La lesión del ansa cervicalis puede ocurrir durante disecciones cervicales o traumas de la columna cervical, resultando en cambios en la voz y dificultades para deglutir. No se esperaría *ala escápula* ni dificultad para peinarse.",
         "explanation_but": "",
         "selection_rate": 3,
         "images": [
@@ -284,7 +284,7 @@
         "letter": "D",
         "content": "C3-C5",
         "is_correct": false,
-        "explanation_why": "The phrenic nerve arises from the C3–C5 spinal roots and innervates the diaphragm and pericardium. It can be injured during anterior scalenectomy, open heart or thoracoscopic mediastinal surgery, pulmonary vein radiofrequency ablation, and IVC clamping during hepatectomy or liver transplantation. Phrenic nerve injury manifests with dyspnea and, in the case of unilateral palsy, asymmetric chest movement. Scapular winging or difficulty with combing hair would not be expected.",
+        "explanation_why": "El nervio frénico surge de las raíces espinales C3–C5 e inerva el diafragma y el pericardio. Puede lesionarse durante una escalenectomía anterior, cirugías cardíacas abiertas o toracoscópicas mediastínicas, ablación por radiofrecuencia de venas pulmonares o clampaje de la vena cava inferior durante hepatectomías o trasplantes hepáticos. La lesión del nervio frénico se manifiesta con disnea y, en caso de parálisis unilateral, movimiento asimétrico del tórax. No se esperaría *ala escápula* ni dificultad para peinarse.",
         "explanation_but": "",
         "selection_rate": 8
       },
@@ -292,7 +292,7 @@
         "letter": "E",
         "content": "T2-T5",
         "is_correct": false,
-        "explanation_why": "Each thoracic intercostal nerve arises from the corresponding spinal root (e.g., second intercostal nerve from T2 spinal root) and innervates the corresponding intercostal muscle. The second to fifth intercostal nerves also innervate the serratus posterior superior muscle. Intercostal nerve injury typically occurs during the placement of a chest drain or thoracotomy. However, the muscles innervated by these nerves are accessory respiratory muscles, and their paralysis is clinically insignificant as long as the diaphragm functions. Neuralgic pain is the only significant symptom following intercostal nerve injury.",
+        "explanation_why": "Cada nervio intercostal torácico proviene de la raíz espinal correspondiente (ej. segundo nervio intercostal de la raíz T2) e inerva el músculo intercostal correspondiente. Los nervios intercostales 2° a 5° también inervan el músculo serrato posterior superior. La lesión de los nervios intercostales suele ocurrir durante la colocación de un drenaje torácico o toracotomía. Sin embargo, los músculos que inervan son músculos respiratorios accesorios, y su parálisis es clínicamente insignificante siempre que el diafragma funcione. El único síntoma significativo tras una lesión de nervio intercostal es el dolor neuralgico.",
         "explanation_but": "",
         "selection_rate": 5,
         "images": [
@@ -309,7 +309,7 @@
         "letter": "F",
         "content": "C5–C7",
         "is_correct": true,
-        "explanation_why": "The long thoracic nerve originates directly from the C5–C7 anterior spinal roots, enters the axillary cavity, and descends together with the lateral thoracic artery along the lateral surface of the thoracic cage. In surgeries that require the patient to be in a prone position (e.g., spinal surgery), improper positioning of the arms can compress and injure this nerve. This injury leads to paralysis of the serratus anterior muscle, which manifests with medial winging of the scapula and weakened abduction of the shoulder above 90° (manifesting, e.g., during hair combing), as seen here. Further common causes of long thoracic nerve injury include invasive procedures (e.g., axillary lymph node dissection), direct trauma to the shoulder, and prolonged nerve compression (e.g., carrying a heavy backpack).\n\nThe musculocutaneous nerve also receives nerve fibers from C5–C7 spinal roots, but it arises as a branch of the lateral cord of the brachial plexus rather than directly from the spinal roots. Injury to the musculocutaneous nerve (e.g., a gunshot wound in the arm) manifests with loss of sensation over the lateral forearm and impaired flexion and supination of the forearm.",
+        "explanation_why": "El nervio torácico largo proviene directamente de las raíces espinales anteriores C5–C7, entra en la cavidad axilar y desciende junto con la arteria torácica lateral a lo largo de la superficie lateral de la caja torácica. En cirugías que requieren posición prona (ej. cirugía espinal), una mala colocación de los brazos puede comprimir y lesionar este nervio. Esta lesión provoca parálisis del músculo serrato anterior, manifestándose con *ala escápula medial* y debilidad en la abducción del hombro por encima de 90° (ej. al peinarse), como se observa en este caso. Otras causas comunes de lesión del nervio torácico largo incluyen procedimientos invasivos (ej. disección de ganglios linfáticos axilares), trauma directo en el hombro y compresión nerviosa prolongada (ej. llevar una mochila pesada).\n\nEl nervio musculocutáneo también recibe fibras de las raíces C5–C7, pero surge como rama del cordón lateral del plexo braquial, no directamente de las raíces espinales. La lesión del nervio musculocutáneo (ej. herida de arma de fuego en el brazo) se manifiesta con pérdida de sensibilidad en el antebrazo lateral e incapacidad para la flexión y supinación del antebrazo.",
         "explanation_but": "",
         "selection_rate": 60,
         "images": [
@@ -336,19 +336,19 @@
   },
   {
     "eid": "3raSSN",
-    "question_text": "A 31-year-old man comes to the physician because of a 1-month history of pain in his right arm and numbness and tingling in his right hand. He recently started his job as a painter. One month ago, he had to quit his job because the symptoms worsened whenever he tried to reach above his head. He has no history of serious illness and takes no medications. He does not smoke and drinks two beers daily. Vital signs are within normal limits. Physical examination shows decreased sensation to fine touch in the 4^th and 5^th fingers of his right hand. Radial pulse intensity decreases when the patient's right arm is abducted and externally rotated. Which of the following is the most likely cause of this patient's symptoms?",
-    "content_preview": "A 31-year-old man comes to the physician because of a 1-month history of pain in his right arm and numbness and tingling in his right hand. He recently started his job as a painter. One month ago, he had to quit his job because the symptoms worsened whenever he tried to reach above his head. He has no history of serious illness and takes no medications. He does not smoke and drinks two beers daily. Vital signs are within normal limits. Physical examination shows decreased sensation to fine touch in the 4th and 5th fingers of his right hand. Radial pulse intensity decreases when the patient's right arm is abducted and externally rotated. Which of the following is the most likely cause of this patient's symptoms?",
+    "question_text": "Un hombre de 31 años acude al médico por un dolor en su brazo derecho y parestesias en la mano derecha de 1 mes de evolución. Recientemente comenzó su trabajo como pintor. Hace 1 mes tuvo que abandonar su empleo porque los síntomas empeoraban cada vez que intentaba alcanzar por encima de su cabeza. No tiene antecedentes de enfermedades graves ni toma medicamentos. No fuma y consume dos cervezas diarias. Los signos vitales están dentro de límites normales. El examen físico muestra disminución de la sensibilidad al tacto fino en el 4° y 5° dedos de su mano derecha. La intensidad del pulso radial disminuye cuando el brazo derecho del paciente es abducto y rotado externamente. ¿Cuál de las siguientes es la causa más probable de los síntomas de este paciente?",
+    "content_preview": "Un hombre de 31 años acude al médico por un dolor en su brazo derecho y parestesias en la mano derecha de 1 mes de evolución. Recientemente comenzó su trabajo como pintor. Hace 1 mes tuvo que abandonar su empleo porque los síntomas empeoraban cada vez que intentaba alcanzar por encima de su cabeza. No tiene antecedentes de enfermedades graves ni toma medicamentos. No fuma y consume dos cervezas diarias. Los signos vitales están dentro de límites normales. El examen físico muestra disminución de la sensibilidad al tacto fino en el 4° y 5° dedos de su mano derecha. La intensidad del pulso radial disminuye cuando el brazo derecho del paciente es abducto y rotado externamente. ¿Cuál de las siguientes es la causa más probable de los síntomas de este paciente?",
     "correct_answer": "B",
     "difficulty": 3,
-    "hint": "Physical examination shows a positive Adson test (i.e., decreased pulse intensity with arm abduction and external rotation).",
-    "learning_objective": "Recognize a cervical rib causing thoracic outlet syndrome.",
+    "hint": "El examen físico muestra una prueba de Adson positiva (es decir, disminución de la intensidad del pulso con abducción y rotación externa del brazo).",
+    "learning_objective": "Reconocer una costilla cervical como causa del síndrome del desfiladero torácico.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "Carpal tunnel syndrome",
+        "content": "Síndrome del túnel carpiano",
         "is_correct": false,
-        "explanation_why": "Carpal tunnel syndrome (CTS) results in median nerve compression and often manifests with paresthesia of the fingers, which can worsen with prolonged overhead hand elevation (positive hand elevation test). However, this paresthesia would be present in the 1^st, 2^nd, and 3^rd digits rather than the 4^th and 5^th digits. Moreover, this patient's arm pain and the positive Adson test are not consistent with CTS.",
+        "explanation_why": "El síndrome del túnel carpiano (STC) provoca compresión del nervio mediano y suele manifestarse con parestesias en los dedos, que pueden empeorar con la elevación prolongada de la mano por encima de la cabeza (prueba de elevación positiva). Sin embargo, estas parestesias afectarían principalmente al 1°, 2° y 3° dedos en lugar del 4° y 5°. Además, el dolor en el brazo del paciente y la prueba de Adson positiva no son compatibles con STC.",
         "explanation_but": "",
         "selection_rate": 5,
         "images": [
@@ -363,9 +363,9 @@
       },
       {
         "letter": "B",
-        "content": "Cervical rib",
+        "content": "Costilla cervical",
         "is_correct": true,
-        "explanation_why": "A cervical rib is a common cause of thoracic outlet syndrome (TOS), which occurs because of compression of the lower trunk of the brachial plexus (derived from the C8–T1 nerve roots) and/or subclavian vessels in the area of the scalene triangle. Compression of the lower trunk of the brachial plexus can cause neuropathic pain, paresthesias, and sensory loss in the C8 and T1 dermatomes (i.e., 4^th and 5^th fingers, medial aspect of the arm), as seen here, and possibly weakness of the intrinsic muscles of the hand. The symptoms in the case of a cervical rib are usually exacerbated by overhead arm elevation. Compression of the subclavian vessels is less common; subclavian vein compression results in swelling of the arm, and subclavian artery compression can cause acute or chronic limb ischemia and, possibly, subclavian steal syndrome. A positive Adson test, as seen here, is suggestive of a cervical rib. Other common causes of TOS are Pancoast tumor, muscular anomalies (e.g., supernumerary scalene muscles, neck muscle hypertrophy), and trauma (e.g., clavicle fracture).",
+        "explanation_why": "Una costilla cervical es una causa común del síndrome del desfiladero torácico (SDT), que ocurre por compresión del tronco inferior del plexo braquial (derivado de las raíces nerviosas C8–T1) y/o de los vasos subclavios en el área del triángulo escalénico. La compresión del tronco inferior del plexo braquial puede causar dolor neuropático, parestesias y pérdida sensorial en los dermatomas C8 y T1 (es decir, 4° y 5° dedos, aspecto medial del brazo), como se observa en este caso, y posiblemente debilidad de los músculos intrínsecos de la mano. Los síntomas en caso de costilla cervical suelen empeorar con la elevación del brazo por encima de la cabeza. La compresión de los vasos subclavios es menos frecuente; la compresión de la vena subclavia provoca edema en el brazo, y la compresión de la arteria subclavia puede causar isquemia aguda o crónica del miembro y, posiblemente, síndrome de robo subclavio. Una prueba de Adson positiva, como la descrita aquí, sugiere la presencia de una costilla cervical. Otras causas comunes de SDT incluyen tumor de Pancoast, anomalías musculares (ej. músculos escalenos supernumerarios, hipertrofia de músculos del cuello) y traumatismos (ej. fractura de clavícula).",
         "explanation_but": "",
         "selection_rate": 49,
         "images": [
@@ -380,17 +380,17 @@
       },
       {
         "letter": "C",
-        "content": "Polymyositis",
+        "content": "Polimiositis",
         "is_correct": false,
-        "explanation_why": "Patients with polymyositis have progressive symmetric proximal muscle weakness and report difficulty reaching for objects above their head rather than worsening pain and paresthesia when performing this action. Moreover, this patient's positive Adson test is not consistent with polymyositis.",
+        "explanation_why": "Los pacientes con polimiositis presentan debilidad muscular proximal simétrica y progresiva, y refieren dificultad para alcanzar objetos por encima de la cabeza en lugar de empeoramiento del dolor y las parestesias al realizar esta acción. Además, la prueba de Adson positiva de este paciente no es compatible con polimiositis.",
         "explanation_but": "",
         "selection_rate": 1
       },
       {
         "letter": "D",
-        "content": "Upper trunk compression",
+        "content": "Compresión del tronco superior",
         "is_correct": false,
-        "explanation_why": "Compression of the upper trunk of the brachial plexus (Erb palsy) can also result in pain and paresthesia. However, the paresthesia would occur in the lateral aspects of the arm, forearm, and/or hand (C5 and C6 dermatomes), not the 4^th and 5^th (medial) digits. In addition, patients with Erb palsy typically present with an internally rotated and adducted arm, extended forearm, and a flexed wrist (“waiter's tip posture”).",
+        "explanation_why": "La compresión del tronco superior del plexo braquial (parálisis de Erb) también puede causar dolor y parestesias. Sin embargo, las parestesias se presentarían en los aspectos laterales del brazo, antebrazo y/o mano (dermatomas C5 y C6), no en los 4° y 5° dedos (mediales). Además, los pacientes con parálisis de Erb suelen presentar un brazo en rotación interna y aducción, antebrazo extendido y muñeca flexionada (postura de 'bandeja del camarero').",
         "explanation_but": "",
         "selection_rate": 36,
         "images": [
@@ -405,9 +405,9 @@
       },
       {
         "letter": "E",
-        "content": "Cervical disc protrusion",
+        "content": "Protrusión discal cervical",
         "is_correct": false,
-        "explanation_why": "Protrusion of the C7/T1 intervertebral disc can compress the C8 spinal root and cause pain and paresthesia in the 4^th and 5^th digits (C8 dermatome). However, in the case of cervical spinal root compression (radiculopathy), patients usually have neck pain and the paresthesia is relieved by overhead arm elevation, unlike the exacerbation experienced in this patient reaching above the head. Parasthesias in cervical disc protrusion are instead exacerbated by extending the neck to the side and applying downward pressure to the head (Spurling maneuver). Moreover, a positive Adson test is not consistent with a cervical disc protrusion.",
+        "explanation_why": "La protrusión del disco intervertebral C7/T1 puede comprimir la raíz espinal C8 y causar dolor y parestesias en el 4° y 5° dedos (dermatoma C8). Sin embargo, en caso de compresión radicular cervical (radiculopatía), los pacientes suelen presentar dolor cervical y las parestesias se alivian con la elevación del brazo por encima de la cabeza, a diferencia de la exacerbación que experimenta este paciente al alcanzar por encima de su cabeza. Las parestesias en la protrusión discal cervical, en cambio, se exacerban al extender el cuello hacia el lado y aplicar presión descendente sobre la cabeza (maniobra de Spurling). Además, una prueba de Adson positiva no es compatible con una protrusión discal cervical.",
         "explanation_but": "",
         "selection_rate": 9,
         "images": [
@@ -425,19 +425,19 @@
   },
   {
     "eid": "IEaYCm",
-    "question_text": "A 71-year-old woman comes to the physician 1 day after the sudden onset of pain in her neck, left shoulder, and left hand while shoveling snow. The pain improves when she lifts her left arm above her head. She has no history of similar pain or trauma. She worked as an auto mechanic for 40 years and retired 10 years ago. Vital signs are within normal limits. Muscle strength is 3/5 on elbow extension, wrist flexion, and finger extension of the left upper extremity. Triceps deep tendon reflex is 1+ in the left upper extremity and 2+ in the right upper extremity. Sensation to pinprick is decreased over the index finger, middle finger, and radial half of finger IV of the left hand. The Spurling maneuver is positive. An MRI of the cervical spine discloses a lateral disc herniation. This patient's symptoms are most likely caused by compression of which of the following nerve roots?",
-    "content_preview": "A 71-year-old woman comes to the physician 1 day after the sudden onset of pain in her neck, left shoulder, and left hand while shoveling snow. The pain improves when she lifts her left arm above her head. She has no history of similar pain or trauma. She worked as an auto mechanic for 40 years and retired 10 years ago. Vital signs are within normal limits. Muscle strength is 3/5 on elbow extension, wrist flexion, and finger extension of the left upper extremity. Triceps deep tendon reflex is 1+ in the left upper extremity and 2+ in the right upper extremity. Sensation to pinprick is decreased over the index finger, middle finger, and radial half of finger IV of the left hand. The Spurling maneuver is positive. An MRI of the cervical spine discloses a lateral disc herniation. This patient's symptoms are most likely caused by compression of which of the following nerve roots?",
+    "question_text": "Una mujer de 71 años acude al médico 1 día después del inicio súbito de dolor en su cuello, hombro izquierdo y mano izquierda mientras removía nieve. El dolor mejora cuando eleva su brazo izquierdo por encima de la cabeza. No tiene antecedentes de dolor similar o trauma. Trabajó como mecánica de autos durante 40 años y se retiró hace 10 años. Los signos vitales están dentro de límites normales. La fuerza muscular es 3/5 en extensión del codo, flexión de la muñeca y extensión de los dedos del miembro superior izquierdo. El reflejo osteotendinoso del tríceps es 1+ en el miembro superior izquierdo y 2+ en el derecho. La sensación al pinchazo está disminuida sobre el dedo índice, medio y mitad radial del dedo IV de la mano izquierda. La maniobra de Spurling es positiva. Una RM de la columna cervical revela una hernia discal lateral. Los síntomas de esta paciente son más probablemente causados por compresión de cuál de las siguientes raíces nerviosas?",
+    "content_preview": "Una mujer de 71 años acude al médico 1 día después del inicio súbito de dolor en su cuello, hombro izquierdo y mano izquierda mientras removía nieve. El dolor mejora cuando eleva su brazo izquierdo por encima de la cabeza. No tiene antecedentes de dolor similar o trauma. Trabajó como mecánica de autos durante 40 años y se retiró hace 10 años. Los signos vitales están dentro de límites normales. La fuerza muscular es 3/5 en extensión del codo, flexión de la muñeca y extensión de los dedos del miembro superior izquierdo. El reflejo osteotendinoso del tríceps es 1+ en el miembro superior izquierdo y 2+ en el derecho. La sensación al pinchazo está disminuida sobre el dedo índice, medio y mitad radial del dedo IV de la mano izquierda. La maniobra de Spurling es positiva. Una RM de la columna cervical revela una hernia discal lateral. Los síntomas de esta paciente son más probablemente causados por compresión de cuál de las siguientes raíces nerviosas?",
     "correct_answer": "D",
     "difficulty": 3,
-    "hint": "Disc herniation and cervical spondylosis are the most common causes of compressive cervical radiculopathy. Some cervical roots are more frequently affected than others.",
-    "learning_objective": "Recognize symptoms of C7 radiculopathy, and recall its associated motor and sensory deficits.",
+    "hint": "La hernia discal y la espondilosis cervical son las causas más comunes de radiculopatía cervical compresiva. Algunas raíces cervicales son más frecuentemente afectadas que otras.",
+    "learning_objective": "Reconocer los síntomas de radiculopatía de C7 y recordar sus déficits motores y sensoriales asociados.",
     "source": null,
     "answers": [
       {
         "letter": "A",
         "content": "C4",
         "is_correct": false,
-        "explanation_why": "C4 radiculopathy typically manifests with ipsilateral pain and paresthesia affecting the lower neck and shoulder girdle (e.g., cape-like distribution), which is not the pattern seen here. Moreover, damage to the C4 nerve root leads to scapular winging, a condition that can arise due to any lesion to the dorsal scapular nerve innervating the rhomboid muscles. Finally, C4 radiculopathy does not cause a reduction in any of the reflexes of the upper extremity.",
+        "explanation_why": "La radiculopatía de C4 típicamente se manifiesta con dolor y parestesias ipsilaterales que afectan el cuello inferior y la cintura escapular (ej. distribución tipo capa), lo cual no coincide con el patrón observado aquí. Además, la lesión de la raíz nerviosa C4 puede generar alado escapular, condición que surge por lesiones del nervio escapular dorsal que inerva los músculos romboides. Finalmente, la radiculopatía de C4 no causa reducción de los reflejos del miembro superior.",
         "explanation_but": "",
         "selection_rate": 3
       },
@@ -445,7 +445,7 @@
         "letter": "B",
         "content": "C5",
         "is_correct": false,
-        "explanation_why": "C5 radiculopathy typically manifests with ipsilateral pain and paresthesia over the anterior shoulder, which is inconsistent with this patient's sensory deficits. Moreover, damage to the C5 nerve root leads to impaired function of the biceps and deltoid muscles as well as a reduction in biceps reflex, none of which is seen here.",
+        "explanation_why": "La radiculopatía de C5 típicamente se manifiesta con dolor y parestesias ipsilaterales sobre el hombro anterior, lo cual es inconsistente con los déficits sensoriales de esta paciente. Además, la lesión de la raíz nerviosa C5 conduce a disfunción de los músculos bíceps y deltoides, así como a una reducción del reflejo bíceps, ninguno de los cuales se observa aquí.",
         "explanation_but": "",
         "selection_rate": 14
       },
@@ -453,7 +453,7 @@
         "letter": "C",
         "content": "C6",
         "is_correct": false,
-        "explanation_why": "C6 radiculopathy typically manifests with ipsilateral pain and paresthesia extending from the radial aspect of the forearm to the thumb and radial side of the index finger, which is inconsistent with this patient's sensory deficits. Moreover, damage to the C6 nerve root leads to impaired function of the biceps and wrist extensor muscles as well as a reduction in biceps and brachioradialis reflexes, none of which is seen here.",
+        "explanation_why": "La radiculopatía de C6 típicamente se manifiesta con dolor y parestesias ipsilaterales que se extienden desde el aspecto radial del antebrazo hasta el pulgar y lado radial del dedo índice, lo cual es inconsistente con los déficits sensoriales de esta paciente. Además, la lesión de la raíz nerviosa C6 conduce a disfunción de los músculos bíceps y extensores de la muñeca, así como a una reducción de los reflejos bíceps y braquiorradial, ninguno de los cuales se observa aquí.",
         "explanation_but": "",
         "selection_rate": 23
       },
@@ -461,7 +461,7 @@
         "letter": "D",
         "content": "C7",
         "is_correct": true,
-        "explanation_why": "C7 radiculopathy typically manifests with ipsilateral pain or paresthesia extending from the dorsal medial forearm up to the fingers II–IV and in palmar fingers II–IV (ulnar half of II, III entirely, radial half of IV). Damage to the C7 nerve root leads to impaired function of the triceps, wrist flexor, and finger extensor muscles as well as a reduction in triceps reflex.\n\nThe dermatomes overlap with each other and vary widely among individuals. Therefore, it may be difficult to identify the affected root only via sensory patterns, even in severe cases. Although the distribution of the sensory deficits is useful for the diagnosis, deficits are often not as characteristic as in this patient.",
+        "explanation_why": "La radiculopatía de C7 típicamente se manifiesta con dolor o parestesias ipsilaterales que se extienden desde el antebrazo medial dorsal hasta los dedos II–IV y en los dedos palmares II–IV (mitad ulnar de II, III completamente, mitad radial de IV). La lesión de la raíz nerviosa C7 conduce a disfunción de los músculos tríceps, flexores de la muñeca y extensores de los dedos, así como a una reducción del reflejo tríceps.\n\nLos dermatomas se solapan entre sí y varían ampliamente entre individuos. Por lo tanto, puede ser difícil identificar la raíz afectada solo mediante patrones sensoriales, incluso en casos graves. Aunque la distribución de los déficits sensoriales es útil para el diagnóstico, estos suelen no ser tan característicos como en esta paciente.",
         "explanation_but": "",
         "selection_rate": 53,
         "images": [
@@ -478,7 +478,7 @@
         "letter": "E",
         "content": "C8",
         "is_correct": false,
-        "explanation_why": "C8 radiculopathy typically manifests with ipsilateral pain and paresthesia extending from the dorsal forearm to the dorsal and palmar area of fingers IV (ulnar half) and V, and the hypothenar eminence, which is not the pattern seen here. Moreover, damage to the C8 nerve root leads to impaired function of the finger flexors and does not cause a reduction in any of the reflexes of the upper extremity.",
+        "explanation_why": "La radiculopatía de C8 típicamente se manifiesta con dolor y parestesias ipsilaterales que se extienden desde el antebrazo dorsal hasta las áreas dorsal y palmar de los dedos IV (mitad ulnar) y V, y el eminencia hipotenar, lo cual no coincide con el patrón observado aquí. Además, la lesión de la raíz nerviosa C8 conduce a disfunción de los músculos flexores de los dedos y no causa reducción de los reflejos del miembro superior.",
         "explanation_but": "",
         "selection_rate": 7
       }

@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { SignOutButton } from '@clerk/clerk-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Search, BookOpen, GraduationCap, LogOut, ChevronDown, ChevronRight } from 'lucide-react';
 import clsx from 'clsx';
@@ -11,7 +12,7 @@ interface SubjectSelectorProps {
   onLogout: () => void;
 }
 
-export default function SubjectSelector({ username, onSelectTerapeutica, onSelectAmboss, onLogout }: SubjectSelectorProps) {
+export default function SubjectSelector({ username, onSelectTerapeutica, onSelectAmboss }: SubjectSelectorProps) {
   const [subjects, setSubjects] = useState<Subject[]>([]);
   const [search, setSearch] = useState('');
   const [loading, setLoading] = useState(true);
@@ -73,13 +74,14 @@ export default function SubjectSelector({ username, onSelectTerapeutica, onSelec
               Bienvenido, {username}
             </p>
           </div>
-          <button
-            onClick={onLogout}
-            className="p-2 rounded-full hover:bg-surface/60 text-primary/40 hover:text-primary transition-all"
-            title="Cerrar sesión"
-          >
-            <LogOut size={18} />
-          </button>
+          <SignOutButton>
+            <button
+              className="p-2 rounded-full hover:bg-surface/60 text-primary/40 hover:text-primary transition-all"
+              title="Cerrar sesión"
+            >
+              <LogOut size={18} />
+            </button>
+          </SignOutButton>
         </div>
       </header>
 
@@ -162,14 +164,19 @@ export default function SubjectSelector({ username, onSelectTerapeutica, onSelec
                         </button>
                       )}
                       <button
-                        onClick={() => onSelectAmboss(subject)}
+                        onClick={() => hasChildren ? toggleGroup(subject.id) : onSelectAmboss(subject)}
                         className={clsx(
-                          "flex-1 text-left px-4 py-3 rounded-xl bg-surface/30 border border-border/20 hover:border-primary/20 hover:bg-surface/60 transition-all duration-300 group",
-                          !hasChildren && "ml-8"
+                          "flex-1 text-left px-4 py-3 rounded-xl transition-all duration-300 group",
+                          hasChildren
+                            ? "bg-surface/10 border border-border/10 hover:bg-surface/30 cursor-pointer"
+                            : "bg-surface/30 border border-border/20 hover:border-primary/20 hover:bg-surface/60 ml-8"
                         )}
                       >
                         <div className="flex items-center justify-between">
-                          <span className="text-sm text-primary/80 group-hover:text-white transition-colors truncate pr-2">
+                          <span className={clsx(
+                            "text-sm transition-colors truncate pr-2",
+                            hasChildren ? "text-primary/50 font-medium" : "text-primary/80 group-hover:text-white"
+                          )}>
                             {subject.name}
                           </span>
                           <span className="text-[11px] text-primary/30 font-mono shrink-0">

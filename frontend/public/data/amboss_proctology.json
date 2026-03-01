@@ -1,19 +1,19 @@
 [
   {
     "eid": "Mg0MD2",
-    "question_text": "A 36-year-old woman comes to the physician because of growths around her anus that developed over the past 4 weeks. They are not painful and she does not have blood in her stool. She is sexually active with two male partners and uses condoms inconsistently. She appears healthy. Vital signs are within normal limits. Examination shows nontender, irregular, hyperkeratotic sessile lesions in the perianal area around 4–7 mm in diameter. There is no lymphadenopathy. The application of a dilute solution of acetic acid turns the lesions white. Which of the following is the most likely cause of the lesions?",
-    "content_preview": "A 36-year-old woman comes to the physician because of growths around her anus that developed over the past 4 weeks. They are not painful and she does not have blood in her stool. She is sexually active with two male partners and uses condoms inconsistently. She appears healthy. Vital signs are within normal limits. Examination shows nontender, irregular, hyperkeratotic sessile lesions in the perianal area around 4–7 mm in diameter. There is no lymphadenopathy. The application of a dilute solution of acetic acid turns the lesions white. Which of the following is the most likely cause of the lesions?",
+    "question_text": "Una mujer de 36 años acude al médico por crecimiento alrededor de su ano que se desarrollaron en las últimas 4 semanas. Estos no son dolorosos y no presenta sangre en sus heces. Es sexualmente activa con dos parejas masculinas y usa condones de manera inconsistente. Parece saludable. Los signos vitales están dentro de límites normales. El examen muestra lesiones sésiles, hiperqueratósicas, irregulares y no dolorosas en la zona perianal de aproximadamente 4–7 mm de diámetro. No hay linfadenopatía. La aplicación de una solución diluida de ácido acético tiñe las lesiones de blanco. ¿Cuál de las siguientes es la causa más probable de las lesiones?",
+    "content_preview": "Una mujer de 36 años acude al médico por crecimiento alrededor de su ano que se desarrollaron en las últimas 4 semanas. Estos no son dolorosos y no presenta sangre en sus heces. Es sexualmente activa con dos parejas masculinas y usa condones de manera inconsistente. Parece saludable. Los signos vitales están dentro de límites normales. El examen muestra lesiones sésiles, hiperqueratósicas, irregulares y no dolorosas en la zona perianal alrededor de 4–7 mm de diámetro. No hay linfadenopatía. La aplicación de una solución diluida de ácido acético tiñe las lesiones de blanco. ¿Cuál de las siguientes es la causa más probable de las lesiones?",
     "correct_answer": "E",
     "difficulty": 2,
-    "hint": "The cauliflower-like growths in the perianal area may be treated with cryotherapy or, in more severe cases, curettage, laser surgery, or electrocoagulation.",
-    "learning_objective": "Recognize condylomata acuminata, and recall its causal pathogen.",
+    "hint": "Los crecimientos tipo coliflor en la zona perianal pueden tratarse con crioterapia o, en casos más graves, curetaje, cirugía con láser o electrocoagulación.",
+    "learning_objective": "Reconocer los condilomas acuminados y recordar su patógeno causal.",
     "source": null,
     "answers": [
       {
         "letter": "A",
         "content": "Poxvirus",
         "is_correct": false,
-        "explanation_why": "The molluscum contagiosum (MC) virus is a DNA poxvirus that most commonly affects young children. It also affects adults, particularly those who are immunocompromised (e.g., due to HIV infection, chemotherapy, or extensive corticosteroid therapy). MC is transmitted through direct skin contact, autoinoculation, or fomites. Lesions are typically nontender and located on the face, trunk, and extremities. Sexually transmitted MC can cause lesions in the groin, lower abdomen, and genitals. In contrast to this patient's skin lesions, characteristic MC lesions are pearly, flesh-colored, dome-shaped, and smooth with a central umbilication.",
+        "explanation_why": "El virus del molusco contagioso (MC) es un DNA poxvirus que afecta principalmente a niños pequeños. También afecta a adultos, especialmente a aquellos inmunodeprimidos (ej. por infección por VIH, quimioterapia o terapia prolongada con corticoides). El MC se transmite por contacto directo con la piel, autoinoculación o fómites. Las lesiones suelen ser no dolorosas y se localizan en la cara, tronco y extremidades. El MC transmitido sexualmente puede causar lesiones en la ingle, abdomen inferior y genitales. A diferencia de las lesiones cutáneas de esta paciente, las lesiones características del MC son perlas, de color carne, en forma de cúpula, lisas y con una umbilicación central.",
         "explanation_but": "",
         "selection_rate": 1,
         "images": [
@@ -30,7 +30,7 @@
         "letter": "B",
         "content": "Treponema pallidum",
         "is_correct": false,
-        "explanation_why": "T. pallidum is the pathogen responsible for syphilis. Secondary syphilis can manifest with condylomata lata, which are painless skin lesions in the anogenital region. However, condylomata lata are typically broad-based, smooth, papular erosions, not exophytic, and cauliflower-like masses. Moreover, secondary syphilis typically causes generalized lymphadenopathy and constitutional symptoms (e.g., fever, fatigue), which this patient does not have. Finally, acetic acid would not turn syphilitic lesions white.",
+        "explanation_why": "T. pallidum es el patógeno responsable de la sífilis. La sífilis secundaria puede manifestarse con condilomas latos, que son lesiones cutáneas indoloras en la región anogenital. Sin embargo, los condilomas latos suelen ser erosiones papulares de base ancha y lisas, no masas exofíticas tipo coliflor. Además, la sífilis secundaria suele causar linfadenopatía generalizada y síntomas constitucionales (ej. fiebre, fatiga), que esta paciente no presenta. Finalmente, el ácido acético no tiñe de blanco las lesiones sifilíticas.",
         "explanation_but": "",
         "selection_rate": 3,
         "images": [
@@ -45,9 +45,9 @@
       },
       {
         "letter": "C",
-        "content": "Malignant transformation",
+        "content": "Transformación maligna",
         "is_correct": false,
-        "explanation_why": "Malignant transformation of squamous cells (i.e., SCC) is the underlying pathomechanism in the majority of patients with anal cancer. Symptoms consistent with SCC of the anus include rectal bleeding, itching, pain, lymphadenopathy, and/or anal discharge. Rather than multiple smaller growths around the anus, a larger, solitary mass in the anal canal would be more likely. If this patient had rectal bleeding or other concerning symptoms, benign causes (e.g., hemorrhoids, anal fissure, and warts) would be investigated first.",
+        "explanation_why": "La transformación maligna de células escamosas (es decir, carcinoma de células escamosas, SCC) es el mecanismo patomecánico subyacente en la mayoría de pacientes con cáncer anal. Los síntomas compatibles con SCC del año incluyen sangrado rectal, picor, dolor, linfadenopatía y/o secreción anal. En lugar de múltiples crecimientos pequeños alrededor del año, sería más probable encontrar una masa solitaria y más grande en el canal anal. Si esta paciente tuviera sangrado rectal u otros síntomas preocupantes, primero se investigarían causas benignas (ej. hemorroides, fisura anal y verrugas).",
         "explanation_but": "",
         "selection_rate": 1,
         "images": [
@@ -62,17 +62,17 @@
       },
       {
         "letter": "D",
-        "content": "Benign fibroepithelial growth",
+        "content": "Crecimiento fibroepitelial benigno",
         "is_correct": false,
-        "explanation_why": "Benign fibroepithelial growth is the underlying cause of acrochordon (or skin tag), which is most commonly found in skin folds and is also painless. However, skin tags appear as normal folds of skin rather than cauliflower-like, and do not change over time. Additionally, they would not have a positive acetic acid skin test.",
+        "explanation_why": "El crecimiento fibroepitelial benigno es la causa subyacente de los acrocordones (o barros cutáneos), que se encuentran con mayor frecuencia en los pliegues cutáneos y también son indoloros. Sin embargo, los barros cutáneos aparecen como pliegues normales de la piel en lugar de lesiones tipo coliflor, y no cambian con el tiempo. Además, no darían positivo en la prueba cutánea con ácido acético.",
         "explanation_but": "",
         "selection_rate": 2
       },
       {
         "letter": "E",
-        "content": "Human papillomavirus type 6",
+        "content": "Virus del papiloma humano tipo 6",
         "is_correct": true,
-        "explanation_why": "HPV strains 6 and 11 cause 90% of genital warts, or condylomata acuminata. These lesions are cauliflower-like in their appearance, with a flat, papular, or pedunculated shape, and are commonly found on the mucosa or along the epithelium of the anogenital tract. They are usually asymptomatic but may be painful or pruritic in some cases. Application of 3–5% acetic acid will turn the lesion white, though this test has poor specificity for warts since polyps or leukoplakia can also appear white. Risk factors for HPV include multiple sexual partners and unprotected sexual intercourse.",
+        "explanation_why": "Las cepas de VPH 6 y 11 causan el 90% de las verrugas genitales o condilomas acuminados. Estas lesiones tienen apariencia tipo coliflor, con forma plana, papular o pediculada, y se encuentran comúnmente en la mucosa o a lo largo del epitelio del tracto anogenital. Suelen ser asintomáticas, pero pueden ser dolorosas o pruriginosas en algunos casos. La aplicación de ácido acético al 3–5% tiñe las lesiones de blanco, aunque esta prueba tiene baja especificidad para verrugas, ya que pólipos o leucoplasia también pueden aparecer blancos. Los factores de riesgo para el VPH incluyen múltiples parejas sexuales y relaciones sexuales sin protección.",
         "explanation_but": "",
         "selection_rate": 71,
         "images": [
@@ -87,9 +87,9 @@
       },
       {
         "letter": "F",
-        "content": "Human papillomavirus type 18",
+        "content": "Virus del papiloma humano tipo 18",
         "is_correct": false,
-        "explanation_why": "Infection with the oncogenic high-risk HPV strains (especially HPV-16 and HPV-18) may lead to precancerous and cancerous lesions. These high-risk strains account for more than 70% of cervical cancers and can also cause genital, oral, and oropharyngeal squamous cell cancers. However, HPV-18 is not responsible for anogenital warts.",
+        "explanation_why": "La infección con las cepas de alto riesgo oncogénico de VPH (especialmente VPH-16 y VPH-18) puede llevar a lesiones precancerosas y cancerosas. Estas cepas de alto riesgo son responsables de más del 70% de los cánceres de cuello uterino y también pueden causar cánceres de células escamosas genitales, orales y orofaríngeos. Sin embargo, el VPH-18 no es responsable de las verrugas anogenitales.",
         "explanation_but": "",
         "selection_rate": 22
       }
@@ -98,35 +98,35 @@
   },
   {
     "eid": "-S0DXf",
-    "question_text": "A 28-year-old woman comes to the physician because of bright red blood in her stools for 3 days. She has one bowel movement per day and no pain on defecation. She does not have a fever or abdominal pain. She was treated for a urinary tract infection with levofloxacin 3 months ago. Menses occur at regular intervals of 28–30 days and last 3–4 days. Her father died of colon cancer 4 years ago. Her only medication is an iron supplement. She is 162 cm (5 ft 4 in) tall and weighs 101.2 kg (223 lbs); BMI is 38 kg/m^2. Her temperature is 36.5°C (97.7°F), pulse is 89/min, and blood pressure is 130/80 mm Hg. Rectal examination shows anal skin tags. Anoscopy shows multiple enlarged bluish veins above the dentate line at the 7 and 11 o'clock positions. During Valsalva maneuver, a rectal mass prolapses but spontaneously reduces when normal breathing is resumed. Which of the following is the most appropriate next step in management?",
-    "content_preview": "A 28-year-old woman comes to the physician because of bright red blood in her stools for 3 days. She has one bowel movement per day and no pain on defecation. She does not have a fever or abdominal pain. She was treated for a urinary tract infection with levofloxacin 3 months ago. Menses occur at regular intervals of 28–30 days and last 3–4 days. Her father died of colon cancer 4 years ago. Her only medication is an iron supplement. She is 162 cm (5 ft 4 in) tall and weighs 101.2 kg (223 lbs); BMI is 38 kg/m2. Her temperature is 36.5°C (97.7°F), pulse is 89/min, and blood pressure is 130/80 mm Hg. Rectal examination shows anal skin tags. Anoscopy shows multiple enlarged bluish veins above the dentate line at the 7 and 11 o'clock positions. During Valsalva maneuver, a rectal mass prolapses but spontaneously reduces when normal breathing is resumed. Which of the following is the most appropriate next step in management?",
+    "question_text": "Una mujer de 28 años acude al médico por presentar sangre roja brillante en sus heces durante 3 días. Tiene un movimiento intestinal por día y no refiere dolor durante la defecación. No presenta fiebre ni dolor abdominal. Fue tratada por una infección del tracto urinario con levofloxacino hace 3 meses. Sus menstruaciones ocurren en intervalos regulares de 28–30 días y duran 3–4 días. Su padre falleció por cáncer de colon hace 4 años. Su único medicamento es un suplemento de hierro. Mide 162 cm (5 pies 4 pulgadas) y pesa 101.2 kg (223 libras); su IMC es 38 kg/m². Su temperatura es de 36.5°C (97.7°F), pulso de 89/min y presión arterial de 130/80 mm Hg. El examen rectal muestra pliegues anales (skin tags). La anoscopia muestra múltiples venas azuladas y dilatadas por encima de la línea dentada en las posiciones de las 7 y 11 horas. Durante la maniobra de Valsalva, una masa rectal prolapsa, pero se reduce espontáneamente al reanudar la respiración normal. ¿Cuál de las siguientes es el siguiente paso más apropiado en el manejo?",
+    "content_preview": "Una mujer de 28 años acude al médico por presentar sangre roja brillante en sus heces durante 3 días. Tiene un movimiento intestinal por día y no refiere dolor durante la defecación. No presenta fiebre ni dolor abdominal. Fue tratada por una infección del tracto urinario con levofloxacino hace 3 meses. Sus menstruaciones ocurren en intervalos regulares de 28–30 días y duran 3–4 días. Su padre falleció por cáncer de colon hace 4 años. Su único medicamento es un suplemento de hierro. Mide 162 cm (5 pies 4 pulgadas) y pesa 101.2 kg (223 libras); su IMC es 38 kg/m². Su temperatura es de 36.5°C (97.7°F), pulso de 89/min y presión arterial de 130/80 mm Hg. El examen rectal muestra pliegues anales (skin tags). La anoscopia muestra múltiples venas azuladas y dilatadas por encima de la línea dentada en las posiciones de las 7 y 11 horas. Durante la maniobra de Valsalva, una masa rectal prolapsa, pero se reduce espontáneamente al reanudar la respiración normal. ¿Cuál de las siguientes es el siguiente paso más apropiado en el manejo?",
     "correct_answer": "C",
     "difficulty": 4,
-    "hint": "Internal hemorrhoids originate above the dentate line and are generally painless. An internal hemorrhoid that protrudes outside the anus on straining but reduces spontaneously is a grade II internal hemorrhoid.",
-    "learning_objective": "Recognize internal hemorrhoids, and choose the most appropriate initial management.",
+    "hint": "Las hemorroides internas se originan por encima de la línea dentada y generalmente son indoloras. Una hemorroide interna que protruye fuera del año al esfuerzo pero se reduce espontáneamente corresponde a una hemorroide interna grado II.",
+    "learning_objective": "Reconocer hemorroides internas y seleccionar el manejo inicial más apropiado.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "Injection sclerotherapy",
+        "content": "Escleroterapia por inyección",
         "is_correct": false,
-        "explanation_why": "Injection sclerotherapy is first-line therapy for grade III internal hemorrhoids, but it is usually used for grade I and grade II internal hemorrhoids that persist despite conservative therapy. Grade III internal hemorrhoids originate above the dentate line, prolapse when straining, and require manual reduction (i.e., do not reduce spontaneously). Because this patient has grade II internal hemorrhoids, a more conservative approach must first be considered.",
+        "explanation_why": "La escleroterapia por inyección es la terapia de primera línea para hemorroides internas grado III, pero generalmente se usa para hemorroides internas grado I y II que persisten a pesar de la terapia conservadora. Las hemorroides internas grado III se originan por encima de la línea dentada, prolapsan al esfuerzo y requieren reducción manual (es decir, no se reducen espontáneamente). Dado que esta paciente tiene hemorroides internas grado II, debe considerarse primero un enfoque más conservador.",
         "explanation_but": "",
         "selection_rate": 2
       },
       {
         "letter": "B",
-        "content": "Rubber band ligation",
+        "content": "Ligadura con banda de goma",
         "is_correct": false,
-        "explanation_why": "Rubber band ligation is a procedure in which a rubber band is placed at the apex of an internal hemorrhoid, triggering an inflammatory response and fibrosis. This treatment is indicated for grade I and grade II internal hemorrhoids once conservative treatment has failed. In this patient's case, a more conservative approach should first be considered.",
+        "explanation_why": "La ligadura con banda de goma es un procedimiento en el que se coloca una banda elástica en el ápex de una hemorroide interna, desencadenando una respuesta inflamatoria y fibrosis. Este tratamiento está indicado para hemorroides internas grado I y II una vez que la terapia conservadora ha fallado. En el caso de esta paciente, debe considerarse primero un enfoque más conservador.",
         "explanation_but": "",
         "selection_rate": 33
       },
       {
         "letter": "C",
-        "content": "Stool softeners",
+        "content": "Ablandadores de heces",
         "is_correct": true,
-        "explanation_why": "Stool softeners (e.g., docusate and topical/suppository lidocaine if painful) are used for the conservative treatment of hemorrhoids. Further appropriate interventions include Sitz baths and lifestyle modifications (e.g., weight loss, exercise, high fiber diet, avoidance of fatty and spicy foods). Conservative therapy is the first-line management of external as well as grade I and grade II internal hemorrhoids.",
+        "explanation_why": "Los ablandadores de heces (ej. docusato y lidocaína tópica/supositórios si hay dolor) se usan para el tratamiento conservador de hemorroides. Otras intervenciones apropiadas incluyen baños de asiento y modificaciones del estilo de vida (ej. pérdida de peso, ejercicio, dieta alta en fibra, evitación de alimentos grasos y picantes). La terapia conservadora es el manejo de primera línea para hemorroides externas y hemorroides internas grado I y II.",
         "explanation_but": "",
         "selection_rate": 44,
         "images": [
@@ -141,33 +141,33 @@
       },
       {
         "letter": "D",
-        "content": "Topical diltiazem",
+        "content": "Diltiazem tópico",
         "is_correct": false,
-        "explanation_why": "Topical diltiazem may be used to relieve spasm of the anal sphincter that occurs in patients with painful thrombosed external hemorrhoids or following hemorrhoidectomy. It is also used as first-line management for chronic anal fissures. Patients with chronic anal fissures may present with rectal bleeding and an anal skin tag as seen in this patient. Although anal fissures may coexist with prolapsed hemorrhoids, they are always associated with pain during and after defecation. In addition, patients usually present with symptoms lasting more than 8–12 weeks.",
+        "explanation_why": "El diltiazem tópico puede usarse para aliviar el espasmo del esfínter anal que ocurre en pacientes con hemorroides externas trombosadas dolorosas o después de una hemorroidectomía. También se usa como tratamiento de primera línea para fisuras anales crónicas. Los pacientes con fisuras anales crónicas pueden presentar sangrado rectal y un pliegue anal (skin tag) como el observado en esta paciente. Aunque las fisuras anales pueden coexistir con hemorroides prolapsadas, siempre se asocian con dolor durante y después de la defecación. Además, los pacientes suelen presentar síntomas por más de 8–12 semanas.",
         "explanation_but": "",
         "selection_rate": 5
       },
       {
         "letter": "E",
-        "content": "Propranolol therapy",
+        "content": "Terapia con propranolol",
         "is_correct": false,
-        "explanation_why": "Propranolol is used as secondary prophylaxis to prevent bleeding from rectal varices. It inhibits the β_2-adrenoreceptors in the gastrointestinal tract causing splanchnic vasoconstriction, which in turn decreases the amount of blood in the portal veins and portal venous pressure. Rectal varices appear as tortuous dilated submucosal veins that extend beyond the levator ani and do not prolapse with pressure. Although varices may coexist with hemorrhoids in patients with cirrhosis, this patient is young and has no evidence of liver dysfunction. Therefore, propranolol would not have a role in the management of this patient.",
+        "explanation_why": "El propranolol se usa como profilaxis secundaria para prevenir el sangrado de várices rectales. Inhibe los receptores β₂-adrenérgicos en el tracto gastrointestinal, causando vasoconstricción esplácnica, lo que a su vez disminuye la cantidad de sangre en las venas portales y la presión venosa portal. Las várices rectales aparecen como venas submucosas tortuosas y dilatadas que se extienden más allá del elevador del año y no prolapsan con la presión. Aunque las várices pueden coexistir con hemorroides en pacientes con cirrosis, esta paciente es joven y no presenta evidencia de disfunción hepática. Por lo tanto, el propranolol no tendría un papel en el manejo de esta paciente.",
         "explanation_but": "",
         "selection_rate": 3
       },
       {
         "letter": "F",
-        "content": "Infrared coagulation",
+        "content": "Coagulación infrarroja",
         "is_correct": false,
-        "explanation_why": "Infrared coagulation is a procedure in which focused infrared heat is used to coagulate and fibrose hemorrhoidal tissue. It is used as a first-line therapy for grade III internal hemorrhoids but can be used for grade I and grade II internal hemorrhoids that fail conservative management. Grade III internal hemorrhoids originate above the dentate line, prolapse when straining, and require manual reduction (i.e., do not reduce spontaneously). Because this patient has grade II internal hemorrhoids, a more conservative approach must first be considered.",
+        "explanation_why": "La coagulación infrarroja es un procedimiento en el que se usa calor infrarrojo enfocado para coagular y fibrosar el tejido hemorroidal. Se usa como terapia de primera línea para hemorroides internas grado III, pero también puede emplearse para hemorroides internas grado I y II que no responden a la terapia conservadora. Las hemorroides internas grado III se originan por encima de la línea dentada, prolapsan al esfuerzo y requieren reducción manual (es decir, no se reducen espontáneamente). Dado que esta paciente tiene hemorroides internas grado II, debe considerarse primero un enfoque más conservador.",
         "explanation_but": "",
         "selection_rate": 1
       },
       {
         "letter": "G",
-        "content": "Hemorrhoidectomy",
+        "content": "Hemorroidectomía",
         "is_correct": false,
-        "explanation_why": "Hemorrhoidectomy is used as a first-line treatment for grade IV internal hemorrhoids and patients with acutely thrombosed external hemorrhoids who present within 72 hours of symptom onset. Grade IV internal hemorrhoids originate above the dentate line but cannot be reduced (neither spontaneously nor manually), and external hemorrhoids originate below the dentate line and are extremely painful when thrombosed. Hemorrhoidectomy is indicated in grade II internal hemorrhoids as a last resort only. Because this patient has grade II internal hemorrhoids and has not yet failed initial therapy, a more conservative approach must first be considered.",
+        "explanation_why": "La hemorroidectomía se usa como tratamiento de primera línea para hemorroides internas grado IV y pacientes con hemorroides externas trombosadas agudas que acuden dentro de las 72 horas del inicio de los síntomas. Las hemorroides internas grado IV se originan por encima de la línea dentada pero no pueden reducirse (ni espontáneamente ni manualmente), y las hemorroides externas se originan por debajo de la línea dentada y son extremadamente dolorosas cuando están trombosadas. La hemorroidectomía está indicada en hemorroides internas grado II solo como último recurso. Dado que esta paciente tiene hemorroides internas grado II y aún no ha fallado la terapia inicial, debe considerarse primero un enfoque más conservador.",
         "explanation_but": "",
         "selection_rate": 13
       }
@@ -176,27 +176,27 @@
   },
   {
     "eid": "vP0AgT",
-    "question_text": "A 55-year-old woman comes to the emergency department because of a 24-hour history of severe lower abdominal pain. She has had two episodes of nonbloody vomiting today and has been unable to keep down food or fluids. She has not had a bowel movement since yesterday. She has hypertension, hyperlipidemia, and osteoarthritis. She had a cholecystectomy 5 years ago. She has smoked one pack of cigarettes daily for the last 20 years. Current medications include chlorthalidone, atorvastatin, and naproxen. Her temperature is 38.8°C (101.8°F), pulse is 102/min, respirations are 20/min, and blood pressure is 118/78 mm Hg. She is 168 cm (5 ft 6 in) tall and weighs 94 kg (207 lb); BMI is 33 kg/m^2. Abdominal examination shows a soft abdomen with hypoactive bowel sounds. There is moderate left lower quadrant tenderness. A tender mass is palpated on digital rectal examination. There is no guarding or rebound tenderness. Laboratory studies show:\n\nHemoglobin\n13.3 g/dL\n\nHematocrit\n40%\n\nLeukocyte count\n17,000/mm^3\n\nPlatelet count\n188,000/mm^3\n\nSerum\n\nNa^+\n\n138 mEq/L\n\nK^+\n\n4.1 mEq/L\n\nCl^-\n\n101 mEq/L\n\nHCO_3^-\n\n22 mEq/L\n\nUrea nitrogen\n18.1 mg/dL\n\nCreatinine\n0.9 mg/dL\n\nWhich of the following is most appropriate to confirm the most likely diagnosis?",
-    "content_preview": "A 55-year-old woman comes to the emergency department because of a 24-hour history of severe lower abdominal pain. She has had two episodes of nonbloody vomiting today and has been unable to keep down food or fluids. She has not had a bowel movement since yesterday. She has hypertension, hyperlipidemia, and osteoarthritis. She had a cholecystectomy 5 years ago. She has smoked one pack of cigarettes daily for the last 20 years. Current medications include chlorthalidone, atorvastatin, and naproxen. Her temperature is 38.8°C (101.8°F), pulse is 102/min, respirations are 20/min, and blood pressure is 118/78 mm Hg. She is 168 cm (5 ft 6 in) tall and weighs 94 kg (207 lb); BMI is 33 kg/m2. Abdominal examination shows a soft abdomen with hypoactive bowel sounds. There is moderate left lower quadrant tenderness. A tender mass is palpated on digital rectal examination. There is no guarding or rebound tenderness. Laboratory studies show: Hemoglobin 13.3 g/dL Hematocrit 40% Leukocyte count 17,000/mm3 Platelet count 188,000/mm3 Serum Na+ 138 mEq/L K+ 4.1 mEq/L Cl- 101 mEq/L HCO3- 22 mEq/L Urea nitrogen 18.1 mg/dL Creatinine 0.9 mg/dL Which of the following is most appropriate to confirm the most likely diagnosis?",
+    "question_text": "Una mujer de 55 años acude a urgencias por un dolor abdominal bajo severo de 24 horas de evolución. Ha presentado dos episodios de vómitos no sanguinolentos hoy y no ha tolerado alimentos ni líquidos. No ha evacuado desde ayer. Tiene antecedentes de hipertensión, hiperlipidemia y osteoartritis. Hace 5 años se le realizó una colecistectomía. Fuma un paquete de cigarrillos al día desde hace 20 años. Sus medicamentos actuales incluyen clortalidona, atorvastatina y naproxeno. Su temperatura es de 38.8°C (101.8°F), pulso de 102/min, respiraciones de 20/min y presión arterial de 118/78 mm Hg. Mide 168 cm (5 ft 6 in) y pesa 94 kg (207 lb); su IMC es de 33 kg/m². El examen abdominal muestra un abdomen blando con sonidos intestinales hiporactivos. Hay dolor a la palpación moderado en el cuadrante inferior izquierdo. Al examen rectal digital se palpa una masa dolorosa. No hay defensa ni signo de rebote. Los estudios de laboratorio muestran:\n\nHemoglobina\n13.3 g/dL\n\nHematocrito\n40%\n\nRecuento de leucocitos\n17,000/mm³\n\nRecuento de plaquetas\n188,000/mm³\n\nSuero\n\nNa⁺\n138 mEq/L\n\nK⁺\n4.1 mEq/L\n\nCl⁻\n101 mEq/L\n\nHCO₃⁻\n22 mEq/L\n\nNitrógeno ureico\n18.1 mg/dL\n\nCreatinina\n0.9 mg/dL\n\n¿Cuál de las siguientes es la prueba más adecuada para confirmar el diagnóstico más probable?",
+    "content_preview": "Una mujer de 55 años acude a urgencias por un dolor abdominal bajo severo de 24 horas de evolución. Ha presentado dos episodios de vómitos no sanguinolentos hoy y no ha tolerado alimentos ni líquidos. No ha evacuado desde ayer. Tiene antecedentes de hipertensión, hiperlipidemia y osteoartritis. Hace 5 años se le realizó una colecistectomía. Fuma un paquete de cigarrillos al día desde hace 20 años. Sus medicamentos actuales incluyen clortalidona, atorvastatina y naproxeno. Su temperatura es de 38.8°C (101.8°F), pulso de 102/min, respiraciones de 20/min y presión arterial de 118/78 mm Hg. Mide 168 cm (5 ft 6 in) y pesa 94 kg (207 lb); su IMC es de 33 kg/m². El examen abdominal muestra un abdomen blando con sonidos intestinales hiporactivos. Hay dolor a la palpación moderado en el cuadrante inferior izquierdo. Al examen rectal digital se palpa una masa dolorosa. No hay defensa ni signo de rebote. Los estudios de laboratorio muestran:\n\nHemoglobina 13.3 g/dL\nHematocrito 40%\nRecuento de leucocitos 17,000/mm³\nRecuento de plaquetas 188,000/mm³\nSuero\nNa⁺ 138 mEq/L\nK⁺ 4.1 mEq/L\nCl⁻ 101 mEq/L\nHCO₃⁻ 22 mEq/L\nNitrógeno ureico 18.1 mg/dL\nCreatinina 0.9 mg/dL\n\n¿Cuál de las siguientes es la prueba más adecuada para confirmar el diagnóstico más probable?",
     "correct_answer": "E",
     "difficulty": 3,
-    "hint": "A tender left lower quadrant mass (indicating pericolonic inflammation) with leukocytosis and fever is consistent with acute diverticulitis. The inflamed diverticula that are situated in the distal sigmoid colon can be palpated on digital rectal examination (DRE).",
-    "learning_objective": "Recognize acute diverticulitis, and choose the most appropriate diagnostic study.",
+    "hint": "Una masa dolorosa en el cuadrante inferior izquierdo (indicando inflamación pericólica) con leucocitosis y fiebre es consistente con diverticulitis aguda. Los divertículos inflamados situados en el colon sigmoideo distal pueden palparse en el examen rectal digital (ERD).",
+    "learning_objective": "Reconocer la diverticulitis aguda y seleccionar el estudio diagnóstico más apropiado.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "Colonoscopy",
+        "content": "Colonoscopia",
         "is_correct": false,
-        "explanation_why": "Colonoscopy is contraindicated in this patient with an acute episode of diverticulitis because the inflammation may be exacerbated by the procedure and the risk of perforation is increased. Colonoscopy is typically performed once the inflammation has subsided (typically after 6 weeks) to assess the extent of diverticulitis and rule out malignancy. Rectal cancer is an important differential diagnosis in a patient with a palpable mass on DRE. However, given the acute presentation with systemic signs of inflammation (fever, leukocytosis) and the tenderness of the mass, diverticulitis is more likely.",
+        "explanation_why": "La colonoscopia está contraindicada en esta paciente durante un episodio agudo de diverticulitis, ya que la inflamación podría exacerbarse con el procedimiento y aumenta el riesgo de perforación. La colonoscopia se realiza típicamente una vez que la inflamación ha cedido (generalmente después de 6 semanas) para evaluar la extensión de la diverticulitis y descartar malignidad. El cáncer rectal es un diagnóstico diferencial importante en un paciente con una masa palpable en el examen rectal digital. Sin embargo, dado el cuadro agudo con signos sistémicos de inflamación (fiebre, leucocitosis) y la sensibilidad de la masa, la diverticulitis es más probable.",
         "explanation_but": "",
         "selection_rate": 16
       },
       {
         "letter": "B",
-        "content": "Abdominal ultrasonography",
+        "content": "Ecografía abdominal",
         "is_correct": false,
-        "explanation_why": "Abdominal ultrasonography (US) can be performed if other imaging techniques are unavailable. Abdominal US would typically show diverticula, hypoechoic peridiverticular inflammation, abscess formations (detectable fluid), or bowel wall thickening. However, ultrasound is not the test of choice for the diagnosis of diverticulitis.",
+        "explanation_why": "La ecografía abdominal puede realizarse si otras técnicas de imagen no están disponibles. La ecografía abdominal mostraría típicamente divertículos, inflamación peridiverticular hipoecoica, formación de abscesos (colecciones de líquido detectables) o engrosamiento de la pared intestinal. Sin embargo, la ecografía no es la prueba de elección para el diagnóstico de diverticulitis.",
         "explanation_but": "",
         "selection_rate": 5,
         "images": [
@@ -211,25 +211,25 @@
       },
       {
         "letter": "C",
-        "content": "Exploratory laparotomy",
+        "content": "Laparotomía exploradora",
         "is_correct": false,
-        "explanation_why": "Exploratory laparotomy may be considered in patients with severe abdominal pain that cannot be evaluated sufficiently by noninvasive diagnostic methods. This patient's clinical presentation strongly suggests diverticulitis, which can be confirmed or ruled out with a diagnostic test, rendering exploratory laparotomy unnecessary.",
+        "explanation_why": "La laparotomía exploradora puede considerarse en pacientes con dolor abdominal severo que no pueda evaluarse adecuadamente con métodos diagnósticos no invasivos. La presentación clínica de esta paciente sugiere fuertemente diverticulitis, que puede confirmarse o descartarse con una prueba diagnóstica, haciendo innecesaria la laparotomía exploradora.",
         "explanation_but": "",
         "selection_rate": 1
       },
       {
         "letter": "D",
-        "content": "Flexible sigmoidoscopy",
+        "content": "Sigmoidoscopia flexible",
         "is_correct": false,
-        "explanation_why": "Sigmoidoscopy should not be performed during an acute episode of diverticulitis because of an increased risk of exacerbating the inflammation or even bowel wall perforation. Once the inflammation has subsided, the colon should be assessed for the extent of diverticulitis and the presence of colorectal neoplasms. Although this procedure may be performed either via sigmoidoscopy or colonoscopy, the latter is usually preferred as it enables evaluation of the entire colon.",
+        "explanation_why": "La sigmoidoscopia no debe realizarse durante un episodio agudo de diverticulitis debido al riesgo aumentado de exacerbar la inflamación o incluso de perforación de la pared intestinal. Una vez que la inflamación haya cedido, el colon debe evaluarse para determinar la extensión de la diverticulitis y la presencia de neoplasias colorrectales. Aunque este procedimiento puede realizarse mediante sigmoidoscopia o colonoscopia, esta última es generalmente preferida por permitir la evaluación de todo el colon.",
         "explanation_but": "",
         "selection_rate": 14
       },
       {
         "letter": "E",
-        "content": "CT scan of the abdomen with contrast",
+        "content": "TC abdominal con contraste",
         "is_correct": true,
-        "explanation_why": "CT scan of the abdomen with contrast (oral and intravenous) is the test of choice for diagnosing diverticulitis. Typical CT findings include bowel wall thickening (> 4 mm) and inflammation of the pericolonic fat with fat stranding (visible traces of fluid in the fat). A CT scan is also helpful in ruling out complications such as abscess (fluid collections surrounded by inflammatory changes), obstruction (dilated intestinal loops, air-fluid levels), perforation (free air in the abdominal cavity), and fistula (air in organs other than the bowel).\n\nThe treatment of uncomplicated diverticulitis can usually occur in an outpatient setting. It includes a restricted, clear liquid diet and bowel rest until pain improves, broad-spectrum oral antibiotics for 7–10 days (e.g., ciprofloxacin plus metronidazole), and pain management, if necessary (e.g., acetaminophen, ibuprofen).",
+        "explanation_why": "El TC abdominal con contraste (oral e intravenoso) es la prueba de elección para diagnosticar la diverticulitis. Los hallazgos típicos incluyen engrosamiento de la pared intestinal (> 4 mm) e inflamación del tejido graso pericólico con estriado graso (trazas visibles de líquido en la grasa). El TC también es útil para descartar complicaciones como absceso (colecciones de líquido rodeadas de cambios inflamatorios), obstrucción (asas intestinales dilatadas, niveles hidroaéreos), perforación (aire libre en la cavidad abdominal) y fístula (aire en órganos distintos al intestino).\n\nEl tratamiento de la diverticulitis no complicada puede realizarse generalmente en un setting ambulatorio. Incluye dieta líquida clara y reposo intestinal hasta que mejore el dolor, antibióticos de amplio espectro por vía oral durante 7–10 días (ej. ciprofloxacino más metronidazol) y manejo del dolor, si es necesario (ej. acetaminofén, ibuprofeno).",
         "explanation_but": "",
         "selection_rate": 53,
         "images": [
@@ -244,9 +244,9 @@
       },
       {
         "letter": "F",
-        "content": "Abdominal x-ray",
+        "content": "Radiografía abdominal",
         "is_correct": false,
-        "explanation_why": "Abdominal x-ray is not useful to confirm the diagnosis of diverticulitis, as it may fail to demonstrate the presence of colonic diverticula and the expected bowel wall thickening. However, it can be used to visualize some of the complications of diverticulitis, such as abscesses, obstructions, ileus, and perforation (pneumoperitoneum).",
+        "explanation_why": "La radiografía abdominal no es útil para confirmar el diagnóstico de diverticulitis, ya que puede no demostrar la presencia de divertículos ni el engrosamiento esperado de la pared intestinal. Sin embargo, puede utilizarse para visualizar algunas complicaciones de la diverticulitis, como abscesos, obstrucciones, íleo y perforación (neumoperitoneo).",
         "explanation_but": "",
         "selection_rate": 11,
         "images": [
@@ -264,43 +264,43 @@
   },
   {
     "eid": "240TiT",
-    "question_text": "A 56-year-old man is brought to the emergency department for the evaluation of a 3-day history of left lower abdominal pain. During this period, the patient has also had a low-grade fever and has not had a bowel movement. He has a history of constipation. He underwent a cholecystectomy at the age of 53 years. He has smoked one pack of cigarettes daily for the last 30 years. His temperature is 38.8°C (101.8°F), pulse is 80/min, respirations are 18/min, and blood pressure is 130/84 mm Hg. Cardiopulmonary examination shows no abnormalities. Abdominal examination shows left lower quadrant tenderness with no guarding or rebound. There is no edema of his lower extremities. CT of the abdomen with contrast shows segmental wall thickening of the descending colon with multiple diverticula, surrounding fat stranding, and a 5.5-cm, low-attenuating pelvic fluid collection. Intravenous fluids and bowel rest are started. Treatment with intravenous morphine, ciprofloxacin, and metronidazole is begun. Which of the following is the most appropriate next step in management?",
-    "content_preview": "A 56-year-old man is brought to the emergency department for the evaluation of a 3-day history of left lower abdominal pain. During this period, the patient has also had a low-grade fever and has not had a bowel movement. He has a history of constipation. He underwent a cholecystectomy at the age of 53 years. He has smoked one pack of cigarettes daily for the last 30 years. His temperature is 38.8°C (101.8°F), pulse is 80/min, respirations are 18/min, and blood pressure is 130/84 mm Hg. Cardiopulmonary examination shows no abnormalities. Abdominal examination shows left lower quadrant tenderness with no guarding or rebound. There is no edema of his lower extremities. CT of the abdomen with contrast shows segmental wall thickening of the descending colon with multiple diverticula, surrounding fat stranding, and a 5.5-cm, low-attenuating pelvic fluid collection. Intravenous fluids and bowel rest are started. Treatment with intravenous morphine, ciprofloxacin, and metronidazole is begun. Which of the following is the most appropriate next step in management?",
+    "question_text": "Un hombre de 56 años acude a urgencias para evaluar un dolor abdominal en cuadrante inferior izquierdo de 3 días de evolución. Durante este período, el paciente también ha presentado fiebre de bajo grado y no ha tenido deposición. Tiene antecedentes de estreñimiento. Se sometió a una colecistectomía a los 53 años. Fuma un paquete de cigarrillos diarios desde hace 30 años. Su temperatura es de 38.8°C (101.8°F), pulso de 80/min, respiraciones de 18/min y presión arterial de 130/84 mm Hg. El examen cardiopulmonar no muestra anomalías. El examen abdominal muestra dolor a la palpación en cuadrante inferior izquierdo sin defensa ni signo de rebote. No hay edema en sus extremidades inferiores. La tomografía computarizada (TC) abdominal con contraste muestra engrosamiento segmentario de la pared del colon descendente con múltiples divertículos, estriado graso peridiverticular y una colección líquida pélvica de 5.5 cm de diámetro con baja atenuación. Se inicia tratamiento con líquidos intravenosos y reposo intestinal. Se comienza tratamiento con morfina intravenosa, ciprofloxacino y metronidazol. ¿Cuál de las siguientes es el siguiente paso más adecuado en el manejo?",
+    "content_preview": "Un hombre de 56 años acude a urgencias para evaluar un dolor abdominal en cuadrante inferior izquierdo de 3 días de evolución. Durante este período, el paciente también ha presentado fiebre de bajo grado y no ha tenido deposición. Tiene antecedentes de estreñimiento. Se sometió a una colecistectomía a los 53 años. Fuma un paquete de cigarrillos diarios desde hace 30 años. Su temperatura es de 38.8°C (101.8°F), pulso de 80/min, respiraciones de 18/min y presión arterial de 130/84 mm Hg. El examen cardiopulmonar no muestra anomalías. El examen abdominal muestra dolor a la palpación en cuadrante inferior izquierdo sin defensa ni signo de rebote. No hay edema en sus extremidades inferiores. TC de abdomen con contraste muestra engrosamiento segmentario de la pared del colon descendente con múltiples divertículos, estriado graso peridiverticular y una colección líquida pélvica de 5.5 cm de diámetro con baja atenuación. Se inicia tratamiento con líquidos intravenosos y reposo intestinal. Se comienza tratamiento con morfina intravenosa, ciprofloxacino y metronidazol. ¿Cuál de las siguientes es el siguiente paso más adecuado en el manejo?",
     "correct_answer": "D",
     "difficulty": 3,
-    "hint": "This patient's history of constipation and left lower quadrant pain together with CT findings of segmental colonic wall thickening with multiple diverticula and surrounding fat stranding suggest acute diverticulitis. The > 4.0-cm low-attenuating fluid collection is consistent with a large pelvic abscess, which has developed as a complication of diverticulitis. There are no signs that suggest peritonitis (e.g., guarding, rebound tenderness, rigid abdomen). Intravenous antibiotics alone are highly unlikely to resolve this patient's condition.",
-    "learning_objective": "Recognize acute diverticulitis complicated by a large abscess, and choose the most appropriate intervention.",
+    "hint": "El antecedente de estreñimiento y el dolor en cuadrante inferior izquierdo del paciente, junto con los hallazgos de la TC de engrosamiento segmentario de la pared colónica con múltiples divertículos y estriado graso peridiverticular, sugieren diverticulitis aguda. La colección líquida pélvica de más de 4.0 cm con baja atenuación es consistente con un gran absceso pélvico, que se ha desarrollado como complicación de la diverticulitis. No hay signos que sugieran peritonitis (ej. defensa, dolor a la descompresión, abdomen rígido). Los antibióticos intravenosos por sí solos son altamente improbables para resolver la condición de este paciente.",
+    "learning_objective": "Reconocer la diverticulitis aguda complicada por un gran absceso y elegir la intervención más apropiada.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "Observation and serial CT scans",
+        "content": "Observación y TC seriadas",
         "is_correct": false,
-        "explanation_why": "Observation and serial imaging is not sufficient treatment for this patient with acute complicated diverticulitis. He has a 5.5-cm pelvic abscess that is unlikely to resolve solely with antibiotics and will require further intervention. Smaller (≤ 4.0-cm) abscesses will often respond to IV antibiotic therapy alone and may be followed with serial imaging until the abscess has resolved.",
+        "explanation_why": "La observación y las imágenes seriadas no son un tratamiento suficiente para este paciente con diverticulitis aguda complicada. Tiene un absceso pélvico de 5.5 cm que es poco probable que se resuelva solo con antibióticos y requerirá intervención adicional. Los abscesos más pequeños (≤ 4.0 cm) suelen responder al tratamiento con antibióticos intravenosos y pueden ser seguidos con imágenes seriadas hasta su resolución.",
         "explanation_but": "",
         "selection_rate": 21
       },
       {
         "letter": "B",
-        "content": "Left laparoscopic hemicolectomy",
+        "content": "Hemicolectomía laparoscópica izquierda",
         "is_correct": false,
-        "explanation_why": "Hemicolectomy is rarely indicated in patients with complicated diverticulitis. If this patient required surgical intervention, segmental resection of the affected colonic part would be the appropriate surgical treatment. Although this patient has a pelvic abscess, he has no signs or symptoms of peritonitis that would mandate urgent colonic resection, and he has just been started on an appropriate antibiotic regimen.",
+        "explanation_why": "La hemicolectomía rara vez está indicada en pacientes con diverticulitis complicada. Si este paciente requiriera intervención quirúrgica, la resección segmentaria de la porción afectada del colon sería el tratamiento quirúrgico adecuado. Aunque este paciente tiene un absceso pélvico, no presenta signos ni síntomas de peritonitis que justifiquen una resección colónica urgente, y acaba de iniciarse un régimen antibiótico apropiado.",
         "explanation_but": "",
         "selection_rate": 4
       },
       {
         "letter": "C",
-        "content": "Colonoscopy",
+        "content": "Colonoscopia",
         "is_correct": false,
-        "explanation_why": "Colonoscopy is contraindicated in patients with acute diverticulitis because of the increased risk of bowel perforation secondary to colonic mucosal irritation. After 6–8 weeks, once symptoms have subsided and the mucosal inflammation has resolved, colonoscopy should be performed to assess the extent of diverticulosis and to rule out malignancy.",
+        "explanation_why": "La colonoscopia está contraindicada en pacientes con diverticulitis aguda debido al mayor riesgo de perforación intestinal secundaria a la irritación de la mucosa colónica. Tras 6–8 semanas, una vez que los síntomas hayan cedido y la inflamación mucosa se haya resuelto, debe realizarse colonoscopia para evaluar la extensión de la diverticulosis y descartar malignidad.",
         "explanation_but": "",
         "selection_rate": 10
       },
       {
         "letter": "D",
-        "content": "CT-guided percutaneous abscess drainage",
+        "content": "Drenaje percutáneo guiado por TC del absceso",
         "is_correct": true,
-        "explanation_why": "CT-guided percutaneous drainage is the treatment of choice for patients, like this one, with acute diverticulitis complicated by large abscesses and no indications for emergent surgery (e.g., signs of peritonitis). CT-guided drainage enables resolution of the abscess while minimizing the risk of complications from open surgery (e.g., colostomy, adhesions). Patients who respond to initial management but subsequently develop recurrent episodes of diverticulitis or chronic complications (e.g., fistulas) may be considered for elective colonic resection.",
+        "explanation_why": "El drenaje percutáneo guiado por TC es el tratamiento de elección para pacientes, como este, con diverticulitis aguda complicada por grandes abscesos y sin indicaciones de cirugía de urgencia (ej. signos de peritonitis). El drenaje guiado por TC permite la resolución del absceso minimizando el riesgo de complicaciones de la cirugía abierta (ej. colostomía, adherencias). Los pacientes que responden al manejo inicial pero desarrollan posteriormente episodios recurrentes de diverticulitis o complicaciones crónicas (ej. fístulas) pueden ser considerados para resección colónica electiva.",
         "explanation_but": "",
         "selection_rate": 56,
         "images": [
@@ -315,17 +315,17 @@
       },
       {
         "letter": "E",
-        "content": "Exploratory laparotomy",
+        "content": "Laparotomía exploradora",
         "is_correct": false,
-        "explanation_why": "Exploratory laparotomy would usually be performed on a hemodynamically unstable patient as an emergent intervention. This patient is hemodynamically stable and does not have any signs of peritonitis. A less aggressive form of management is indicated at this time.",
+        "explanation_why": "La laparotomía exploradora generalmente se realiza en pacientes hemodinámicamente inestables como intervención de urgencia. Este paciente es hemodinámicamente estable y no presenta signos de peritonitis. En este momento, está indicado un manejo menos agresivo.",
         "explanation_but": "",
         "selection_rate": 5
       },
       {
         "letter": "F",
-        "content": "Segmental colonic resection",
+        "content": "Resección segmentaria del colon",
         "is_correct": false,
-        "explanation_why": "Segmental colonic resection followed by primary anastomosis, or alternatively by Hartmann procedure, is indicated in complicated diverticulitis only if conservative management fails or if there are signs of peritonitis. This patient has a large simple pelvic abscess that does not require surgery.",
+        "explanation_why": "La resección segmentaria del colon seguida de anastomosis primaria o, alternativamente, de procedimiento de Hartmann, está indicada en la diverticulitis complicada solo si el manejo conservador falla o si hay signos de peritonitis. Este paciente tiene un gran absceso pélvico simple que no requiere cirugía.",
         "explanation_but": "",
         "selection_rate": 4
       }
@@ -334,51 +334,51 @@
   },
   {
     "eid": "-k0DqT",
-    "question_text": "A 68-year-old man comes to the physician for a routine health maintenance examination. Over the past 6 months, he has had an increase in the frequency of bowel movements and occasional bloody stools. He has hypertension, coronary artery disease, and chronic obstructive pulmonary disease. His medications are aspirin, lisinopril, and salmeterol. He has smoked one pack of cigarettes daily for 40 years. His temperature is 37.0°C (98.6°F), pulse is 75/min, and blood pressure is 128/75 mm Hg. Cardiac examination shows no murmurs, rubs, or gallops. The lungs are clear to auscultation. The abdomen is soft with no organomegaly. Digital rectal examination shows a large internal hemorrhoid. Test of the stool for occult blood is positive. Which of the following is the most appropriate next step in management?",
-    "content_preview": "A 68-year-old man comes to the physician for a routine health maintenance examination. Over the past 6 months, he has had an increase in the frequency of bowel movements and occasional bloody stools. He has hypertension, coronary artery disease, and chronic obstructive pulmonary disease. His medications are aspirin, lisinopril, and salmeterol. He has smoked one pack of cigarettes daily for 40 years. His temperature is 37.0°C (98.6°F), pulse is 75/min, and blood pressure is 128/75 mm Hg. Cardiac examination shows no murmurs, rubs, or gallops. The lungs are clear to auscultation. The abdomen is soft with no organomegaly. Digital rectal examination shows a large internal hemorrhoid. Test of the stool for occult blood is positive. Which of the following is the most appropriate next step in management?",
+    "question_text": "Un hombre de 68 años acude al médico para un examen de mantenimiento de la salud de rutina. En los últimos 6 meses, ha presentado un aumento en la frecuencia de deposiciones y ocasionales deposiciones con sangre. Tiene antecedentes de hipertensión, enfermedad coronaria y enfermedad pulmonar obstructiva crónica. Sus medicamentos son aspirina, lisinopril y salmeterol. Ha fumado un paquete de cigarrillos al día durante 40 años. Su temperatura es de 37.0°C (98.6°F), pulso de 75/min y presión arterial de 128/75 mm Hg. El examen cardíaco no muestra soplos, roces ni galopes. Los pulmones están claros a la auscultación. El abdomen está blando sin organomegalia. El examen rectal digital muestra una hemorroide interna grande. La prueba de sangre oculta en heces es positiva. ¿Cuál de las siguientes es el siguiente paso más apropiado en el manejo?",
+    "content_preview": "Un hombre de 68 años acude al médico para un examen de mantenimiento de la salud de rutina. En los últimos 6 meses, ha presentado un aumento en la frecuencia de deposiciones y ocasionales deposiciones con sangre. Tiene antecedentes de hipertensión, enfermedad coronaria y enfermedad pulmonar obstructiva crónica. Sus medicamentos son aspirina, lisinopril y salmeterol. Ha fumado un paquete de cigarrillos al día durante 40 años. Su temperatura es de 37.0°C (98.6°F), pulso de 75/min y presión arterial de 128/75 mm Hg. El examen cardíaco no muestra soplos, roces ni galopes. Los pulmones están claros a la auscultación. El abdomen está blando sin organomegalia. El examen rectal digital muestra una hemorroide interna grande. La prueba de sangre oculta en heces es positiva. ¿Cuál de las siguientes es el siguiente paso más apropiado en el manejo?",
     "correct_answer": "C",
     "difficulty": 2,
-    "hint": "Changes in bowel habits and hematochezia in an older man with a history of smoking should raise suspicion for a specific condition.",
-    "learning_objective": "Recognize the symptoms suggestive of colorectal cancer, and choose the most appropriate diagnostic test.",
+    "hint": "Cambios en los hábitos intestinales y hematochezia en un hombre mayor con antecedentes de tabaquismo deben generar sospecha de una condición específica.",
+    "learning_objective": "Reconocer los síntomas sugerentes de cáncer colorrectal y elegir la prueba diagnóstica más apropiada.",
     "source": null,
     "answers": [
       {
         "letter": "C",
-        "content": "Colonoscopy",
+        "content": "Colonoscopia",
         "is_correct": true,
-        "explanation_why": "Colonoscopy is the gold standard diagnostic test for colorectal cancer because it allows for direct visualization and biopsy of polyps and suspicious lesions. Given this patient's age (> 65 years), history of smoking, and recent change in stool habits with hematochezia, colorectal cancer is the most concerning diagnosis and must be ruled out.\n\nAlthough internal hemorrhoid does not take priority over diagnosing and treating colorectal cancer, it does merit intervention in this patient to prevent progression and because it could be contributing to his hematochezia. As it appears to be a grade I internal hemorrhoid (no history of prolapse; see “Grading of internal hemorrhoids” table), conservative therapy (e.g., stool softeners, dietary counseling) is likely necessary.",
+        "explanation_why": "La colonoscopia es la prueba diagnóstica de referencia para el cáncer colorrectal, ya que permite la visualización directa y la biopsia de pólipos y lesiones sospechosas. Dado que este paciente tiene más de 65 años, antecedentes de tabaquismo y cambios recientes en los hábitos intestinales con hematochezia, el cáncer colorrectal es el diagnóstico más preocupante y debe descartarse.\n\nAunque la hemorroide interna no tiene prioridad sobre el diagnóstico y tratamiento del cáncer colorrectal, sí requiere intervención en este paciente para prevenir su progresión y porque podría estar contribuyendo a su hematochezia. Al parecer, se trata de una hemorroide interna grado I (sin antecedentes de prolapso; ver tabla «Clasificación de hemorroides internas»), por lo que es probable que requiera terapia conservadora (ej. ablandadores de heces, asesoría dietética).",
         "explanation_but": "",
         "selection_rate": 65
       },
       {
         "letter": "E",
-        "content": "Hemorrhoidectomy",
+        "content": "Hemorroidectomía",
         "is_correct": false,
-        "explanation_why": "Hemorrhoidectomy is the treatment of choice for symptomatic grade III and IV internal hemorrhoids or for internal or external hemorrhoids if conservative management has failed. This patient appears to have a grade I internal hemorrhoid (no history of prolapse) for which treatment has not yet been attempted. In addition, while this patient's internal hemorrhoid could explain the blood in his stool, it does not explain his change in bowel habits.",
+        "explanation_why": "La hemorroidectomía es el tratamiento de elección para hemorroides internas grado III y IV sintomáticas o para hemorroides internas o externas si el manejo conservador ha fallado. Este paciente parece tener una hemorroide interna grado I (sin antecedentes de prolapso) para la cual aún no se ha intentado tratamiento. Además, aunque la hemorroide interna de este paciente podría explicar la sangre en sus heces, no explica el cambio en sus hábitos intestinales.",
         "explanation_but": "",
         "selection_rate": 5
       },
       {
         "letter": "B",
-        "content": "Dietary counseling",
+        "content": "Asesoría dietética",
         "is_correct": false,
-        "explanation_why": "Dietary counseling (e.g., increased fiber intake) is frequently recommended for patients with hemorrhoids and symptoms related to bowel habits. However, the presence of hematochezia combined with changes in stool habits in an older man should raise suspicion of an underlying disease that requires investigation before dietary counseling is prescribed.",
+        "explanation_why": "La asesoría dietética (ej. aumento en la ingesta de fibra) se recomienda frecuentemente en pacientes con hemorroides y síntomas relacionados con los hábitos intestinales. Sin embargo, la presencia de hematochezia combinada con cambios en los hábitos intestinales en un hombre mayor debe generar sospecha de una enfermedad subyacente que requiere investigación antes de prescribir asesoría dietética.",
         "explanation_but": "",
         "selection_rate": 8
       },
       {
         "letter": "D",
-        "content": "Stool softeners",
+        "content": "Abladores de heces",
         "is_correct": false,
-        "explanation_why": "Stool softeners can be used to decrease discomfort and bleeding from defecation in patients with internal hemorrhoids. However, this patient's symptoms point to an underlying cause that requires testing before he is prescribed symptomatic treatment.",
+        "explanation_why": "Los ablandadores de heces pueden usarse para disminuir la incomodidad y el sangrado durante la defecación en pacientes con hemorroides internas. No obstante, los síntomas de este paciente apuntan a una causa subyacente que requiere evaluación antes de prescribir tratamiento sintomático.",
         "explanation_but": "",
         "selection_rate": 10
       },
       {
         "letter": "A",
-        "content": "Rubber band ligation",
+        "content": "Ligadura con banda elástica",
         "is_correct": false,
-        "explanation_why": "Rubber band ligation is a treatment option for grade I–III internal hemorrhoids unresponsive to conservative treatment. This patient appears to have a grade I internal hemorrhoid (no history of prolapse), which could explain the blood in his stool. However, it does not explain the change in bowel habits. Additionally, rubber band ligation is not indicated at this time because conservative treatment options have not yet been attempted.",
+        "explanation_why": "La ligadura con banda elástica es una opción de tratamiento para hemorroides internas grado I–III no responsivas al manejo conservador. Este paciente parece tener una hemorroide interna grado I (sin antecedentes de prolapso), lo que podría explicar la sangre en sus heces. Sin embargo, no explica el cambio en los hábitos intestinales. Además, la ligadura con banda elástica no está indicada en este momento, ya que aún no se han intentado opciones de tratamiento conservador.",
         "explanation_but": "",
         "selection_rate": 12
       }
@@ -387,19 +387,19 @@
   },
   {
     "eid": "IO0YFT",
-    "question_text": "An 18-month-old boy is brought to the physician by his parents for the evaluation of passing large amounts of dark red blood from his rectum for 2 days. His parents noticed that he has also had several episodes of dark stools over the past 3 weeks. The parents report that their child has been sleeping more and has been paler than usual for the past 24 hours. The boy's appetite has been normal and he has not vomited.  He is at the 50^th percentile for height and 50^th percentile for weight. His temperature is 37°C (98.6°F), pulse is 135/min, respirations are 38/min, and blood pressure is 90/50 mm Hg. Examination shows pale conjunctivae. The abdomen is soft and nontender. There is a small amount of dark red blood in his diaper. Laboratory studies show:\n\nHemoglobin\n9.5 g/dL\n\nHematocrit\n30%\n\nMean corpuscular volume\n68 μm^3\n\nLeukocyte count\n7200/mm^3\n\nPlatelet count\n300,000/mm^3\n\nWhich of the following is most likely to confirm the diagnosis?",
-    "content_preview": "An 18-month-old boy is brought to the physician by his parents for the evaluation of passing large amounts of dark red blood from his rectum for 2 days. His parents noticed that he has also had several episodes of dark stools over the past 3 weeks. The parents report that their child has been sleeping more and has been paler than usual for the past 24 hours. The boy's appetite has been normal and he has not vomited. He is at the 50th percentile for height and 50th percentile for weight. His temperature is 37°C (98.6°F), pulse is 135/min, respirations are 38/min, and blood pressure is 90/50 mm Hg. Examination shows pale conjunctivae. The abdomen is soft and nontender. There is a small amount of dark red blood in his diaper. Laboratory studies show: Hemoglobin 9.5 g/dL Hematocrit 30% Mean corpuscular volume 68 μm3 Leukocyte count 7200/mm3 Platelet count 300,000/mm3 Which of the following is most likely to confirm the diagnosis?",
+    "question_text": "Un niño de 18 meses es llevado al médico por sus padres para evaluar la emisión de grandes cantidades de sangre roja oscura por el recto durante 2 días. Los padres notaron que también ha tenido varios episodios de heces oscuras en las últimas 3 semanas. Informan que su hijo ha estado durmiendo más y ha presentado palidez inusual en las últimas 24 horas. El apetito del niño ha sido normal y no ha presentado vómitos. Se encuentra en el percentil 50 para estatura y peso. Su temperatura es de 37°C (98.6°F), frecuencia cardíaca de 135/min, respiraciones de 38/min y presión arterial de 90/50 mm Hg. El examen físico muestra conjuntivas pálidas. El abdomen está blando y sin dolor a la palpación. Hay una pequeña cantidad de sangre roja oscura en su pañal. Los estudios de laboratorio muestran:\n\nHemoglobina: 9.5 g/dL\nHematocrito: 30%\nVolumen corpuscular medio: 68 μm³\nRecuento de leucocitos: 7200/mm³\nRecuento de plaquetas: 300,000/mm³\n\n¿Cuál de las siguientes opciones es más probable que confirme el diagnóstico?",
+    "content_preview": "Un niño de 18 meses es llevado al médico por sus padres para evaluar la emisión de grandes cantidades de sangre roja oscura por el recto durante 2 días. Los padres notaron que también ha tenido varios episodios de heces oscuras en las últimas 3 semanas. El niño ha estado durmiendo más y ha presentado palidez inusual en las últimas 24 horas. Su apetito ha sido normal y no ha vomitado. Se encuentra en el percentil 50 para estatura y peso. Su temperatura es de 37°C (98.6°F), frecuencia cardíaca de 135/min, respiraciones de 38/min y presión arterial de 90/50 mm Hg. El examen físico muestra conjuntivas pálidas. El abdomen está blando y sin dolor a la palpación. Hay una pequeña cantidad de sangre roja oscura en su pañal. Los estudios de laboratorio muestran: Hemoglobina 9.5 g/dL, Hematocrito 30%, Volumen corpuscular medio 68 μm³, Recuento de leucocitos 7200/mm³, Recuento de plaquetas 300,000/mm³. ¿Cuál de las siguientes opciones es más probable que confirme el diagnóstico?",
     "correct_answer": "B",
     "difficulty": 2,
-    "hint": "This young boy presents with painless lower gastrointestinal bleeding, which is the characteristic presentation of Meckel diverticulum.",
-    "learning_objective": "Recognize Meckel diverticulum, and choose the most appropriate diagnostic study.",
+    "hint": "Este niño pequeño presenta sangrado gastrointestinal bajo indoloro, que es la presentación característica del divertículo de Meckel.",
+    "learning_objective": "Reconocer el divertículo de Meckel y seleccionar el estudio diagnóstico más apropiado.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "Plain abdominal x-ray",
+        "content": "Radiografía abdominal simple",
         "is_correct": false,
-        "explanation_why": "Plain abdominal x-rays can be used in children in the diagnosis of conditions that involve bowel distention or perforation, such as necrotizing enterocolitis or congenital abnormalities of the gastrointestinal tract (e.g., duodenal atresia). These conditions typically manifest with abdominal distention or tenderness and usually occur in premature infants (necrotizing enterocolitis) or shortly after birth (duodenal atresia). This patient's findings are more consistent with Meckel diverticulum, which would not be seen on a plain abdominal x-ray.",
+        "explanation_why": "Las radiografías abdominales simples pueden usarse en niños para el diagnóstico de condiciones que involucran distensión o perforación intestinal, como enterocolitis necrotizante o anomalías congénitas del tracto gastrointestinal (ej. atresia duodenal). Estas condiciones suelen manifestarse con distensión o dolor abdominal y generalmente ocurren en recién nacidos prematuros (enterocolitis necrotizante) o poco después del nacimiento (atresia duodenal). Los hallazgos de este paciente son más consistentes con un divertículo de Meckel, que no sería visible en una radiografía abdominal simple.",
         "explanation_but": "",
         "selection_rate": 4,
         "images": [
@@ -414,9 +414,9 @@
       },
       {
         "letter": "B",
-        "content": "Technetium-99m pertechnetate scan",
+        "content": "Gammagrafía con tecnecio-99m pertecnetato",
         "is_correct": true,
-        "explanation_why": "Technetium-99m pertechnetate scan is the ideal diagnostic test when there is a high suspicion for Meckel diverticulum in children. This scan uses a radioactive tracer that has a high affinity for gastric mucosa and is, therefore, able to identify Meckel diverticulum with high sensitivity and specificity. Ectopic gastric mucosa can secrete gastric acid within the diverticulum, possibly resulting in ileal ulceration and subsequent bleeding.\n\nThe sensitivity of technetium-99m pertechnetate scan is lower in adults because the adult population tends to have a higher percentage of Meckel diverticulum that lack ectopic gastric mucosa. False positives may be seen in intussusception and inflammatory bowel disease.",
+        "explanation_why": "La gammagrafía con tecnecio-99m pertecnetato es la prueba diagnóstica ideal cuando existe alta sospecha de divertículo de Meckel en niños. Este estudio utiliza un trazador radiactivo con alta afinidad por la mucosa gástrica y, por lo tanto, puede identificar el divertículo de Meckel con alta sensibilidad y especificidad. La mucosa gástrica ectópica puede secretar ácido gástrico dentro del divertículo, lo que podría causar ulceración ileal y sangrado subsiguiente.\n\nLa sensibilidad de la gammagrafía con tecnecio-99m pertecnetato es menor en adultos, ya que la población adulta tiende a tener un porcentaje más alto de divertículos de Meckel sin mucosa gástrica ectópica. Falso positivos pueden observarse en invaginación intestinal e enfermedad inflamatoria intestinal.",
         "explanation_but": "",
         "selection_rate": 66,
         "images": [
@@ -431,25 +431,25 @@
       },
       {
         "letter": "C",
-        "content": "Rectal suction biopsy",
+        "content": "Biopsia rectal por succión",
         "is_correct": false,
-        "explanation_why": "Rectal suction biopsy is used for the diagnosis of Hirschsprung disease, which is often seen in neonates and manifests with vomiting, constipation, and abdominal distention. A rectal suction biopsy would not be useful in the diagnosis of Meckel diverticulum, which is usually located in the distal ileum rather than the rectum.",
+        "explanation_why": "La biopsia rectal por succión se utiliza para el diagnóstico de la enfermedad de Hirschsprung, que suele verse en neonatos y se manifiesta con vómitos, estreñimiento y distensión abdominal. Una biopsia rectal por succión no sería útil en el diagnóstico del divertículo de Meckel, que generalmente se localiza en el íleon distal en lugar del recto.",
         "explanation_but": "",
         "selection_rate": 1
       },
       {
         "letter": "D",
-        "content": "Water-soluble contrast enema",
+        "content": "Enema con contraste hidrosoluble",
         "is_correct": false,
-        "explanation_why": "A water-soluble contrast enema may be performed during the workup of abdominal pain and/or constipation, as it may identify conditions such as Hirschsprung disease, meconium plug, or distal bowel obstruction. However, this patient's symptoms are highly suggestive of Meckel diverticulum, which cannot be diagnosed from the results of a water-soluble contrast enema.",
+        "explanation_why": "Un enema con contraste hidrosoluble puede realizarse durante el estudio diagnóstico de dolor abdominal y/o estreñimiento, ya que puede identificar condiciones como la enfermedad de Hirschsprung, tapón meconial o obstrucción intestinal distal. Sin embargo, los síntomas de este paciente son altamente sugerentes de divertículo de Meckel, que no puede diagnosticarse mediante un enema con contraste hidrosoluble.",
         "explanation_but": "",
         "selection_rate": 4
       },
       {
         "letter": "E",
-        "content": "Abdominal ultrasound",
+        "content": "Ecografía abdominal",
         "is_correct": false,
-        "explanation_why": "Abdominal ultrasound can be used in the diagnosis of many abdominal problems in young children such as intussusception. While intussusception can cause lower gastrointestinal bleeding, it usually manifests with acute cyclical colicky abdominal pain, vomiting, and abdominal tenderness. This patient has no concomitant symptoms and a benign abdominal exam, making intussusception unlikely. However, this patient's symptoms suggest Meckel diverticulum that cannot be visualized reliably on abdominal ultrasound.",
+        "explanation_why": "La ecografía abdominal puede usarse en el diagnóstico de múltiples problemas abdominales en niños pequeños, como la invaginación intestinal. Aunque la invaginación intestinal puede causar sangrado gastrointestinal bajo, suele manifestarse con dolor abdominal cólico agudo, vómitos y dolor a la palpación abdominal. Este paciente no presenta síntomas concomitantes ni hallazgos abdominales anormales, lo que hace poco probable la invaginación. Sin embargo, los síntomas del paciente sugieren un divertículo de Meckel, que no puede visualizarse de manera confiable mediante ecografía abdominal.",
         "explanation_but": "",
         "selection_rate": 8,
         "images": [
@@ -464,25 +464,25 @@
       },
       {
         "letter": "F",
-        "content": "Esophagogastroduodenoscopy",
+        "content": "Esofagogastroduodenoscopia",
         "is_correct": false,
-        "explanation_why": "Esophagogastroduodenoscopy is a minimally invasive diagnostic test that is not first-line for the workup of gastrointestinal bleeding in the pediatric population. In an 18-month-old child with painless gastrointestinal bleeding, Meckel diverticulum is the most common etiology. This diverticulum is most commonly located in the distal ileum, and therefore cannot be visualized by esophagogastroduodenoscopy.",
+        "explanation_why": "La esofagogastroduodenoscopia es una prueba diagnóstica poco invasiva que no es de primera línea en el estudio del sangrado gastrointestinal en la población pediátrica. En un niño de 18 meses con sangrado gastrointestinal indoloro, el divertículo de Meckel es la etiología más común. Este divertículo se localiza generalmente en el íleon distal y, por lo tanto, no puede visualizarse mediante esofagogastroduodenoscopia.",
         "explanation_but": "",
         "selection_rate": 7
       },
       {
         "letter": "G",
-        "content": "Colonoscopy",
+        "content": "Colonoscopia",
         "is_correct": false,
-        "explanation_why": "Meckel diverticulum is usually located in the distal ileum, and thus colonoscopy (which usually involves inspection from the rectum to the cecum) is not considered an appropriate initial diagnostic test. Although Meckel diverticula may incidentally be found during colonoscopies in adults, there is little data as to the sensitivity and specificity of colonoscopy for Meckel diverticulum in pediatric populations. Additionally, colonoscopy is an invasive diagnostic test that carries a risk of bowel perforation.",
+        "explanation_why": "El divertículo de Meckel suele localizarse en el íleon distal, por lo que la colonoscopia (que generalmente implica inspección desde el recto hasta el ciego) no se considera una prueba diagnóstica inicial apropiada. Aunque los divertículos de Meckel pueden encontrarse incidentalmente durante colonoscopias en adultos, hay pocos datos sobre la sensibilidad y especificidad de la colonoscopia para el divertículo de Meckel en la población pediátrica. Además, la colonoscopia es una prueba invasiva que conlleva riesgo de perforación intestinal.",
         "explanation_but": "",
         "selection_rate": 7
       },
       {
         "letter": "H",
-        "content": "Small bowel enteroscopy",
+        "content": "Enteroscopia de intestino delgado",
         "is_correct": false,
-        "explanation_why": "Small bowel enteroscopy can be used for the diagnosis of Meckel diverticulum. However, it is a relatively invasive test that carries a risk of bowel perforation. For this reason, it is not considered an appropriate initial diagnostic test.",
+        "explanation_why": "La enteroscopia de intestino delgado puede usarse para el diagnóstico del divertículo de Meckel. Sin embargo, es una prueba relativamente invasiva que conlleva riesgo de perforación intestinal. Por esta razón, no se considera una prueba diagnóstica inicial apropiada.",
         "explanation_but": "",
         "selection_rate": 2
       }
@@ -491,59 +491,59 @@
   },
   {
     "eid": "cA0aii",
-    "question_text": "A 57-year-old woman comes to the physician because of several years of recurrent pelvic pain and constipation. She has increased fecal urgency and a sensation of incomplete evacuation following defecation. She has had no problems associated with urination. Her last menstrual period was 6 years ago. She has had three uncomplicated vaginal deliveries. Physical examination shows normal external genitalia. Speculum examination of the vagina and the cervix shows bulging of the posterior vaginal wall during Valsalva maneuver. Weakness of which of the following structures is the most likely cause of this patient's symptoms?",
-    "content_preview": "A 57-year-old woman comes to the physician because of several years of recurrent pelvic pain and constipation. She has increased fecal urgency and a sensation of incomplete evacuation following defecation. She has had no problems associated with urination. Her last menstrual period was 6 years ago. She has had three uncomplicated vaginal deliveries. Physical examination shows normal external genitalia. Speculum examination of the vagina and the cervix shows bulging of the posterior vaginal wall during Valsalva maneuver. Weakness of which of the following structures is the most likely cause of this patient's symptoms?",
+    "question_text": "Una mujer de 57 años acude al médico por varios años de dolor pélvico recurrente y estreñimiento. Refiere aumento de la urgencia defecatoria y sensación de evacuación incompleta tras la defecación. No presenta problemas asociados a la micción. Su última menstruación fue hace 6 años. Ha tenido tres partos vaginales sin complicaciones. El examen físico muestra genitales externos normales. El examen con especulo de la vagina y el cuello uterino muestra abultamiento de la pared vaginal posterior durante la maniobra de Valsalva. ¿La debilidad de cuál de las siguientes estructuras es la causa más probable de los síntomas de esta paciente?",
+    "content_preview": "Una mujer de 57 años acude al médico por varios años de dolor pélvico recurrente y estreñimiento. Refiere aumento de la urgencia defecatoria y sensación de evacuación incompleta tras la defecación. No presenta problemas asociados a la micción. Su última menstruación fue hace 6 años. Ha tenido tres partos vaginales sin complicaciones. El examen físico muestra genitales externos normales. El examen con especulo de la vagina y el cuello uterino muestra abultamiento de la pared vaginal posterior durante la maniobra de Valsalva. ¿La debilidad de cuál de las siguientes estructuras es la causa más probable de los síntomas de esta paciente?",
     "correct_answer": "B",
     "difficulty": 3,
-    "hint": "In a multiparous, postmenopausal woman presenting with pelvic pain, constipation, and bulging of the posterior vaginal wall during Valsalva maneuver, rectocele is the most likely diagnosis.",
-    "learning_objective": "Recognize rectocele, and recall its anatomical cause.",
+    "hint": "En una mujer multipara, posmenopáusica, que presenta dolor pélvico, estreñimiento y abultamiento de la pared vaginal posterior durante la maniobra de Valsalva, el diagnóstico más probable es rectocele.",
+    "learning_objective": "Reconocer el rectocele y recordar su causa anatómica.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "Pubocervical fascia",
+        "content": "Fascia pubocervical",
         "is_correct": false,
-        "explanation_why": "The pubocervical fascia, which is located between the cervix and the pubic bone area, forms part of the anterior vaginal wall. Weakness of this fascia results in a loss of support of the urethra and/or bladder, leading to cystocele and/or urethrocele. Patients typically present with urinary symptoms such as urgency, hesitation, incomplete emptying, and urinary incontinence, none of which is seen here. In addition, fecal urgency and a feeling of incomplete evacuation would not be expected. Moreover, anterior rather than posterior bulging of the vaginal wall would be expected during Valsalva maneuver.",
+        "explanation_why": "La fascia pubocervical, ubicada entre el cuello uterino y la región del hueso púbico, forma parte de la pared vaginal anterior. La debilidad de esta fascia provoca pérdida de soporte de la uretra y/o vejiga, lo que lleva a cistocele y/o uretrocele. Los pacientes suelen presentar síntomas urinarios como urgencia, hesitación, vaciado incompleto e incontinencia urinaria, ninguno de los cuales se observa en este caso. Además, no se esperaría urgencia fecal ni sensación de evacuación incompleta. Asimismo, se esperaría abultamiento de la pared vaginal anterior —y no posterior— durante la maniobra de Valsalva.",
         "explanation_but": "",
         "selection_rate": 2
       },
       {
         "letter": "B",
-        "content": "Rectovaginal fascia",
+        "content": "Fascia rectovaginal",
         "is_correct": true,
-        "explanation_why": "The rectovaginal fascia is part of the fibromuscular structure of the perianal body, and it separates the vagina and the rectum. Acquired weakness of the rectovaginal fascia, e.g., due to multiple vaginal deliveries or low estrogen levels during menopause, can cause herniation of the posterior vaginal wall, which is associated with protrusion of the rectum into the vaginal canal (i.e. rectocele), which can become visible during Valsalva maneuver. Typical symptoms of rectocele include increased fecal urgency and a sensation of incomplete evacuation following defecation. Patients with large rectoceles may report needing to insert their fingers into the vagina to press against the rectovaginal fascia, thereby facilitating the emptying of stool.\n\nFirst-line therapy consists of conservative strategies, such as Kegel exercises, weight loss, a high-fiber diet, and vaginal pessaries.",
+        "explanation_why": "La fascia rectovaginal es parte de la estructura fibromuscular del cuerpo perineal y separa la vagina del recto. La debilidad adquirida de esta fascia, por ejemplo, por múltiples partos vaginales o bajos niveles de estrógenos en la menopausia, puede causar herniación de la pared vaginal posterior, asociada a protrusión del recto en el canal vaginal (es decir, rectocele), visible durante la maniobra de Valsalva. Los síntomas típicos del rectocele incluyen aumento de la urgencia fecal y sensación de evacuación incompleta tras la defecación. Los pacientes con rectoceles grandes pueden referir necesidad de introducir los dedos en la vagina para presionar contra la fascia rectovaginal y facilitar la evacuación de heces.\n\nEl tratamiento de primera línea consiste en estrategias conservadoras, como ejercicios de Kegel, pérdida de peso, dieta rica en fibra y pesarios vaginales.",
         "explanation_but": "",
         "selection_rate": 65
       },
       {
         "letter": "C",
-        "content": "Uterosacral ligament",
+        "content": "Ligamento uterosacro",
         "is_correct": false,
-        "explanation_why": "The uterosacral ligament travels from the uterus to the anterior wall of the sacrum and fixes the upper vagina and uterus in place. Weakness of the uterosacral ligament can lead to uterine procidentia. This type of herniation can cause symptoms similar to those seen in this patient. However, uterine procidentia typically manifests with other symptoms as well, including a bulging vaginal mass, urinary incontinence, and vaginal bleeding, none of which is seen in this patient.",
+        "explanation_why": "El ligamento uterosacro se extiende desde el útero hasta la pared anterior del sacro, fijando la vagina superior y el útero en su lugar. La debilidad de este ligamento puede provocar procidencia uterina. Este tipo de herniación puede causar síntomas similares a los de esta paciente. Sin embargo, la procidencia uterina suele manifestarse con otros síntomas, como una masa vaginal abultada, incontinencia urinaria y sangrado vaginal, ninguno de los cuales se observa en este caso.",
         "explanation_but": "",
         "selection_rate": 20
       },
       {
         "letter": "D",
-        "content": "External anal sphincter",
+        "content": "Esfínter anal externo",
         "is_correct": false,
-        "explanation_why": "The external anal sphincter can be compromised by perineal tearing during traumatic vaginal births. However, weakness of the external anal sphincter would cause fecal incontinence (i.e., involuntary loss of feces) rather than pelvic pain and constipation. Moreover, this patient has no history of complicated vaginal deliveries.",
+        "explanation_why": "El esfínter anal externo puede verse comprometido por desgarros perineales durante partos vaginales traumáticos. Sin embargo, la debilidad de este esfínter provocaría incontinencia fecal (pérdida involuntaria de heces) en lugar de dolor pélvico y estreñimiento. Además, esta paciente no tiene antecedentes de partos vaginales complicados.",
         "explanation_but": "",
         "selection_rate": 5
       },
       {
         "letter": "E",
-        "content": "Cardinal ligament",
+        "content": "Ligamento cardinal",
         "is_correct": false,
-        "explanation_why": "The cardinal ligament connects the cervix to the lateral wall of the peritoneum, providing support to the upper vagina and cervix. This ligament can be injured during hysterectomy, but it would not be affected by multiple vaginal births. Moreover, weakness of the cardinal ligament would not result in rectocele, but rather cause uterine prolapse.",
+        "explanation_why": "El ligamento cardinal conecta el cuello uterino con la pared lateral del peritoneo, proporcionando soporte a la vagina superior y el cuello uterino. Este ligamento puede lesionarse durante una histerectomía, pero no se vería afectado por múltiples partos vaginales. Además, la debilidad del ligamento cardinal no provocaría rectocele, sino más bien prolapso uterino.",
         "explanation_but": "",
         "selection_rate": 3
       },
       {
         "letter": "F",
-        "content": "Bulbospongiosus muscle",
+        "content": "Músculo bulbospongioso",
         "is_correct": false,
-        "explanation_why": "The bulbospongiosus muscle is part of the inferior aspect of the urogenital diaphragm. Weakness or injury to this muscle (e.g., during vaginal delivery) can cause stress incontinence. However, this patient does not have urinary symptoms. Instead, she has defecatory symptoms associated with rectocele.",
+        "explanation_why": "El músculo bulbospongioso forma parte del aspecto inferior del diafragma urogenital. La debilidad o lesión de este músculo (por ejemplo, durante el parto vaginal) puede causar incontinencia por esfuerzo. Sin embargo, esta paciente no presenta síntomas urinarios, sino síntomas defecatorios asociados a rectocele.",
         "explanation_but": "",
         "selection_rate": 5
       }
@@ -552,19 +552,19 @@
   },
   {
     "eid": "GTaBHP",
-    "question_text": "A 73-year-old man comes to the physician because of a 2-month history of intermittent blood in his stool. He has had no pain with defecation. Physical examination shows a 2-cm mass located above the dentate line. Further evaluation of the mass confirms adenocarcinoma. Which of the following best describes the most likely route of hematogenous spread of the malignancy?",
-    "content_preview": "A 73-year-old man comes to the physician because of a 2-month history of intermittent blood in his stool. He has had no pain with defecation. Physical examination shows a 2-cm mass located above the dentate line. Further evaluation of the mass confirms adenocarcinoma. Which of the following best describes the most likely route of hematogenous spread of the malignancy?",
+    "question_text": "Un hombre de 73 años acude al médico por un antecedente de 2 meses de sangre intermitente en sus heces. No ha presentado dolor durante la defecación. El examen físico muestra una masa de 2 cm ubicada por encima de la línea dentada. La evaluación adicional de la masa confirma adenocarcinoma. ¿Cuál de las siguientes opciones describe mejor la ruta más probable de diseminación hematógena de la malignidad?",
+    "content_preview": "Un hombre de 73 años acude al médico por un antecedente de 2 meses de sangre intermitente en sus heces. No ha presentado dolor durante la defecación. El examen físico muestra una masa de 2 cm ubicada por encima de la línea dentada. La evaluación adicional de la masa confirma adenocarcinoma. ¿Cuál de las siguientes opciones describe mejor la ruta más probable de diseminación hematógena de la malignidad?",
     "correct_answer": "A",
     "difficulty": 2,
-    "hint": "The anal canal is anatomically divided by the pectinate line into the upper two thirds, which is embryologically derived from the hindgut (endoderm), and the lower third, which is derived from ectoderm. The artery supply, venous drainage, lymphatic drainage, and nerve supply of the region of the anal canal above the dentate line (pectinate line) are, therefore, different from those of the region below this line.",
-    "learning_objective": "Recall the venous drainage of the anal canal, and recall the route of hematogenous spread of rectal adenocarcinoma.",
+    "hint": "El canal anal está dividido anatómicamente por la línea pectínea en dos tercios superiores, que tienen origen embriológico en el intestino posterior (endodermo), y un tercio inferior, derivado del ectodermo. El aporte arterial, el drenaje venoso, el drenaje linfático y la inervación de la región del canal anal por encima de la línea dentada (línea pectínea) son, por lo tanto, diferentes a los de la región por debajo de esta línea.",
+    "learning_objective": "Recordar el drenaje venoso del canal anal y recordar la ruta de diseminación hematógena del adenocarcinoma rectal.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "Superior rectal vein → inferior mesenteric vein → hepatic portal vein",
+        "content": "Vena rectal superior → vena mesentérica inferior → vena porta hepática",
         "is_correct": true,
-        "explanation_why": "The region of the anal canal above the dentate line drains into the portal venous system via the following pathway: superior rectal vein → inferior mesenteric vein → splenic vein → hepatic portal vein. Adenocarcinomas typically arise in this region and usually result in hepatic metastases. The region of the anal canal below the dentate line drains into systemic venous circulation via the following pathway: inferior rectal vein → internal pudendal vein → internal iliac vein → inferior vena cava. Squamous cell carcinomas typically arise in this region. The principles of the upper and lower anal canal's venous drainage are not only relevant for predicting the most likely route of hematogenous spread of malignancies, but also for understanding first pass metabolism in rectal drug administration. First pass metabolism is higher if the drug drains via the superior rectal vein into the hepatic portal circulation.",
+        "explanation_why": "La región del canal anal por encima de la línea dentada drena al sistema venoso portal a través de la siguiente ruta: vena rectal superior → vena mesentérica inferior → vena esplénica → vena porta hepática. Los adenocarcinomas suelen originarse en esta región y generalmente producen metástasis hepáticas. La región del canal anal por debajo de la línea dentada drena a la circulación venosa sistémica a través de la siguiente ruta: vena rectal inferior → vena pudenda interna → vena ilíaca interna → vena cava inferior. Los carcinomas de células escamosas suelen surgir en esta región. Los principios del drenaje venoso del canal anal superior e inferior no solo son relevantes para predecir la ruta más probable de diseminación hematógena de las malignidades, sino también para comprender el primer paso del metabolismo en la administración rectal de fármacos. El primer paso del metabolismo es mayor si el fármaco drena a través de la vena rectal superior hacia la circulación portal hepática.",
         "explanation_but": "",
         "selection_rate": 73,
         "images": [
@@ -579,41 +579,41 @@
       },
       {
         "letter": "B",
-        "content": "Inferior rectal vein → inferior mesenteric vein → splenic vein",
+        "content": "Vena rectal inferior → vena mesentérica inferior → vena esplénica",
         "is_correct": false,
-        "explanation_why": "The inferior rectal vein does not drain into the inferior mesenteric vein.",
+        "explanation_why": "La vena rectal inferior no drena hacia la vena mesentérica inferior.",
         "explanation_but": "",
         "selection_rate": 4
       },
       {
         "letter": "C",
-        "content": "Inferior rectal vein → internal pudendal vein → internal iliac vein",
+        "content": "Vena rectal inferior → vena pudenda interna → vena ilíaca interna",
         "is_correct": false,
-        "explanation_why": "“Inferior rectal vein → internal pudendal vein → internal iliac vein (→ inferior vena cava)” describes the venous pathway of dissemination for tumors located below the dentate line. This patient's tumor is located above the dentate line.",
+        "explanation_why": "\"Vena rectal inferior → vena pudenda interna → vena ilíaca interna (→ vena cava inferior)\" describe la vía venosa de diseminación para tumores ubicados por debajo de la línea dentada. El tumor de este paciente se encuentra por encima de la línea dentada.",
         "explanation_but": "",
         "selection_rate": 7
       },
       {
         "letter": "D",
-        "content": "Superior rectal vein → superior mesenteric vein → splenic vein",
+        "content": "Vena rectal superior → vena mesentérica superior → vena esplénica",
         "is_correct": false,
-        "explanation_why": "The superior mesenteric vein does not drain into the splenic vein unless retrograde flow due to portal hypertension is present. This patient does not show signs of portal hypertension.",
+        "explanation_why": "La vena mesentérica superior no drena hacia la vena esplénica a menos que exista flujo retrógrado por hipertensión portal. Este paciente no presenta signos de hipertensión portal.",
         "explanation_but": "",
         "selection_rate": 4
       },
       {
         "letter": "E",
-        "content": "Superior rectal vein → superior mesenteric vein → hepatic portal vein",
+        "content": "Vena rectal superior → vena mesentérica superior → vena porta hepática",
         "is_correct": false,
-        "explanation_why": "Blood from the superior rectal vein does not drain into the superior mesenteric vein.",
+        "explanation_why": "La sangre de la vena rectal superior no drena hacia la vena mesentérica superior.",
         "explanation_but": "",
         "selection_rate": 10
       },
       {
         "letter": "F",
-        "content": "Inferior rectal vein → internal pudendal vein → external iliac vein",
+        "content": "Vena rectal inferior → vena pudenda interna → vena ilíaca externa",
         "is_correct": false,
-        "explanation_why": "Blood from the internal pudendal vein does not drain into the external iliac vein.",
+        "explanation_why": "La sangre de la vena pudenda interna no drena hacia la vena ilíaca externa.",
         "explanation_but": "",
         "selection_rate": 2
       }
@@ -622,59 +622,59 @@
   },
   {
     "eid": "VHaG6N",
-    "question_text": "A 46-year-old woman comes to the physician because of a 2-month history of pain with defecation, anal itching, and blood in the stool. Over the past month, she has also had a 4-kg (9-lb) weight loss. She has a history of irritable bowel syndrome, HIV infection, and human papillomavirus infection. Current medications include a combined antiretroviral treatment regimen and an oral contraceptive. She does not smoke or drink alcohol. She is sexually active with one male partner. Temperature is 37.5°C (99.5°F), pulse is 66/min, respirations are 12/min, and blood pressure is 118/76 mm Hg. Examination of the perianal region shows no abnormalities. Digital rectal examination shows a tender mass and bright red blood in the anal canal. Anoscopy shows an exophytic, ulcerated, 2.5-cm (1-in) mass that is located just above the anocutaneous line and below the dentate line. Which of the following is the most likely diagnosis?",
-    "content_preview": "A 46-year-old woman comes to the physician because of a 2-month history of pain with defecation, anal itching, and blood in the stool. Over the past month, she has also had a 4-kg (9-lb) weight loss. She has a history of irritable bowel syndrome, HIV infection, and human papillomavirus infection. Current medications include a combined antiretroviral treatment regimen and an oral contraceptive. She does not smoke or drink alcohol. She is sexually active with one male partner. Temperature is 37.5°C (99.5°F), pulse is 66/min, respirations are 12/min, and blood pressure is 118/76 mm Hg. Examination of the perianal region shows no abnormalities. Digital rectal examination shows a tender mass and bright red blood in the anal canal. Anoscopy shows an exophytic, ulcerated, 2.5-cm (1-in) mass that is located just above the anocutaneous line and below the dentate line. Which of the following is the most likely diagnosis?",
+    "question_text": "Una mujer de 46 años acude al médico por un antecedente de 2 meses de dolor durante la defecación, prurito anal y sangre en las heces. En el último mes también ha perdido 4 kg (9 lb). Tiene antecedentes de síndrome de intestino irritable, infección por VIH y infección por virus del papiloma humano (HPV). Sus medicamentos actuales incluyen un régimen combinado de tratamiento antirretroviral y un anticonceptivo oral. No fuma ni consume alcohol. Tiene actividad sexual con una pareja masculina. La temperatura es de 37.5°C (99.5°F), el pulso es de 66/min, las respiraciones son de 12/min y la presión arterial es de 118/76 mm Hg. El examen de la región perianal no muestra anomalías. El examen rectal digital muestra una masa dolorosa a la palpación y sangre roja brillante en el canal anal. La anoscopia revela una masa exofítica, ulcerada de 2.5 cm (1 pulgada) ubicada justo por encima de la línea anocutánea y por debajo de la línea dentada. ¿Cuál de las siguientes es el diagnóstico más probable?",
+    "content_preview": "Una mujer de 46 años acude al médico por un antecedente de 2 meses de dolor durante la defecación, prurito anal y sangre en las heces. En el último mes también ha perdido 4 kg (9 lb). Tiene antecedentes de síndrome de intestino irritable, infección por VIH y infección por virus del papiloma humano (HPV). Sus medicamentos actuales incluyen un régimen combinado de tratamiento antirretroviral y un anticonceptivo oral. No fuma ni consume alcohol. Tiene actividad sexual con una pareja masculina. La temperatura es de 37.5°C (99.5°F), el pulso es de 66/min, las respiraciones son de 12/min y la presión arterial es de 118/76 mm Hg. El examen de la región perianal no muestra anomalías. El examen rectal digital muestra una masa dolorosa a la palpación y sangre roja brillante en el canal anal. La anoscopia revela una masa exofítica, ulcerada de 2.5 cm (1 pulgada) ubicada justo por encima de la línea anocutánea y por debajo de la línea dentada. ¿Cuál de las siguientes es el diagnóstico más probable?",
     "correct_answer": "F",
     "difficulty": 2,
-    "hint": "A history of immunodeficiency (e.g., caused by HIV infection) and prior human papillomavirus (HPV) infection are major risk factors for this condition.",
-    "learning_objective": "Recognize squamous cell carcinoma of the anal canal.",
+    "hint": "Un antecedente de inmunodeficiencia (ej. causada por infección por VIH) y de infección previa por virus del papiloma humano (HPV) son factores de riesgo mayores para esta condición.",
+    "learning_objective": "Reconocer el carcinoma de células escamosas del canal anal.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "Fibroepithelial polyp",
+        "content": "Pólipo fibroepitelial",
         "is_correct": false,
-        "explanation_why": "A fibroepithelial polyp of the anus can manifest as an exophytic lesion in the perianal region. However, patients are usually asymptomatic. Moreover, fibroepithelial polyps of the anus arise from anal columns at the dentate line rather than near the anocutaneous line.",
+        "explanation_why": "Un pólipo fibroepitelial del año puede manifestarse como una lesión exofítica en la región perianal. Sin embargo, los pacientes suelen ser asintomáticos. Además, los pólipos fibroepiteliales del año surgen de las columnas anales en la línea dentada en lugar de cerca de la línea anocutánea.",
         "explanation_but": "",
         "selection_rate": 4
       },
       {
         "letter": "B",
-        "content": "Basal cell carcinoma",
+        "content": "Carcinoma basocelular",
         "is_correct": false,
-        "explanation_why": "Basal cell carcinoma (BCC) of the anus manifests as an exophytic, bleeding perianal mass. Besides being very rare (the main risk factor for BCC is sun exposure), BCC of the anus arises below rather than above the anocutaneous line. Moreover, although this condition is associated with immunodeficiency (e.g., caused by HIV infection), it is not associated with HPV infection.",
+        "explanation_why": "El carcinoma basocelular (CBC) del año se manifiesta como una masa perianal exofítica y sangrante. Además de ser muy raro (el principal factor de riesgo para el CBC es la exposición solar), el CBC del año surge por debajo en lugar de por encima de la línea anocutánea. Además, aunque esta condición se asocia con inmunodeficiencia (ej. causada por infección por VIH), no se asocia con infección por HPV.",
         "explanation_but": "",
         "selection_rate": 2
       },
       {
         "letter": "C",
-        "content": "Internal hemorrhoid disease",
+        "content": "Enfermedad por hemorroides internas",
         "is_correct": false,
-        "explanation_why": "Internal hemorrhoids can manifest with anal pruritus, hematochezia, and a palpable mass on digital rectal examination. Furthermore, in a patient with irritable bowel syndrome, constipation is a common feature and a risk factor for developing hemorrhoids. However, internal hemorrhoids more commonly appear as dilated, purple or blue veins on anoscopy rather than an exophytic ulcerated mass, and, because they arise from the superior hemorrhoidal plexus, they are located above the dentate line rather than the anocutaneous line. Moreover, defecation is usually painless and weight loss is not expected.",
+        "explanation_why": "Las hemorroides internas pueden manifestarse con prurito anal, hematochezia y una masa palpable en el examen rectal digital. Además, en un paciente con síndrome de intestino irritable, la constipación es una característica común y un factor de riesgo para desarrollar hemorroides. Sin embargo, las hemorroides internas suelen aparecer como venas dilatadas, de color púrpura o azuladas en la anoscopia en lugar de una masa ulcerada exofítica, y, al surgir del plexo hemorroidal superior, se localizan por encima de la línea dentada en lugar de la línea anocutánea. Además, la defecación suele ser indolora y no se espera pérdida de peso.",
         "explanation_but": "",
         "selection_rate": 9
       },
       {
         "letter": "D",
-        "content": "Condylomata acuminata",
+        "content": "Condilomas acuminados",
         "is_correct": false,
-        "explanation_why": "Condylomata acuminata of the anus is caused by HPV infection, which this patient has a history of, and can manifest as an exophytic lesion. However, although condylomata acuminata are pruritic, tender, and friable in a small percentage of cases, they are more commonly asymptomatic; weight loss is not expected. Moreover, when present in the anal canal, condylomata acuminata usually appear as small papules rather than large, ulcerated lesions.",
+        "explanation_why": "Los condilomas acuminados del año están causados por infección por HPV, de la cual esta paciente tiene antecedentes, y pueden manifestarse como una lesión exofítica. Sin embargo, aunque los condilomas acuminados son pruriginosos, dolorosos a la palpación y frágiles en un pequeño porcentaje de casos, suelen ser asintomáticos; no se espera pérdida de peso. Además, cuando están presentes en el canal anal, los condilomas acuminados suelen aparecer como pequeñas pápulas en lugar de lesiones ulceradas grandes.",
         "explanation_but": "",
         "selection_rate": 13
       },
       {
         "letter": "E",
-        "content": "Paget disease of the anus",
+        "content": "Enfermedad de Paget del año",
         "is_correct": false,
-        "explanation_why": "Paget disease of the anus can manifest with anal pruritus, pain with defecation, and hematochezia, all of which are seen here. However, besides being extremely rare, this condition usually manifests as well-demarcated erythematous plaques or patches with a white scale rather than a single ulcerated, exophytic lesion.",
+        "explanation_why": "La enfermedad de Paget del año puede manifestarse con prurito anal, dolor durante la defecación y hematochezia, hallazgos todos presentes aquí. Sin embargo, además de ser extremadamente rara, esta condición suele manifestarse como placas o parches eritematosos bien delimitados con escamas blancas en lugar de una única lesión exofítica ulcerada.",
         "explanation_but": "",
         "selection_rate": 3
       },
       {
         "letter": "F",
-        "content": "Squamous cell carcinoma",
+        "content": "Carcinoma de células escamosas",
         "is_correct": true,
-        "explanation_why": "A history of hematochezia, anal pruritus, painful defecation, and weight loss in a patient with an exophytic, friable, ulcerated mass above the anal verge is suggestive of anal canal cancer. Squamous cell carcinoma is the most common histological type of anal canal cancer and typically arises below the dentate line (see “Characteristics of the anal canal above and below the dentate line” table). Patients must undergo a biopsy of the tumor to confirm the diagnosis. Women diagnosed with anal canal squamous cell carcinoma should also undergo a gynecological examination for cervical cancer screening.",
+        "explanation_why": "Un antecedente de hematochezia, prurito anal, dolor durante la defecación y pérdida de peso en un paciente con una masa exofítica, friable y ulcerada por encima del margen anal es sugestivo de cáncer del canal anal. El carcinoma de células escamosas es el tipo histológico más común de cáncer del canal anal y típicamente surge por debajo de la línea dentada (ver tabla «Características del canal anal por encima y por debajo de la línea dentada»). Los pacientes deben someterse a una biopsia del tumor para confirmar el diagnóstico. Las mujeres diagnosticadas con carcinoma de células escamosas del canal anal también deben someterse a un examen ginecológico para detección de cáncer de cuello uterino.",
         "explanation_but": "",
         "selection_rate": 70
       }
@@ -683,19 +683,19 @@
   },
   {
     "eid": "BFaz4m",
-    "question_text": "A 42-year-old man comes to the physician because of blood in his stool for the past week. He has lost 7.7 kg (17 lb) of weight and has been passing hard, small, thin stools for the past 2 months. He was diagnosed with ulcerative colitis 20 years ago and he has responded well to treatment. His mother also has ulcerative colitis. He does not smoke, drink alcohol, or use illicit drugs. His only medication is mesalamine. Vital signs are within normal limits. Examination shows slight conjunctival pallor. There is mild tenderness to palpation in the left lower quadrant. Rectal examination shows no abnormalities. A barium enema is shown. A CT scan of the abdomen, pelvis, and chest shows no other enlarged lymph nodes or focal lesions. Which of the following is the most appropriate treatment?",
-    "content_preview": "A 42-year-old man comes to the physician because of blood in his stool for the past week. He has lost 7.7 kg (17 lb) of weight and has been passing hard, small, thin stools for the past 2 months. He was diagnosed with ulcerative colitis 20 years ago and he has responded well to treatment. His mother also has ulcerative colitis. He does not smoke, drink alcohol, or use illicit drugs. His only medication is mesalamine. Vital signs are within normal limits. Examination shows slight conjunctival pallor. There is mild tenderness to palpation in the left lower quadrant. Rectal examination shows no abnormalities. A barium enema is shown. A CT scan of the abdomen, pelvis, and chest shows no other enlarged lymph nodes or focal lesions. Which of the following is the most appropriate treatment?",
+    "question_text": "Un hombre de 42 años acude al médico por presencia de sangre en sus heces durante la última semana. Ha perdido 7.7 kg (17 lb) de peso y lleva 2 meses evacuando heces duras, pequeñas y delgadas. Fue diagnosticado con colitis ulcerosa hace 20 años y ha respondido bien al tratamiento. Su madre también padece colitis ulcerosa. No fuma, consume alcohol ni usa drogas ilícitas. Su único medicamento es mesalamina. Los signos vitales están dentro de límites normales. El examen físico muestra ligera palidez conjuntival. Existe dolor a la palpación leve en el cuadrante inferior izquierdo. El examen rectal no muestra anormalidades. Se realiza un enema baritado. Una tomografía computarizada (TC) de abdomen, pelvis y tórax no muestra otros ganglios linfáticos aumentados de tamaño ni lesiones focales. ¿Cuál de las siguientes es el tratamiento más apropiado?",
+    "content_preview": "Un hombre de 42 años acude al médico por presencia de sangre en sus heces durante la última semana. Ha perdido 7.7 kg (17 lb) de peso y lleva 2 meses evacuando heces duras, pequeñas y delgadas. Fue diagnosticado con colitis ulcerosa hace 20 años y ha respondido bien al tratamiento. Su madre también padece colitis ulcerosa. No fuma, consume alcohol ni usa drogas ilícitas. Su único medicamento es mesalamina. Los signos vitales están dentro de límites normales. El examen físico muestra ligera palidez conjuntival. Existe dolor a la palpación leve en el cuadrante inferior izquierdo. El examen rectal no muestra anormalidades. Se realiza un enema baritado. Una tomografía computarizada (TC) de abdomen, pelvis y tórax no muestra otros ganglios linfáticos aumentados de tamaño ni lesiones focales. ¿Cuál de las siguientes es el tratamiento más apropiado?",
     "correct_answer": "E",
     "difficulty": 4,
-    "hint": "On the barium enema, an apple core sign (also called napkin ring sign) is seen in the distal descending colon, which suggests annular constriction due to colorectal carcinoma.",
-    "learning_objective": "Recognize colorectal carcinoma in the setting of ulcerative colitis, and choose the most appropriate surgical treatment.",
+    "hint": "En el enema baritado se observa el signo de manzana en núcleo (también llamado signo de servilleta) en el colon descendente distal, lo que sugiere una constricción anular por carcinoma colorrectal.",
+    "learning_objective": "Reconocer el carcinoma colorrectal en el contexto de colitis ulcerosa y elegir el tratamiento quirúrgico más apropiado.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "Left hemicolectomy",
+        "content": "Hemicolectomía izquierda",
         "is_correct": false,
-        "explanation_why": "Left hemicolectomy is indicated in patients with a tumor in the descending colon, which this patient most likely has. However, this patient also has ulcerative colitis, and removing half of the colon does not reduce the risk of developing additional malignancies in the remaining colon. Therefore, another treatment option is more appropriate.",
+        "explanation_why": "La hemicolectomía izquierda está indicada en pacientes con tumor en el colon descendente, lo que probablemente tiene este paciente. Sin embargo, este paciente también tiene colitis ulcerosa, y extirpar la mitad del colon no reduce el riesgo de desarrollar malignidades adicionales en el colon restante. Por lo tanto, otra opción de tratamiento es más adecuada.",
         "explanation_but": "",
         "selection_rate": 50,
         "images": [
@@ -710,33 +710,33 @@
       },
       {
         "letter": "B",
-        "content": "Radiation therapy",
+        "content": "Radioterapia",
         "is_correct": false,
-        "explanation_why": "Neoadjuvant radiation therapy (NART) is indicated in patients with locally advanced rectal carcinoma. However, in colon cancer, radiation therapy is not a standard therapeutic modality.",
+        "explanation_why": "La radioterapia neoadyuvante (NART) está indicada en pacientes con carcinoma rectal localmente avanzado. Sin embargo, en el cáncer de colon, la radioterapia no es una modalidad terapéutica estándar.",
         "explanation_but": "",
         "selection_rate": 2
       },
       {
         "letter": "C",
-        "content": "Budesonide enema",
+        "content": "Enema de budesonida",
         "is_correct": false,
-        "explanation_why": "Budesonide enema is used in the treatment of mild to moderate ulcerative colitis (UC) if the response to 5-ASA (e.g., mesalamine) is not sufficient. Although bloody bowel movements, weight loss, and anemia may be symptoms of a UC flare in this patient treated with mesalamine, other symptoms such as diarrhea, fecal urgency, abdominal pain, and tenesmus are absent. This patient most likely has colon cancer, for which budesonide enema is not an appropriate treatment.",
+        "explanation_why": "El enema de budesonida se usa en el tratamiento de colitis ulcerosa (CU) leve a moderada si la respuesta a los 5-ASA (ej. mesalamina) no es suficiente. Aunque las heces con sangre, pérdida de peso y anemia pueden ser síntomas de un brote de CU en este paciente tratado con mesalamina, otros síntomas como diarrea, urgencia fecal, dolor abdominal y tenesmo están ausentes. Este paciente probablemente tiene cáncer de colon, para el cual el enema de budesonida no es un tratamiento adecuado.",
         "explanation_but": "",
         "selection_rate": 3
       },
       {
         "letter": "D",
-        "content": "Polyethylene glycol therapy",
+        "content": "Terapia con polietilenglicol",
         "is_correct": false,
-        "explanation_why": "Osmotic laxatives such as polyethylene glycol (PEG) can be used in the treatment of constipation. However, the underlying cause of this patient's constipation is most likely colon cancer, which requires a different treatment at this time.",
+        "explanation_why": "Los laxantes osmóticos como el polietilenglicol (PEG) pueden usarse en el tratamiento del estreñimiento. Sin embargo, la causa subyacente del estreñimiento de este paciente es probablemente cáncer de colon, lo que requiere un tratamiento diferente en este momento.",
         "explanation_but": "",
         "selection_rate": 1
       },
       {
         "letter": "E",
-        "content": "Proctocolectomy",
+        "content": "Proctocolectomía",
         "is_correct": true,
-        "explanation_why": "Ulcerative colitis (UC) is a risk factor for developing colorectal cancer and the risk increases with increased duration and/or extent of disease. This patient's features (i.e., blood in stool, unintentional weight loss, change in stool consistency, anemia) in conjunction with the results of his barium enema are consistent with malignant transformation. The CT scan suggests no lymph node involvement and no metastases. As UC is restricted to the colon and rectum, a proctocolectomy with an ileal pouch-anal anastomosis or ileostomy is a potentially curative treatment for both UC and colorectal carcinoma.",
+        "explanation_why": "La colitis ulcerosa (CU) es un factor de riesgo para desarrollar cáncer colorrectal, y el riesgo aumenta con la duración y/o extensión de la enfermedad. Las características de este paciente (sangre en heces, pérdida de peso no intencional, cambio en la consistencia de las heces y anemia), junto con los hallazgos del enema baritado, son consistentes con transformación maligna. La TC sugiere ausencia de compromiso linfático y metástasis. Como la CU está restringida al colon y recto, una proctocolectomía con anastomosis ileoanal o ileostomía es un tratamiento potencialmente curativo tanto para la CU como para el carcinoma colorrectal.",
         "explanation_but": "",
         "selection_rate": 43,
         "images": [
@@ -765,51 +765,51 @@
   },
   {
     "eid": "0Dae15",
-    "question_text": "A 56-year-old woman comes to the physician because of a 3-week history of bleeding from a growth in the rectal area. She has also had mild perianal itching and tenderness for the past 2 months. She tried empiric treatment with over-the-counter podofilox solution but reports that “the bumps never completely disappeared.” Her medical history is remarkable for HIV infection and hypertension. She has not been sexually active since her husband died 1 year ago. She has smoked one pack of cigarettes daily for 25 years. Her diet consists mostly of fast food and soft drinks. Current medications include antiretroviral therapy and lisinopril. Vital signs are within normal limits. Examination of the perianal area shows a 3-cm friable, exophytic mass. The remainder of the examination shows no abnormalities. Which of the following is the most appropriate next step in management?",
-    "content_preview": "A 56-year-old woman comes to the physician because of a 3-week history of bleeding from a growth in the rectal area. She has also had mild perianal itching and tenderness for the past 2 months. She tried empiric treatment with over-the-counter podofilox solution but reports that “the bumps never completely disappeared.” Her medical history is remarkable for HIV infection and hypertension. She has not been sexually active since her husband died 1 year ago. She has smoked one pack of cigarettes daily for 25 years. Her diet consists mostly of fast food and soft drinks. Current medications include antiretroviral therapy and lisinopril. Vital signs are within normal limits. Examination of the perianal area shows a 3-cm friable, exophytic mass. The remainder of the examination shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "question_text": "Una mujer de 56 años acude al médico por un antecedente de 3 semanas de sangrado proveniente de una lesión en la zona rectal. También ha presentado prurito y dolor perianal leve durante los últimos 2 meses. Intentó tratamiento empírico con solución de podofilox de venta libre, pero reporta que *«las protuberancias nunca desaparecieron completamente»*. Sus antecedentes médicos son relevantes por infección por VIH e hipertensión arterial. No ha tenido actividad sexual desde que su esposo falleció hace 1 año. Fuma un paquete de cigarrillos diarios desde hace 25 años. Su dieta consiste principalmente en comida rápida y bebidas azucaradas. Sus medicamentos actuales incluyen terapia antirretroviral y lisinopril. Los signos vitales están dentro de límites normales. El examen de la zona perianal muestra una masa exofítica friable de 3 cm. El resto del examen no muestra anomalías. ¿Cuál de las siguientes es el siguiente paso más apropiado en el manejo?",
+    "content_preview": "Una mujer de 56 años acude al médico por un antecedente de 3 semanas de sangrado proveniente de una lesión en la zona rectal. También ha presentado prurito y dolor perianal leve durante los últimos 2 meses. Intentó tratamiento empírico con solución de podofilox de venta libre, pero reporta que *«las protuberancias nunca desaparecieron completamente»*. Sus antecedentes médicos son relevantes por infección por VIH e hipertensión arterial. No ha tenido actividad sexual desde que su esposo falleció hace 1 año. Fuma un paquete de cigarrillos diarios desde hace 25 años. Su dieta consiste principalmente en comida rápida y bebidas azucaradas. Sus medicamentos actuales incluyen terapia antirretroviral y lisinopril. Los signos vitales están dentro de límites normales. El examen de la zona perianal muestra una masa exofítica friable de 3 cm. El resto del examen no muestra anomalías. ¿Cuál de las siguientes es el siguiente paso más apropiado en el manejo?",
     "correct_answer": "E",
     "difficulty": 3,
-    "hint": "This patient's history and examination findings are consistent with refractory anogenital warts.",
-    "learning_objective": "Recognize refractory anogenital warts in an immunocompromised patient, and choose the most appropriate diagnostic procedure.",
+    "hint": "La historia clínica y los hallazgos de esta paciente son compatibles con verrugas anogenitales refractarias.",
+    "learning_objective": "Reconocer verrugas anogenitales refractarias en un paciente inmunodeprimido y seleccionar el procedimiento diagnóstico más apropiado.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "Administer intralesional interferon",
+        "content": "Administrar interferón intralesional",
         "is_correct": false,
-        "explanation_why": "Intralesional interferon is an immune-mediating therapy that can be used for refractory anogenital warts. It is typically given in conjunction with cytodestructive therapies (e.g., 5-fluorouracil) and/or surgical therapies (e.g., cryoablation). However, a different next step in management is more appropriate prior to the continued treatment of refractory anogenital warts.",
+        "explanation_why": "El interferón intralesional es una terapia inmunomediadora que puede utilizarse para verrugas anogenitales refractarias. Suele administrarse en conjunto con terapias citodestructivas (ej. 5-fluorouracilo) y/o terapias quirúrgicas (ej. crioterapia). Sin embargo, existe un paso previo más apropiado en el manejo antes de continuar con el tratamiento de verrugas anogenitales refractarias.",
         "explanation_but": "",
         "selection_rate": 2
       },
       {
         "letter": "B",
-        "content": "Perform cryoablation",
+        "content": "Realizar crioterapia",
         "is_correct": false,
-        "explanation_why": "Cryoablation is a surgical therapy and one of the first-line treatment options for anogenital warts. However, a different next step in management is more appropriate prior to the continued treatment of refractory anogenital warts.",
+        "explanation_why": "La crioterapia es una terapia quirúrgica y una de las opciones de tratamiento de primera línea para verrugas anogenitales. No obstante, existe un paso previo más apropiado en el manejo antes de continuar con el tratamiento de verrugas anogenitales refractarias.",
         "explanation_but": "",
         "selection_rate": 22
       },
       {
         "letter": "C",
-        "content": "Start chemoradiotherapy",
+        "content": "Iniciar quimiorradioterapia",
         "is_correct": false,
-        "explanation_why": "Chemoradiotherapy (with fluorouracil, mitomycin, and radiation therapy) is the treatment of choice for squamous cell carcinoma of the anal canal. Although malignant degeneration of anogenital warts is more common in immunocompromised patients, and a history of refractory anogenital warts should raise concern for malignancy, the diagnosis should be confirmed prior to initiating treatment.",
+        "explanation_why": "La quimiorradioterapia (con fluorouracilo, mitomicina y radioterapia) es el tratamiento de elección para el carcinoma de células escamosas del canal anal. Aunque la degeneración maligna de verrugas anogenitales es más común en pacientes inmunodeprimidos, y un antecedente de verrugas anogenitales refractarias debe generar preocupación por malignidad, el diagnóstico debe confirmarse antes de iniciar el tratamiento.",
         "explanation_but": "",
         "selection_rate": 6
       },
       {
         "letter": "D",
-        "content": "Apply acetic acid",
+        "content": "Aplicar ácido acético",
         "is_correct": false,
-        "explanation_why": "Anogenital warts turn white upon application of acetic acid. This is, however, a nonspecific finding that is also seen in other conditions such as psoriasis, candidiasis, and lichen planus. Therefore, the application of acetic acid is not recommended in the evaluation of patients with suspected refractory anogenital warts.",
+        "explanation_why": "Las verrugas anogenitales se decoloran (blanquean) al aplicar ácido acético. Sin embargo, este es un hallazgo inespecífico que también se observa en otras condiciones como psoriasis, candidiasis y liquen plano. Por lo tanto, la aplicación de ácido acético no está recomendada en la evaluación de pacientes con verrugas anogenitales refractarias sospechadas.",
         "explanation_but": "",
         "selection_rate": 12
       },
       {
         "letter": "E",
-        "content": "Perform a shave biopsy",
+        "content": "Realizar biopsia por raspado",
         "is_correct": true,
-        "explanation_why": "A shave biopsy can confirm the diagnosis of anogenital warts and evaluate for malignancy, which is associated with high-risk human papillomavirus types. Findings that should raise concern for malignancy and are indications for biopsy include immunosuppression (e.g., HIV infection), insufficient response to treatment, and atypical features (e.g., induration, bleeding, pigmentation, ulceration), all of which are seen here. Evaluation with anoscopy should also be considered to evaluate for involvement within the anal canal.\n\nRecurrence and refractory disease are common in patients with anogenital warts, especially in individuals with immunosuppression. Treatments for anogenital warts include cytodestructive therapies (e.g., trichloroacetic acid), immune-mediated therapies (e.g., imiquimod), and surgical therapies (e.g., cryoablation, excision).",
+        "explanation_why": "Una biopsia por raspado puede confirmar el diagnóstico de verrugas anogenitales y evaluar la presencia de malignidad, asociada a tipos de virus del papiloma humano de alto riesgo. Hallazgos que deben generar preocupación por malignidad e indicar biopsia incluyen inmunosupresión (ej. infección por VIH), respuesta insuficiente al tratamiento y características atípicas (ej. induración, sangrado, pigmentación, ulceración), todas presentes en este caso. También debe considerarse la evaluación con anoscopia para descartar compromiso del canal anal.\n\nLa recidiva y la enfermedad refractaria son comunes en pacientes con verrugas anogenitales, especialmente en individuos inmunodeprimidos. Los tratamientos para verrugas anogenitales incluyen terapias citodestructivas (ej. ácido tricloroacético), terapias inmunomediadas (ej. imiquimod) y terapias quirúrgicas (ej. crioterapia, excisión).",
         "explanation_but": "",
         "selection_rate": 59
       }
@@ -818,59 +818,59 @@
   },
   {
     "eid": "VDaGW5",
-    "question_text": "A 6-year-old boy is brought to the physician because of a 3-month history of stool incontinence. He was potty-trained at 4 years but now soils in his clothes 1–2 times a month and does not seem to notice when he needs to go to the bathroom. He now sleeps with pull-up diapers at night and he frequently urinates in them. He has large, hard stools and painful bowel movements once a week. They moved to a new town 5 months ago and the patient has had trouble adjusting. He also started school a few months ago, which according to the mother “only made things worse.” He has bronchial asthma well controlled with a corticosteroid inhaler, and attention deficit hyperactivity disorder for which he takes methylphenidate. He eats a regular diet but dislikes vegetables apart from green peas and potatoes. He is at the 50^th percentile for weight and 25^th percentile for height. His temperature is 36.7°C (96.1°F), pulse is 92/min, respirations are 16/min, and blood pressure is 98/60 mm Hg. Cardiopulmonary examination shows no abnormalities. The abdomen is mildly distended and there is firmness to palpation in the left lower quadrant; there is no guarding or rebound. Digital rectal examination shows a normal sphincter tone. The remainder of the examination shows no abnormalities. Which of the following is the most appropriate next step in management?",
-    "content_preview": "A 6-year-old boy is brought to the physician because of a 3-month history of stool incontinence. He was potty-trained at 4 years but now soils in his clothes 1–2 times a month and does not seem to notice when he needs to go to the bathroom. He now sleeps with pull-up diapers at night and he frequently urinates in them. He has large, hard stools and painful bowel movements once a week. They moved to a new town 5 months ago and the patient has had trouble adjusting. He also started school a few months ago, which according to the mother “only made things worse.” He has bronchial asthma well controlled with a corticosteroid inhaler, and attention deficit hyperactivity disorder for which he takes methylphenidate. He eats a regular diet but dislikes vegetables apart from green peas and potatoes. He is at the 50th percentile for weight and 25th percentile for height. His temperature is 36.7°C (96.1°F), pulse is 92/min, respirations are 16/min, and blood pressure is 98/60 mm Hg. Cardiopulmonary examination shows no abnormalities. The abdomen is mildly distended and there is firmness to palpation in the left lower quadrant; there is no guarding or rebound. Digital rectal examination shows a normal sphincter tone. The remainder of the examination shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "question_text": "Un niño de 6 años es llevado al médico por un antecedente de 3 meses de incontinencia fecal. Fue entrenado para usar el baño a los 4 años, pero ahora ensucia su ropa 1–2 veces al mes y no parece percibir cuando necesita ir al baño. Actualmente duerme con pañales desechables y con frecuencia orina en ellos. Presenta heces grandes y duras con deposiciones dolorosas una vez a la semana. Hace 5 meses se mudaron a un nuevo pueblo y el paciente ha tenido dificultades para adaptarse. Además, comenzó la escuela hace unos meses, lo que, según la madre, «solo empeoró las cosas». Tiene asma bronquial bien controlada con un inhalador de corticosteroide y trastorno por déficit de atención e hiperactividad, por lo que toma methylphenidate. Su dieta es regular, pero rechaza las verduras, excepto guisantes verdes y papas. Se encuentra en el percentil 50 para peso y percentil 25 para talla. Su temperatura es de 36.7°C (96.1°F), pulso de 92/min, respiraciones de 16/min y presión arterial de 98/60 mm Hg. El examen cardiopulmonar no muestra anomalías. El abdomen está ligeramente distendido y presenta firmura a la palpación en el cuadrante inferior izquierdo; no hay defensa ni rebote. El examen rectal digital muestra un tono esfinteriano normal. El resto del examen no presenta alteraciones. ¿Cuál de las siguientes es la siguiente medida más apropiada en el manejo?",
+    "content_preview": "Un niño de 6 años es llevado al médico por un antecedente de 3 meses de incontinencia fecal. Fue entrenado para usar el baño a los 4 años, pero ahora ensucia su ropa 1–2 veces al mes y no parece percibir cuando necesita ir al baño. Actualmente duerme con pañales desechables y con frecuencia orina en ellos. Presenta heces grandes y duras con deposiciones dolorosas una vez a la semana. Hace 5 meses se mudaron a un nuevo pueblo y el paciente ha tenido dificultades para adaptarse. Además, comenzó la escuela hace unos meses, lo que, según la madre, «solo empeoró las cosas». Tiene asma bronquial bien controlada con un inhalador de corticosteroide y trastorno por déficit de atención e hiperactividad, por lo que toma methylphenidate. Su dieta es regular, pero rechaza las verduras, excepto guisantes verdes y papas. Se encuentra en el percentil 50 para peso y percentil 25 para talla. Su temperatura es de 36.7°C (96.1°F), pulso de 92/min, respiraciones de 16/min y presión arterial de 98/60 mm Hg. El examen cardiopulmonar no muestra anomalías. El abdomen está ligeramente distendido y presenta firmura a la palpación en el cuadrante inferior izquierdo; no hay defensa ni rebote. El examen rectal digital muestra un tono esfinteriano normal. El resto del examen no presenta alteraciones. ¿Cuál de las siguientes es la siguiente medida más apropiada en el manejo?",
     "correct_answer": "C",
     "difficulty": 4,
-    "hint": "According to the DSM-5 criteria, encopresis is defined as the involuntary elimination of feces in children ≥ 4 years in inappropriate settings for their developmental age (e.g., in their clothes, on the floor), occurring more than once a month for ≥ 3 months. Encopresis is classified as either retentive or nonretentive. This patient’s history (large, hard stools with painful bowel movements, nocturia) and physical examination findings (mild abdominal distension, firmness in the left lower quadrant) indicate that he has retentive encopresis.",
-    "learning_objective": "Recognize retentive encopresis, and choose the initial treatment for this condition.",
+    "hint": "Según los criterios del DSM-5, la encopresis se define como la eliminación involuntaria de heces en niños ≥ 4 años en contextos inapropiados para su edad de desarrollo (ej.: en su ropa, en el piso), ocurriendo más de una vez al mes durante ≥ 3 meses. La encopresis se clasifica como retentiva o no retentiva. La historia de este paciente (heces grandes y duras con deposiciones dolorosas, nocturia) y los hallazgos del examen físico (distensión abdominal leve, firmura en el cuadrante inferior izquierdo) indican que presenta encopresis retentiva.",
+    "learning_objective": "Reconocer la encopresis retentiva y seleccionar el tratamiento inicial para esta condición.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "X-ray of the abdomen",
+        "content": "Radiografía de abdomen",
         "is_correct": false,
-        "explanation_why": "An x-ray of the abdomen can be used to evaluate for potential causes of encopresis (e.g., fecal mass in the rectosigmoid colon) in patients who have no history of constipation or in whom an abdominal and/or rectal digital examination is not possible (e.g., due to obesity, refusal). This patient's history and physical examination findings are consistent with constipation, for which an abdominal x-ray is not required. In patients with constipation, the digital rectal examination may show a distended rectum filled with stool. However, a normal digital rectal exam does not exclude the diagnosis.",
+        "explanation_why": "Una radiografía de abdomen puede utilizarse para evaluar causas potenciales de encopresis (ej.: masa fecal en el colon rectosigmoideo) en pacientes sin antecedente de estreñimiento o en quienes el examen abdominal y/o rectal digital no es posible (ej.: por obesidad, rechazo). Los antecedentes y hallazgos físicos de este paciente son consistentes con estreñimiento, por lo que no se requiere radiografía abdominal. En pacientes con estreñimiento, el examen rectal digital puede mostrar un recto distendido lleno de heces. Sin embargo, un examen rectal digital normal no descarta el diagnóstico.",
         "explanation_but": "",
         "selection_rate": 10
       },
       {
         "letter": "B",
-        "content": "High-fiber diet",
+        "content": "Dieta rica en fibra",
         "is_correct": false,
-        "explanation_why": "A high-fiber diet may be considered for the management and prevention of constipation, which this patient has. Although patients with constipation benefit from long-term dietary interventions, another more urgent management step is required at this time.",
+        "explanation_why": "Una dieta rica en fibra puede considerarse para el manejo y prevención del estreñimiento, que presenta este paciente. Aunque los pacientes con estreñimiento se benefician de intervenciones dietéticas a largo plazo, en este momento se requiere una medida de manejo más urgente.",
         "explanation_but": "",
         "selection_rate": 24
       },
       {
         "letter": "C",
-        "content": "Disimpaction and laxative therapy",
+        "content": "Desimpactación y terapia con laxantes",
         "is_correct": true,
-        "explanation_why": "This patient's clinical and physical findings are consistent with retentive encopresis, the most common type of encopresis. Symptoms typically develop as a result of underlying constipation and stool impaction, with consequent overflow past the impaction and soiling of underwear. Retentive encopresis develops when the urge to defecate is suppressed; triggering situations include starting school (e.g., due to limited time, lack of privacy, unhygienic toilets), and avoidance of painful defecation (e.g., constipation, anal fissures). In younger children, constipation can develop during potty training or the transition to solid food. Treatment consists of fecal disimpaction with enemas or oral agents (polyethylene glycol), followed by maintenance laxative therapy for 6–24 months. An ongoing healthy high-fiber diet along with age-appropriate physical activity is also recommended. For children with encopresis, additional behavioral interventions (e.g., regular toilet regimen, positive reinforcement), cognitive behavioral therapy, and biofeedback training (to improve control of perianal musculature) should be considered. \n\nEncopresis itself can cause significant psychological distress in children. Parents should therefore be advised to support their children and provide positive feedback and reinforcement throughout the entire duration of treatment.",
+        "explanation_why": "Los antecedentes clínicos y los hallazgos físicos de este paciente son consistentes con encopresis retentiva, el tipo más común de encopresis. Los síntomas suelen desarrollarse como resultado de estreñimiento subyacente e impactación fecal, con consecuencia de rebosamiento más allá de la impactación y ensuciamiento de la ropa. La encopresis retentiva se desarrolla cuando el impulso de defecar es reprimido; situaciones desencadenantes incluyen el inicio de la escuela (ej.: por falta de tiempo, falta de privacidad, baños antihigiénicos) y la evitación de la defecación dolorosa (ej.: estreñimiento, fisura anal). En niños más pequeños, el estreñimiento puede desarrollarse durante el entrenamiento para usar el baño o la transición a alimentos sólidos. El tratamiento consiste en desimpactación fecal con enemas o agentes orales (polietilenglicol), seguido de terapia de mantenimiento con laxantes durante 6–24 meses. También se recomienda una dieta saludable rica en fibra junto con actividad física adecuada para su edad. En niños con encopresis, deben considerarse intervenciones conductuales adicionales (ej.: régimen de baño regular, refuerzo positivo), terapia cognitivo-conductual y entrenamiento con biofeedback (para mejorar el control de la musculatura perianal).\n\nLa encopresis en sí puede causar un significativo malestar psicológico en los niños. Por lo tanto, se debe asesorar a los padres para que apoyen a sus hijos y brinden retroalimentación positiva y refuerzo durante toda la duración del tratamiento.",
         "explanation_but": "",
         "selection_rate": 42
       },
       {
         "letter": "D",
-        "content": "Biofeedback training",
+        "content": "Entrenamiento con biofeedback",
         "is_correct": false,
-        "explanation_why": "Biofeedback is an adjuvant technique in the management of retentive encopresis that helps patients to improve control of their anal sphincter and perianal muscles. Before considering biofeedback training, however, another step is more appropriate.",
+        "explanation_why": "El biofeedback es una técnica adyuvante en el manejo de la encopresis retentiva que ayuda a los pacientes a mejorar el control del esfínter anal y la musculatura perianal. Sin embargo, antes de considerar el entrenamiento con biofeedback, otra medida es más apropiada.",
         "explanation_but": "",
         "selection_rate": 13
       },
       {
         "letter": "E",
-        "content": "Reassurance and regular follow-up",
+        "content": "Reaseguramiento y seguimiento regular",
         "is_correct": false,
-        "explanation_why": "Reassurance and follow-up may be appropriate in children who have just started toilet training and still have incomplete bowel control (typically in those < 4 years of age). This 6-year-old patient, however, was toilet-trained 2 years ago and has had good bowel control until 3 months ago, which suggests a nonphysiologic cause of his symptoms.",
+        "explanation_why": "El reaseguramiento y el seguimiento pueden ser apropiados en niños que recién comenzaron el entrenamiento para usar el baño y aún tienen control intestinal incompleto (generalmente en aquellos < 4 años). Este paciente de 6 años, sin embargo, había completado el entrenamiento a los 2 años y mantuvo buen control intestinal hasta hace 3 meses, lo que sugiere una causa no fisiológica de sus síntomas.",
         "explanation_but": "",
         "selection_rate": 8
       },
       {
         "letter": "F",
-        "content": "MRI of the lumbosacral spine",
+        "content": "RM del raquis lumbosacro",
         "is_correct": false,
-        "explanation_why": "An MRI of the lumbosacral spine can be performed in a patient with lumbar spinal cord lesions (e.g., spina bifida occulta, meningomyelocele), which can manifest with fecal and urinary incontinence. However, this patient has no other signs of a spinal cord lesion (e.g., abnormal sphincter tone, muscle weakness). His presentation is more consistent with constipation, which is the most likely cause of his fecal incontinence. Because of the close proximity of the rectum, anus, and urinary tract, urinary incontinence often occurs simultaneously with constipation (e.g., due to compression of the bladder, changes in neural stimulation to the bladder and pelvic floor).",
+        "explanation_why": "Una RM del raquis lumbosacro puede realizarse en pacientes con lesiones de la médula espinal lumbar (ej.: spina bifida occulta, meningomielocele), que pueden manifestarse con incontinencia fecal y urinaria. Sin embargo, este paciente no presenta otros signos de lesión medular (ej.: tono esfinteriano anormal, debilidad muscular). Su presentación es más consistente con estreñimiento, que es la causa más probable de su incontinencia fecal. Debido a la proximidad del recto, ano y tracto urinario, la incontinencia urinaria suele ocurrir simultáneamente con el estreñimiento (ej.: por compresión de la vejiga, cambios en la estimulación neural de la vejiga y suelo pélvico).",
         "explanation_but": "",
         "selection_rate": 2
       }
@@ -879,43 +879,43 @@
   },
   {
     "eid": "QDauV5",
-    "question_text": "A 41-year-old man comes to the physician because of a 3-day history of dull pain in the right buttock that worsens with defecation. He says that he cannot work at the office anymore because “sitting down hurts.” During this time, he has not had any changes in stool frequency or appearance. He has hypothyroidism treated with levothyroxine. Temperature is 36.8°C (98.2°F), pulse is 70/min, respirations are 14/min, and blood pressure is 120/80 mm Hg. Physical examination shows a 3-cm erythematous, tender, fluctuant mass in the right perianal region with no exudate. Digital rectal examination elicits pain. Which of the following is the most appropriate initial step in management?",
-    "content_preview": "A 41-year-old man comes to the physician because of a 3-day history of dull pain in the right buttock that worsens with defecation. He says that he cannot work at the office anymore because “sitting down hurts.” During this time, he has not had any changes in stool frequency or appearance. He has hypothyroidism treated with levothyroxine. Temperature is 36.8°C (98.2°F), pulse is 70/min, respirations are 14/min, and blood pressure is 120/80 mm Hg. Physical examination shows a 3-cm erythematous, tender, fluctuant mass in the right perianal region with no exudate. Digital rectal examination elicits pain. Which of the following is the most appropriate initial step in management?",
+    "question_text": "Un hombre de 41 años acude al médico por un dolor sordo de 3 días en la región glútea derecha que empeora con la defecación. Afirma que ya no puede trabajar en la oficina porque «sentarse duele». Durante este tiempo, no ha presentado cambios en la frecuencia o aspecto de sus deposiciones. Tiene antecedentes de hipotiroidismo tratado con levotiroxina. La temperatura es de 36.8°C (98.2°F), el pulso es de 70/min, las respiraciones son de 14/min y la presión arterial es de 120/80 mm Hg. El examen físico muestra una masa eritematosa de 3 cm, dolorosa a la palpación, fluctuante en la región perianal derecha, sin secreción. El tacto rectal digital provoca dolor. ¿Cuál de las siguientes es el paso inicial más apropiado en el manejo?",
+    "content_preview": "Un hombre de 41 años acude al médico por un dolor sordo de 3 días en la región glútea derecha que empeora con la defecación. Afirma que ya no puede trabajar en la oficina porque «sentarse duele». Durante este tiempo, no ha presentado cambios en la frecuencia o aspecto de sus deposiciones. Tiene hipotiroidismo tratado con levotiroxina. La temperatura es de 36.8°C (98.2°F), el pulso es de 70/min, las respiraciones son de 14/min y la presión arterial es de 120/80 mm Hg. El examen físico muestra una masa eritematosa de 3 cm, dolorosa a la palpación, fluctuante en la región perianal derecha, sin secreción. El tacto rectal digital provoca dolor. ¿Cuál de las siguientes es el paso inicial más apropiado en el manejo?",
     "correct_answer": "D",
     "difficulty": 3,
-    "hint": "Buttock pain exacerbated upon defecation along with an erythematous, tender, fluctuant mass in the perianal region is consistent with a perianal abscess.",
-    "learning_objective": "Recognize a perianal abscess, and choose the most appropriate initial step in management.",
+    "hint": "Dolor en el glúteo exacerbado con la defecación junto con una masa eritematosa, dolorosa y fluctuante en la región perianal es consistente con un absceso perianal.",
+    "learning_objective": "Reconocer un absceso perianal y elegir el paso inicial más apropiado en el manejo.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "Antibiotic therapy",
+        "content": "Terapia con antibióticos",
         "is_correct": false,
-        "explanation_why": "Antibiotic therapy may be considered in patients with a perianal abscess after they have received the first-line treatment. This individual has not received any treatment yet, so antibiotic therapy would not be appropriate at this time.",
+        "explanation_why": "La terapia con antibióticos puede considerarse en pacientes con absceso perianal después de recibir el tratamiento de primera línea. Este paciente aún no ha recibido ningún tratamiento, por lo que los antibióticos no serían apropiados en este momento.",
         "explanation_but": "",
         "selection_rate": 2
       },
       {
         "letter": "B",
-        "content": "Sitz baths",
+        "content": "Baños de asiento (sitz baths)",
         "is_correct": false,
-        "explanation_why": "Sitz baths are indicated for the symptomatic treatment of hemorrhoids and anal fissures, both of which can manifest with buttock pain exacerbated upon defecation and local tenderness on digital rectal examination. However, in patients with hemorrhoids, examination typically shows a firm, rather than fluctuant, perianal mass; in patients with anal fissures, a perianal laceration is typically seen. Moreover, both hemorrhoids and anal fissures typically manifest with rectal bleeding and perianal pruritus, none of which are seen here.",
+        "explanation_why": "Los baños de asiento están indicados para el tratamiento sintomático de hemorroides y fisuras anales, que pueden manifestarse con dolor en el glúteo exacerbado durante la defecación y dolor local a la palpación en el tacto rectal digital. Sin embargo, en pacientes con hemorroides, el examen suele mostrar una masa perianal firme en lugar de fluctuante; en pacientes con fisuras anales, generalmente se observa una laceración perianal. Además, tanto las hemorroides como las fisuras anales suelen manifestarse con sangrado rectal y prurito perianal, ninguno de los cuales se observa en este caso.",
         "explanation_but": "",
         "selection_rate": 28
       },
       {
         "letter": "C",
-        "content": "Rubber band ligation",
+        "content": "Ligadura con banda elástica",
         "is_correct": false,
-        "explanation_why": "Rubber band ligation is indicated for the treatment of symptomatic internal hemorrhoids, which can manifest with buttock pain exacerbated upon defecation and a tender perianal mass. Furthermore, internal hemorrhoids due to chronic constipation are common in patients with hypothyroidism. However, examination typically shows a firm, rather than fluctuant, perianal mass, and hemorrhoids also usually manifest with rectal bleeding and perianal pruritus.",
+        "explanation_why": "La ligadura con banda elástica está indicada para el tratamiento de hemorroides internas sintomáticas, que pueden manifestarse con dolor en el glúteo exacerbado durante la defecación y una masa perianal dolorosa. Además, las hemorroides internas por estreñimiento crónico son comunes en pacientes con hipotiroidismo. Sin embargo, el examen suele mostrar una masa perianal firme en lugar de fluctuante, y las hemorroides también suelen manifestarse con sangrado rectal y prurito perianal.",
         "explanation_but": "",
         "selection_rate": 7
       },
       {
         "letter": "D",
-        "content": "Incision and drainage",
+        "content": "Incisión y drenaje",
         "is_correct": true,
-        "explanation_why": "Incision and drainage is the first-line treatment of perianal abscesses. Most perianal abscesses result from obstruction of anal crypt glands (e.g., due to bacteria, fecal debris, or foreign matter) with subsequent infection and abscess formation. Prompt management is essential for the prevention of possible complications such as secondary fistula formation, tissue necrosis, and anal sphincter involvement with consequent fecal incontinence. While imaging (e.g., anal ultrasonography, CT, MRI) can confirm the diagnosis and show the extent of tissue involvement, treatment is generally initiated based on high clinical suspicion. Postoperative antibiotics are not routinely used but can be considered in certain patients (e.g., immunocompromised individuals).\n\nOther causes of perianal abscesses include inflammatory bowel disease (e.g., Crohn disease), complicated diverticulitis, and malignancy (e.g., colorectal cancer).",
+        "explanation_why": "La incisión y drenaje es el tratamiento de primera línea para los abscesos perianales. La mayoría de los abscesos perianales resultan de la obstrucción de las glándulas criptales anales (por ejemplo, por bacterias, detritos fecales o cuerpos extraños), seguida de infección y formación de absceso. Un manejo oportuno es esencial para prevenir complicaciones como la formación secundaria de fístulas, necrosis tisular e involucro del esfínter anal con incontinencia fecal consecutiva. Aunque la imagen (por ejemplo, ecografía anal, TC, RM) puede confirmar el diagnóstico y mostrar la extensión del compromiso tisular, el tratamiento generalmente se inicia basado en una alta sospecha clínica. Los antibióticos posoperatorios no se usan de forma rutinaria, pero pueden considerarse en ciertos pacientes (por ejemplo, individuos inmunocomprometidos).\n\nOtras causas de abscesos perianales incluyen enfermedad inflamatoria intestinal (por ejemplo, enfermedad de Crohn), diverticulitis complicada y malignidad (por ejemplo, cáncer colorrectal).",
         "explanation_but": "",
         "selection_rate": 57,
         "images": [
@@ -930,9 +930,9 @@
       },
       {
         "letter": "E",
-        "content": "Surgical resection",
+        "content": "Resección quirúrgica",
         "is_correct": false,
-        "explanation_why": "Surgical resection is the treatment of choice for symptomatic pilonidal cysts, which can manifest with buttock pain upon sitting and may develop in the perianal region. However, most pilonidal cysts develop at the top of the intergluteal fold, in the sacrococcygeal region. Furthermore, pilonidal cysts most commonly have a sinus tract opening with draining purulent discharge.",
+        "explanation_why": "La resección quirúrgica es el tratamiento de elección para los quistes pilonidales sintomáticos, que pueden manifestarse con dolor en el glúteo al sentarse y que pueden desarrollarse en la región perianal. Sin embargo, la mayoría de los quistes pilonidales se desarrollan en la parte superior del pliegue interglúteo, en la región sacrococcígea. Además, los quistes pilonidales suelen presentar una tracto sinusal con secreción purulenta en alta.",
         "explanation_but": "",
         "selection_rate": 6
       }
@@ -941,19 +941,19 @@
   },
   {
     "eid": "EDa8T5",
-    "question_text": "A 66-year-old woman, gravida 3, para 3, comes to the physician because of a 1-month history of abdominal discomfort, difficulty completely emptying her bowel, and anal itching. She does not have pain with defecation and has not noticed any rectal bleeding. Her last bowel movement was yesterday. She has not had any recent changes in her diet. She has type 2 diabetes mellitus. All of her children were delivered vaginally without complications. She recently became sexually active again with a new male partner. Medications are metformin and a fish oil supplement. Vital signs are within normal limits. The abdomen is soft and nontender. Bowel sounds are normal. Upon straining, there is a soft, red mass measuring 6 cm in length protruding from the anus; concentric folds can be seen in the protruding tissue. Palpation of the mass does not cause pain. Digital rectal examination shows a reduced sphincter tone. Which of the following is the most appropriate treatment for this patient's condition?",
-    "content_preview": "A 66-year-old woman, gravida 3, para 3, comes to the physician because of a 1-month history of abdominal discomfort, difficulty completely emptying her bowel, and anal itching. She does not have pain with defecation and has not noticed any rectal bleeding. Her last bowel movement was yesterday. She has not had any recent changes in her diet. She has type 2 diabetes mellitus. All of her children were delivered vaginally without complications. She recently became sexually active again with a new male partner. Medications are metformin and a fish oil supplement. Vital signs are within normal limits. The abdomen is soft and nontender. Bowel sounds are normal. Upon straining, there is a soft, red mass measuring 6 cm in length protruding from the anus; concentric folds can be seen in the protruding tissue. Palpation of the mass does not cause pain. Digital rectal examination shows a reduced sphincter tone. Which of the following is the most appropriate treatment for this patient's condition?",
+    "question_text": "Una mujer de 66 años, gravida 3, para 3, acude al médico por un antecedente de 1 mes de molestias abdominales, dificultad para evacuar completamente el intestino y prurito anal. No refiere dolor durante la defecación ni ha observado sangrado rectal. Su última evacuación intestinal fue ayer. No ha tenido cambios recientes en su dieta. Padece diabetes mellitus tipo 2. Todos sus hijos nacieron por vía vaginal sin complicaciones. Recientemente reanudó su actividad sexual con una nueva pareja masculina. Sus medicamentos son metformina y un suplemento de aceite de pescado. Los signos vitales están dentro de límites normales. El abdomen está blando y sin dolor a la palpación. Los ruidos intestinales son normales. Al realizar esfuerzo, se observa una masa blanda, roja, de 6 cm de longitud que protruye del año; se aprecian pliegues concéntricos en el tejido protruido. La palpación de la masa no provoca dolor. El examen rectal digital muestra un tono esfinteriano reducido. ¿Cuál de las siguientes es el tratamiento más apropiado para la condición de esta paciente?",
+    "content_preview": "Una mujer de 66 años, gravida 3, para 3, acude al médico por un antecedente de 1 mes de molestias abdominales, dificultad para evacuar completamente el intestino y prurito anal. No refiere dolor durante la defecación ni ha observado sangrado rectal. Su última evacuación intestinal fue ayer. No ha tenido cambios recientes en su dieta. Padece diabetes mellitus tipo 2. Todos sus hijos nacieron por vía vaginal sin complicaciones. Recientemente reanudó su actividad sexual con una nueva pareja masculina. Sus medicamentos son metformina y un suplemento de aceite de pescado. Los signos vitales están dentro de límites normales. El abdomen está blando y sin dolor a la palpación. Los ruidos intestinales son normales. Al realizar esfuerzo, se observa una masa blanda, roja, de 6 cm de longitud que protruye del año; se aprecian pliegues concéntricos en el tejido protruido. La palpación de la masa no provoca dolor. El examen rectal digital muestra un tono esfinteriano reducido. ¿Cuál de las siguientes es el tratamiento más apropiado para la condición de esta paciente?",
     "correct_answer": "A",
     "difficulty": 3,
-    "hint": "A soft, painless mass with concentric mucosal folds protruding from the anus upon straining is suggestive of full-thickness rectal prolapse.",
-    "learning_objective": "Recognize full-thickness rectal prolapse, and choose the most appropriate treatment.",
+    "hint": "Una masa rectal blanda, indolora, con pliegues mucosos concéntricos que protruye al realizar esfuerzo sugiere prolapso rectal de espesor completo.",
+    "learning_objective": "Reconocer el prolapso rectal de espesor completo y seleccionar el tratamiento más adecuado.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "Rectopexy",
+        "content": "Rectopexia",
         "is_correct": true,
-        "explanation_why": "Surgical repair with rectopexy is the recommended management for full-thickness rectal prolapse, which is more common in adults and is usually associated with weakness of the pelvic floor muscles (e.g., due to multiple pregnancies, perineal surgery, advanced age) and/or increased intraabdominal pressure (e.g., due to excessive straining with constipation, chronic cough). Patients commonly present with a painless rectal mass characterized by concentric mucosal folds, abdominal discomfort, incomplete evacuation, and perianal pruritus. Fecal incontinence can also occur as a result of stretching of the anal sphincter by the prolapsed rectum. The diagnosis is primarily clinical. In older patients, a rectal neoplasm can cause rectal intussusception, which in turn can lead to rectal prolapse. Therefore, preoperative proctoscopy and/or colonoscopy are typically performed in this group of patients.\n\nPartial rectal prolapse, on the other hand, is more common in children and can be managed conservatively.",
+        "explanation_why": "La reparación quirúrgica mediante rectopexia es el manejo recomendado para el prolapso rectal de espesor completo, más frecuente en adultos y asociado generalmente a debilidad de los músculos del suelo pélvico (ej. por múltiples embarazos, cirugías perineales, edad avanzada) y/o aumento de la presión intraabdominal (ej. por esfuerzo crónico por estreñimiento, tos crónica). Los pacientes suelen presentar una masa rectal indolora con pliegues mucosos concéntricos, molestias abdominales, evacuación incompleta y prurito perianal. También puede ocurrir incontinencia fecal como resultado del estiramiento del esfínter anal por el recto prolapsado. El diagnóstico es principalmente clínico. En pacientes de mayor edad, un neoplasma rectal puede causar intususcepción rectal, lo que a su vez puede derivar en prolapso rectal. Por ello, en este grupo de pacientes se realizan habitualmente proctoscopia y/o colonoscopia preoperatorias.\n\nEl prolapso rectal parcial, en cambio, es más común en niños y puede manejarse de forma conservadora.",
         "explanation_but": "",
         "selection_rate": 52,
         "images": [
@@ -968,25 +968,25 @@
       },
       {
         "letter": "B",
-        "content": "Pelvic muscle floor exercises",
+        "content": "Ejercicios del suelo pélvico",
         "is_correct": false,
-        "explanation_why": "Pelvic muscle floor exercises can be part of the management for pelvic organ prolapse, as they improve symptoms and prevent further prolapse. However, there is no evidence that pelvic floor muscle exercises are an effective therapy for rectal prolapse.",
+        "explanation_why": "Los ejercicios del suelo pélvico pueden formar parte del manejo del prolapso de órganos pélvicos, ya que mejoran los síntomas y previenen la progresión del prolapso. Sin embargo, no existe evidencia de que los ejercicios del suelo pélvico sean una terapia efectiva para el prolapso rectal.",
         "explanation_but": "",
         "selection_rate": 30
       },
       {
         "letter": "C",
-        "content": "Chemoradiation",
+        "content": "Quimiorradioterapia",
         "is_correct": false,
-        "explanation_why": "Chemoradiation is typically used to treat anal cancer, which can manifest with anal pruritus and a mass protruding from the anus. However, anal cancer is usually associated with bleeding and pain. A soft, painless mass with concentric folds is not suggestive of cancer.",
+        "explanation_why": "La quimiorradioterapia se utiliza típicamente para tratar el cáncer anal, que puede manifestarse con prurito anal y una masa protruida del año. No obstante, el cáncer anal suele asociarse a sangrado y dolor. Una masa blanda, indolora, con pliegues concéntricos no es sugestiva de neoplasia.",
         "explanation_but": "",
         "selection_rate": 0
       },
       {
         "letter": "D",
-        "content": "Cryotherapy",
+        "content": "Crioterapia",
         "is_correct": false,
-        "explanation_why": "Cryotherapy is a treatment option for condylomata acuminata, which is caused by human papillomavirus (HPV). This patient recently became sexually active with a new partner, which increases her risk of sexually transmitted infections, including HPV. However, the lesions in condylomata acuminata typically have a cauliflower-like appearance and are located in the perianal region; they do not protrude from the anus. Moreover, condyloma acuminata is not associated with abdominal discomfort or difficulties emptying the bowel.",
+        "explanation_why": "La crioterapia es una opción de tratamiento para los condilomas acuminados, causados por el virus del papiloma humano (HPV). Esta paciente recientemente reanudó su actividad sexual con una nueva pareja, lo que aumenta su riesgo de infecciones de transmisión sexual, incluyendo el HPV. Sin embargo, las lesiones en condilomas acuminados suelen tener aspecto de coliflor y se localizan en la región perianal; no protruyen del año. Además, los condilomas acuminados no se asocian a molestias abdominales ni dificultad para evacuar.",
         "explanation_but": "",
         "selection_rate": 1,
         "images": [
@@ -1001,9 +1001,9 @@
       },
       {
         "letter": "E",
-        "content": "Rubber band ligation",
+        "content": "Ligadura con banda elástica",
         "is_correct": false,
-        "explanation_why": "Rubber band ligation is typically used to treat grade III internal hemorrhoids, which manifest as prolapsed, perianal masses. Pruritus is also common. However, internal hemorrhoids manifest as purplish-blue masses rather than a large soft mass with concentric rings. Moreover, protrusion upon straining is not characteristic of internal hemorrhoids.",
+        "explanation_why": "La ligadura con banda elástica se utiliza típicamente para tratar hemorroides internas grado III, que se manifiestan como masas perianales prolapsadas. El prurito también es común. Sin embargo, las hemorroides internas se presentan como masas de color violáceo-azulado en lugar de una masa blanda grande con anillos concéntricos. Además, la protrusión al esfuerzo no es característica de las hemorroides internas.",
         "explanation_but": "",
         "selection_rate": 16
       }

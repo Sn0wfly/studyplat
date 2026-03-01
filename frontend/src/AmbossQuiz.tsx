@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { ChevronRight, ChevronLeft, ChevronDown, ChevronUp, Lightbulb, FlaskConical, Target, RefreshCcw, LayoutDashboard, RotateCcw, X } from 'lucide-react';
+import { ChevronRight, ChevronLeft, ChevronDown, ChevronUp, Lightbulb, FlaskConical, Target, RefreshCcw, LayoutDashboard, RotateCcw, X, Search } from 'lucide-react';
 import clsx from 'clsx';
 import type { AmbossQuestion, Subject } from './types';
 import { ImageThumbnail } from './ImageModal';
@@ -9,7 +9,6 @@ import SubjectNavbar from './SubjectNavbar';
 interface AmbossQuizProps {
   subject: Subject;
   username: string;
-  userPassword?: string | null;
   onBack: () => void;
 }
 
@@ -35,6 +34,312 @@ function SelectionRateBar({ rate }: { rate: number }) {
       </div>
       <span className="text-[10px] text-primary/30 font-mono w-8 text-right">{rate}%</span>
     </div>
+  );
+}
+
+interface LabRow { name: string; ref: string; si: string; isCategory?: boolean; isContinuation?: boolean }
+interface LabSection { name: string; rows: LabRow[] }
+
+const labTranslations: Record<string, string> = {
+  // Categories
+  'Cholesterol': 'Colesterol', 'Electrolytes, serum': 'Electrolitos séricos',
+  'Proteins': 'Proteínas', 'Immunoglobulin': 'Inmunoglobulina',
+  'Proteins, total': 'Proteínas totales',
+  // Serum
+  'Alanine aminotransferase (ALT)': 'Alanina aminotransferasa (ALT)',
+  'Aspartate aminotransferase (AST)': 'Aspartato aminotransferasa (AST)',
+  'Alkaline phosphatase': 'Fosfatasa alcalina',
+  'Amylase': 'Amilasa', 'Calcium': 'Calcio',
+  'Bilirubin, Total // Direct': 'Bilirrubina, Total // Directa',
+  'Triglycerides': 'Triglicéridos', 'Cortisol': 'Cortisol',
+  'Creatine kinase': 'Creatina quinasa', 'Creatinine': 'Creatinina',
+  'Urea nitrogen': 'Nitrógeno ureico (BUN)', 'Creatinine clearance': 'Depuración de creatinina',
+  'Ferritin': 'Ferritina', 'Iron': 'Hierro',
+  'Total iron-binding capacity': 'Capacidad total de fijación de hierro',
+  'Transferrin saturation': 'Saturación de transferrina',
+  'Folate (folic acid)': 'Folato (ácido fólico)',
+  'Glucose, fasting': 'Glucosa en ayunas', 'Glucose': 'Glucosa',
+  'Growth hormone (fasting)': 'Hormona de crecimiento (ayunas)',
+  'Lactate dehydrogenase (LDH)': 'Lactato deshidrogenasa (LDH)',
+  'Lactic acid (venous)': 'Ácido láctico (venoso)',
+  'Lipase': 'Lipasa', 'Magnesium': 'Magnesio',
+  'Osmolality': 'Osmolalidad', 'Phosphorus (inorganic)': 'Fósforo (inorgánico)',
+  'Potassium': 'Potasio', 'Uric acid': 'Ácido úrico',
+  'Copper': 'Cobre', 'Zinc': 'Zinc',
+  'Total': 'Total', 'HDL': 'HDL', 'LDL': 'LDL',
+  'Albumin': 'Albúmina', 'Globulin': 'Globulina',
+  'Fibrinogen': 'Fibrinógeno',
+  'Thyroid-stimulating hormone (TSH)': 'Hormona estimulante de tiroides (TSH)',
+  'Thyroxine (T4), free': 'Tiroxina (T4) libre',
+  'Triiodothyronine (T3)': 'Triyodotironina (T3)',
+  'Parathyroid hormone (PTH)': 'Hormona paratiroidea (PTH)',
+  'Vitamin A (retinol)': 'Vitamina A (retinol)',
+  'Vitamin B12 (cyanocobalamin)': 'Vitamina B12 (cianocobalamina)',
+  'Vitamin D': 'Vitamina D',
+  // Sodium, Chloride, Bicarbonate
+  'Sodium (Na^+)': 'Sodio (Na⁺)', 'Chloride (Cl^-)': 'Cloruro (Cl⁻)',
+  'Bicarbonate (HCO_3^-)': 'Bicarbonato (HCO₃⁻)',
+  // Blood / Hematologic
+  'Erythrocyte count': 'Recuento de eritrocitos',
+  'Erythrocyte sedimentation rate (Westergren)': 'Velocidad de sedimentación globular (VSG)',
+  'Hematocrit': 'Hematocrito', 'Hemoglobin': 'Hemoglobina',
+  'Hemoglobin A1c': 'Hemoglobina A1c',
+  'Leukocyte count': 'Recuento de leucocitos',
+  'Mean corpuscular hemoglobin (MCH)': 'Hemoglobina corpuscular media (HCM)',
+  'Mean corpuscular hemoglobin concentration (MCHC)': 'Concentración de HCM (CHCM)',
+  'Mean corpuscular volume (MCV)': 'Volumen corpuscular medio (VCM)',
+  'Platelet count': 'Recuento de plaquetas',
+  'Reticulocyte count': 'Recuento de reticulocitos',
+  'Neutrophils': 'Neutrófilos', 'Bands': 'Bandas/Cayados',
+  'Eosinophils': 'Eosinófilos', 'Basophils': 'Basófilos',
+  'Lymphocytes': 'Linfocitos', 'Monocytes': 'Monocitos',
+  'CD4 cell count': 'Recuento de CD4',
+  'Partial thromboplastin time (PTT), activated': 'Tiempo de tromboplastina parcial activado (TTPa)',
+  'Prothrombin time (PT)': 'Tiempo de protrombina (TP)',
+  'International normalized ratio (INR)': 'Razón normalizada internacional (INR)',
+  'Bleeding time': 'Tiempo de sangría',
+  'Thrombin time': 'Tiempo de trombina',
+  'D-dimer': 'Dímero D',
+  // CSF
+  'Pressure': 'Presión',
+  'Cell count': 'Recuento celular',
+  // Urine
+  'Oxalate': 'Oxalato',
+  '17-Hydroxycorticosteroids': '17-Hidroxicorticosteroides',
+  '17-Ketosteroids, total': '17-Cetosteroides totales',
+  'Body Mass Index (BMI)': 'Índice de Masa Corporal (IMC)',
+  // Gases
+  'pH, arterial': 'pH arterial', 'P_CO2, arterial': 'PaCO₂ arterial',
+  'P_O2, arterial': 'PaO₂ arterial',
+  'Oxygen saturation, arterial': 'Saturación de O₂ arterial',
+  'Base excess': 'Exceso de base',
+  'Anion gap': 'Brecha aniónica',
+  // Continuation prefixes translated
+};
+
+function translateLabText(text: string): string {
+  if (labTranslations[text]) return labTranslations[text];
+  return text
+    .replace(/^Male:/, 'Masc:')
+    .replace(/^Female:/, 'Fem:')
+    .replace(/^Child:/, 'Niño:')
+    .replace(/^Infant:/, 'Lactante:')
+    .replace(/^Newborn:/, 'Neonato:')
+    .replace(/^Adult:/, 'Adulto:')
+    .replace(/\bNormal:/, 'Normal:')
+    .replace(/\bHigh:/, 'Alto:')
+    .replace(/\bBorderline:/, 'Límite:');
+}
+
+// Detect lines that are continuation values (not new analyte names)
+function isContinuationLine(line: string): boolean {
+  return /^(Male:|Female:|Child:|Infant:|Newborn:|Adult:|\d{4}\s*h:|\d+nd |Fraction )/.test(line);
+}
+
+function parseLabValues(raw: string): LabSection[] {
+  const lines = raw.split('\n').map(l => l.trim()).filter(Boolean);
+  const sections: LabSection[] = [];
+  const sectionHeaders = ['Serum', 'Cerebrospinal Fluid', 'Hematologic', 'Urine', 'Body Mass Index (BMI)'];
+  const tabNames: Record<string, string> = {
+    'Serum': 'Suero',
+    'Cerebrospinal Fluid': 'LCR',
+    'Hematologic': 'Sangre',
+    'Urine': 'Orina e IMC',
+    'Body Mass Index (BMI)': 'Orina e IMC',
+  };
+
+  let current: LabSection | null = null;
+  let i = 0;
+  if (lines[0] === 'Lab Values') i = 1;
+
+  while (i < lines.length) {
+    const line = lines[i];
+
+    const matchedHeader = sectionHeaders.find(h => line === h);
+    if (matchedHeader) {
+      const name = tabNames[matchedHeader] || matchedHeader;
+      if (name === 'Orina e IMC' && current?.name === 'Orina e IMC') {
+        current.rows.push({ name: translateLabText('Body Mass Index (BMI)'), ref: '', si: '', isCategory: true });
+        i++;
+        if (lines[i] === 'Reference Range') i++;
+        if (lines[i]?.startsWith('SI Reference')) i++;
+        continue;
+      }
+      if (name === 'Orina e IMC' && current?.name !== 'Orina e IMC') {
+        current = { name, rows: [] };
+        sections.push(current);
+      } else if (name !== 'Orina e IMC') {
+        current = { name, rows: [] };
+        sections.push(current);
+      }
+      i++;
+      if (lines[i] === 'Reference Range') i++;
+      if (lines[i]?.startsWith('SI Reference')) i++;
+      continue;
+    }
+
+    if (!current) { i++; continue; }
+
+    const cur = lines[i];
+    const next1 = lines[i + 1];
+    const next2 = lines[i + 2];
+
+    // If current line is a continuation (Male:/Female:/2000 h: etc), treat as sub-row
+    if (isContinuationLine(cur)) {
+      const hasRef = next1 && /[\d–\-<>]/.test(next1) && !sectionHeaders.includes(next1);
+      if (hasRef) {
+        current.rows.push({ name: '', ref: translateLabText(cur), si: next1, isContinuation: true });
+        i += 2;
+      } else {
+        current.rows.push({ name: '', ref: translateLabText(cur), si: '', isContinuation: true });
+        i++;
+      }
+      continue;
+    }
+
+    const isNextAHeader = next1 && sectionHeaders.includes(next1);
+    const isNextAValue = next1 && (
+      /[\d–\-<>]/.test(next1) || next1.startsWith('Male:') || next1.startsWith('Female:') ||
+      next1.startsWith('Normal:') || next1.startsWith('Adult:') || next1.startsWith('Fraction')
+    );
+
+    if (!isNextAValue || isNextAHeader) {
+      current.rows.push({ name: translateLabText(cur), ref: '', si: '', isCategory: true });
+      i++;
+    } else if (next1 && next2 && !sectionHeaders.includes(next2) && !isContinuationLine(next2) && /[\d–\-<>]/.test(next2)) {
+      current.rows.push({ name: translateLabText(cur), ref: translateLabText(next1), si: next2 });
+      i += 3;
+    } else if (next1 && next2 && !sectionHeaders.includes(next2) && isContinuationLine(next2)) {
+      current.rows.push({ name: translateLabText(cur), ref: translateLabText(next1), si: '' });
+      i += 2;
+    } else if (next1) {
+      current.rows.push({ name: translateLabText(cur), ref: translateLabText(next1), si: '' });
+      i += 2;
+    } else {
+      i++;
+    }
+  }
+
+  return sections;
+}
+
+function LabValuesModal({ labValues, onClose }: { labValues: string; onClose: () => void }) {
+  const sections = parseLabValues(labValues);
+  const [activeTab, setActiveTab] = useState(0);
+  const [search, setSearch] = useState('');
+
+  const currentSection = sections[activeTab];
+  const filteredRows = currentSection?.rows.filter(r => {
+    if (!search) return true;
+    const q = search.toLowerCase();
+    return r.name.toLowerCase().includes(q) || r.ref.toLowerCase().includes(q) || r.si.toLowerCase().includes(q);
+  }) || [];
+
+  return (
+    <motion.div
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      exit={{ opacity: 0 }}
+      transition={{ duration: 0.2 }}
+      className="fixed inset-0 z-[90] flex items-end sm:items-center justify-center bg-black/85 backdrop-blur-md"
+      onClick={onClose}
+    >
+      <motion.div
+        initial={{ y: 40, opacity: 0 }}
+        animate={{ y: 0, opacity: 1 }}
+        exit={{ y: 40, opacity: 0 }}
+        transition={{ duration: 0.25, ease: [0.22, 1, 0.36, 1] }}
+        className="w-full sm:max-w-3xl sm:mx-4 max-h-[85vh] flex flex-col ring-1 ring-blue-500/20 rounded-t-2xl sm:rounded-2xl overflow-hidden bg-[#0d1117] border border-border/40"
+        onClick={e => e.stopPropagation()}
+      >
+        {/* Header with tabs */}
+        <div className="border-b border-border/30 px-4 pt-4 pb-0 shrink-0">
+          <div className="flex items-center justify-between mb-3">
+            <div className="flex items-center gap-2">
+              <FlaskConical size={16} className="text-blue-400" />
+              <span className="text-sm font-mono tracking-wider text-blue-400 uppercase">Valores de Laboratorio</span>
+            </div>
+            <div className="flex items-center gap-2">
+              {/* Search */}
+              <div className="relative">
+                <Search size={13} className="absolute left-2 top-1/2 -translate-y-1/2 text-primary/30" />
+                <input
+                  type="text"
+                  value={search}
+                  onChange={e => setSearch(e.target.value)}
+                  placeholder="Buscar..."
+                  className="pl-7 pr-3 py-1 w-36 sm:w-48 rounded-lg bg-surface/60 border border-border/30 text-xs text-primary/80 placeholder:text-primary/25 font-mono outline-none focus:border-primary/30 transition-colors"
+                />
+              </div>
+              <button onClick={onClose} className="p-1.5 rounded-full hover:bg-white/10 text-primary/50 hover:text-primary transition-colors">
+                <X size={16} />
+              </button>
+            </div>
+          </div>
+          {/* Tabs */}
+          <div className="flex gap-0">
+            {sections.map((sec, idx) => (
+              <button
+                key={sec.name}
+                onClick={() => { setActiveTab(idx); setSearch(''); }}
+                className={clsx(
+                  "px-3 py-2 text-xs font-mono tracking-wider transition-colors border-b-2 -mb-px",
+                  idx === activeTab
+                    ? "border-blue-400 text-blue-400"
+                    : "border-transparent text-primary/40 hover:text-primary/70"
+                )}
+              >
+                {sec.name}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        {/* Table */}
+        <div className="overflow-y-auto flex-1 overscroll-contain">
+          <table className="w-full text-xs sm:text-sm">
+            <thead className="sticky top-0 bg-[#0d1117] z-10">
+              <tr className="border-b border-border/30">
+                <th className="text-left py-2 px-4 text-primary/50 font-mono font-normal tracking-wider">{currentSection?.name || ''}</th>
+                <th className="text-left py-2 px-4 text-primary/50 font-mono font-normal tracking-wider">Rango de Referencia</th>
+                <th className="text-left py-2 px-4 text-primary/50 font-mono font-normal tracking-wider">Referencia SI</th>
+              </tr>
+            </thead>
+            <tbody>
+              {filteredRows.map((row, i) => (
+                row.isCategory ? (
+                  <tr key={i} className="border-b border-border/20">
+                    <td colSpan={3} className="py-2 px-4 text-primary/80 font-semibold bg-surface/30">{row.name}</td>
+                  </tr>
+                ) : row.isContinuation ? (
+                  <tr key={i} className="border-b border-border/10 hover:bg-surface/30 transition-colors">
+                    <td className="py-1.5 px-4 text-primary/70"></td>
+                    <td className="py-1.5 px-4 text-primary/50 font-mono">{row.ref}</td>
+                    <td className="py-1.5 px-4 text-primary/50 font-mono">{row.si}</td>
+                  </tr>
+                ) : (
+                  <tr key={i} className="border-b border-border/10 hover:bg-surface/30 transition-colors">
+                    <td className="py-1.5 px-4 text-primary/70">{row.name}</td>
+                    <td className="py-1.5 px-4 text-primary/50 font-mono">{row.ref}</td>
+                    <td className="py-1.5 px-4 text-primary/50 font-mono">{row.si}</td>
+                  </tr>
+                )
+              ))}
+            </tbody>
+          </table>
+        </div>
+
+        {/* Close footer */}
+        <div className="border-t border-border/30 px-4 py-2 flex justify-end shrink-0">
+          <button
+            onClick={onClose}
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-mono text-primary/50 hover:text-primary hover:bg-white/5 transition-colors"
+          >
+            <X size={13} /> Cerrar
+          </button>
+        </div>
+      </motion.div>
+    </motion.div>
   );
 }
 
@@ -371,34 +676,7 @@ export default function AmbossQuiz({ subject, username, onBack }: AmbossQuizProp
               {/* Labs modal */}
               <AnimatePresence>
                 {showLabs && currentQ.lab_values && (
-                  <motion.div
-                    initial={{ opacity: 0 }}
-                    animate={{ opacity: 1 }}
-                    exit={{ opacity: 0 }}
-                    transition={{ duration: 0.2 }}
-                    className="fixed inset-0 z-[90] flex items-center justify-center bg-black/70 backdrop-blur-sm p-4"
-                    onClick={() => setShowLabs(false)}
-                  >
-                    <motion.div
-                      initial={{ scale: 0.95, opacity: 0 }}
-                      animate={{ scale: 1, opacity: 1 }}
-                      exit={{ scale: 0.95, opacity: 0 }}
-                      transition={{ duration: 0.25, ease: [0.22, 1, 0.36, 1] }}
-                      className="glass-card max-w-2xl w-full max-h-[80vh] overflow-y-auto p-5 ring-1 ring-blue-500/20 relative"
-                      onClick={e => e.stopPropagation()}
-                    >
-                      <div className="flex items-center justify-between mb-4">
-                        <div className="flex items-center gap-2">
-                          <FlaskConical size={16} className="text-blue-400" />
-                          <span className="text-sm font-mono tracking-wider text-blue-400 uppercase">Lab Values</span>
-                        </div>
-                        <button onClick={() => setShowLabs(false)} className="p-1.5 rounded-full hover:bg-white/10 text-primary/50 hover:text-primary transition-colors">
-                          <X size={16} />
-                        </button>
-                      </div>
-                      <pre className="text-[11px] sm:text-xs text-primary/60 font-mono whitespace-pre-wrap leading-relaxed">{currentQ.lab_values}</pre>
-                    </motion.div>
-                  </motion.div>
+                  <LabValuesModal labValues={currentQ.lab_values} onClose={() => setShowLabs(false)} />
                 )}
               </AnimatePresence>
 

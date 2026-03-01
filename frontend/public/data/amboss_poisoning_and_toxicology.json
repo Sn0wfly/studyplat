@@ -1,75 +1,75 @@
 [
   {
     "eid": "2v0Tz3",
-    "question_text": "Two days after admission to the hospital, a 74-year-old man develops confusion and headache. He has also been vomiting over the past hour. His temperature is 36.7°C (98°F), pulse is 98/min, respirations are 22/min, and blood pressure is 140/80 mm Hg. He is lethargic and oriented only to person. Examination shows flushed skin. Fundoscopic examination shows bright red retinal veins. Serum studies show:\n\nNa^+\n\n138 mEq/L\n\nK^+\n\n3.5 mEq/L\n\nCl^- \n\n100 mEq/L\n\nHCO_3^- \n\n17 mEq/L\n\nCreatinine\n1.2 mg/dL\n\nUrea nitrogen\n19 mg/dL\n\nLactate\n\n8 mEq/L (N =0.5–2.2)\n\nGlucose\n75 mg/dL\n\nArterial blood gas analysis on room air shows a pH of 7.13. This patient's current presentation is most likely due to treatment for which of the following conditions?",
-    "content_preview": "Two days after admission to the hospital, a 74-year-old man develops confusion and headache. He has also been vomiting over the past hour. His temperature is 36.7°C (98°F), pulse is 98/min, respirations are 22/min, and blood pressure is 140/80 mm Hg. He is lethargic and oriented only to person. Examination shows flushed skin. Fundoscopic examination shows bright red retinal veins. Serum studies show: Na+ 138 mEq/L K+ 3.5 mEq/L Cl- 100 mEq/L HCO3- 17 mEq/L Creatinine 1.2 mg/dL Urea nitrogen 19 mg/dL Lactate 8 mEq/L (N =0.5–2.2) Glucose 75 mg/dL Arterial blood gas analysis on room air shows a pH of 7.13. This patient's current presentation is most likely due to treatment for which of the following conditions?",
+    "question_text": "Dos días después de su admisión al hospital, un hombre de 74 años desarrolla confusión y cefalea. También ha estado vomitando en la última hora. Su temperatura es de 36.7°C (98°F), pulso de 98/min, respiraciones de 22/min, y presión arterial de 140/80 mm Hg. Está letárgico y solo orientado a la persona. El examen físico muestra piel eritematosa. El examen fundoscópico muestra venas retinianas de color rojo brillante. Los estudios de laboratorio muestran:\n\nNa+\n138 mEq/L\n\nK+\n3.5 mEq/L\n\nCl-\n100 mEq/L\n\nHCO₃⁻\n17 mEq/L\n\nCreatinina\n1.2 mg/dL\n\nUrea nitrogenada\n19 mg/dL\n\nLactato\n8 mEq/L (N = 0.5–2.2)\n\nGlucosa\n75 mg/dL\n\nEl análisis de gases en sangre arterial en aire ambiente muestra un pH de 7.13. La presentación actual de este paciente es más probablemente debido al tratamiento para cuál de las siguientes condiciones?",
+    "content_preview": "Dos días después de su admisión al hospital, un hombre de 74 años desarrolla confusión y cefalea. También ha estado vomitando en la última hora. Su temperatura es de 36.7°C (98°F), pulso de 98/min, respiraciones de 22/min, y presión arterial de 140/80 mm Hg. Está letárgico y solo orientado a la persona. El examen físico muestra piel eritematosa. El examen fundoscópico muestra venas retinianas de color rojo brillante. Los estudios de laboratorio muestran: Na+ 138 mEq/L K+ 3.5 mEq/L Cl- 100 mEq/L HCO₃⁻ 17 mEq/L Creatinina 1.2 mg/dL Urea nitrogenada 19 mg/dL Lactato 8 mEq/L (N = 0.5–2.2) Glucosa 75 mg/dL. El análisis de gases en sangre arterial en aire ambiente muestra un pH de 7.13. ¿Cuál de las siguientes condiciones es la causa más probable de la presentación actual de este paciente?",
     "correct_answer": "B",
     "difficulty": 4,
-    "hint": "This patient's confusion, headache, flushed skin, bright red retinal veins, high anion gap metabolic acidosis (AG = 138 - (100 + 17) = 21), and elevated lactate levels should raise concern for cyanide poisoning.",
-    "learning_objective": "Recognize cyanide toxicity secondary to sodium nitroprusside treatment for hypertensive crisis.",
+    "hint": "La confusión, cefalea, piel eritematosa, venas retinianas de color rojo brillante, acidosis metabólica con brecha aniónica alta (AG = 138 - (100 + 17) = 21) y niveles elevados de lactato en este paciente deben generar preocupación por intoxicación por cianuro.",
+    "learning_objective": "Reconocer la toxicidad por cianuro secundaria al tratamiento con nitroprusiato de sodio en crisis hipertensiva.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "Alzheimer disease",
+        "content": "Enfermedad de Alzheimer",
         "is_correct": false,
-        "explanation_why": "Toxicity with donepezil, an acetylcholinesterase inhibitor used in the treatment of Alzheimer disease, can manifest with confusion and vomiting. However, this patient lacks other typical features of donepezil toxicity such as bradycardia, hypotension, increased salivation, diaphoresis, ataxia, and tremor. His skin flushing and bright red retinal veins on fundoscopic examination are also not consistent with donepezil use.",
+        "explanation_why": "La toxicidad por donepezil, un inhibidor de la acetilcolinesterasa utilizado en el tratamiento de la enfermedad de Alzheimer, puede manifestarse con confusión y vómitos. Sin embargo, este paciente carece de otras características típicas de la toxicidad por donepezil, como bradicardia, hipotensión, aumento de la salivación, diaforesis, ataxia y temblores. Además, su enrojecimiento cutáneo y las venas retinianas de color rojo brillante en el examen fundoscópico no son consistentes con el uso de donepezil.",
         "explanation_but": "",
         "selection_rate": 5
       },
       {
         "letter": "B",
-        "content": "Hypertensive crisis",
+        "content": "Crisis hipertensiva",
         "is_correct": true,
-        "explanation_why": "This patient most likely had a hypertensive crisis treated with intravenous sodium nitroprusside. Sodium nitroprusside contains cyanide groups and patients who receive prolonged or high-dose infusions or have kidney disease are at especially high risk of developing cyanide toxicity. Cyanide inhibits the electron transport chain and thereby disables aerobic metabolism, resulting in a switch to anaerobic metabolism that leads to elevated lactate levels and anion gap metabolic acidosis. Treatment of cyanide toxicity consists of 100% oxygen therapy and an antidote for cyanide poisoning (e.g., hydroxocobalamin).\n\nThe flushed skin and bright red retinal veins seen in patients with cyanide toxicity are a result of impaired oxygen utilization and increased venous oxygen saturation.",
+        "explanation_why": "Este paciente probablemente presentó una crisis hipertensiva tratada con nitroprusiato de sodio intravenoso. El nitroprusiato de sodio contiene grupos de cianuro y los pacientes que reciben infusiones prolongadas o en altas dosis, o que tienen enfermedad renal, están en especial riesgo de desarrollar toxicidad por cianuro. El cianuro inhibe la cadena de transporte de electrones y, por lo tanto, desactiva el metabolismo aeróbico, lo que lleva a un cambio al metabolismo anaeróbico, resultando en niveles elevados de lactato y acidosis metabólica con brecha aniónica. El tratamiento de la toxicidad por cianuro consiste en terapia con oxígeno al 100% y un antídoto para la intoxicación por cianuro (ej. hidroxocobalamina).\n\nEl enrojecimiento cutáneo y las venas retinianas de color rojo brillante observados en pacientes con toxicidad por cianuro son el resultado de la utilización alterada de oxígeno y la saturación venosa de oxígeno aumentada.",
         "explanation_but": "",
         "selection_rate": 37
       },
       {
         "letter": "C",
-        "content": "Refractory atrial fibrillation",
+        "content": "Fibrilación auricular refractaria",
         "is_correct": false,
-        "explanation_why": "A variety of medications can be used in the treatment of refractory atrial fibrillation (e.g., digoxin, beta blockers, calcium channel blockers). Digoxin toxicity may manifest with headache, confusion, nausea, and vomiting. Beta blocker and calcium channel blocker toxicity can cause high anion gap metabolic acidosis. However, flushed skin and bright red retinal veins are not common adverse effects of any of these medications. Additionally, this patient lacks other typical clinical features of cardiovascular drug poisoning (e.g., hypotension, bradycardia).",
+        "explanation_why": "Una variedad de medicamentos pueden utilizarse en el tratamiento de la fibrilación auricular refractaria (ej. digoxina, betabloqueantes, bloqueadores de los canales de calcio). La toxicidad por digoxina puede manifestarse con cefalea, confusión, náuseas y vómitos. La toxicidad por betabloqueantes y bloqueadores de los canales de calcio puede causar acidosis metabólica con brecha aniónica alta. Sin embargo, el enrojecimiento cutáneo y las venas retinianas de color rojo brillante no son efectos adversos comunes de ninguno de estos medicamentos. Además, este paciente carece de otras características clínicas típicas de la intoxicación por fármacos cardiovasculares (ej. hipotensión, bradicardia).",
         "explanation_but": "",
         "selection_rate": 8
       },
       {
         "letter": "D",
-        "content": "Manic episode",
+        "content": "Episodio maníaco",
         "is_correct": false,
-        "explanation_why": "First-line medications used in the treatment of bipolar disorder include lithium, antiepileptic drugs, and atypical antipsychotics. Acute lithium toxicity can manifest with vomiting and confusion. However, this patient lacks other typical features of acute lithium toxicity such as tremulousness, dystonia, hyperreflexia, and ataxia. His flushed skin, bright red retinal veins, and high anion gap metabolic acidosis are not consistent with any of the commonly used medications for bipolar disorder.",
+        "explanation_why": "Los medicamentos de primera línea utilizados en el tratamiento del trastorno bipolar incluyen litio, fármacos antiepilépticos y antipsicóticos atípicos. La toxicidad aguda por litio puede manifestarse con vómitos y confusión. Sin embargo, este paciente carece de otras características típicas de la toxicidad aguda por litio, como temblores, distonía, hiperreflexia y ataxia. Su enrojecimiento cutáneo, venas retinianas de color rojo brillante y acidosis metabólica con brecha aniónica alta no son consistentes con ninguno de los medicamentos comúnmente utilizados para el trastorno bipolar.",
         "explanation_but": "",
         "selection_rate": 6
       },
       {
         "letter": "E",
-        "content": "Tension headache",
+        "content": "Cefalea tensional",
         "is_correct": false,
-        "explanation_why": "First-line treatment of tension headache usually includes NSAIDs. Early NSAID toxicity can also manifest with nausea, vomiting, headache, confusion, and anion gap metabolic acidosis; delayed manifestations include renal failure and platelet dysfunction. This patient's presentation of flushed skin and bright red retinal veins is not consistent with NSAID toxicity.",
+        "explanation_why": "El tratamiento de primera línea para la cefalea tensional suele incluir AINEs. La toxicidad temprana por AINEs también puede manifestarse con náuseas, vómitos, cefalea, confusión y acidosis metabólica con brecha aniónica; las manifestaciones tardías incluyen insuficiencia renal y disfunción plaquetaria. La presentación de este paciente con enrojecimiento cutáneo y venas retinianas de color rojo brillante no es consistente con la toxicidad por AINEs.",
         "explanation_but": "",
         "selection_rate": 5
       },
       {
         "letter": "F",
-        "content": "Insulin resistance",
+        "content": "Resistencia a la insulina",
         "is_correct": false,
-        "explanation_why": "Type 2 diabetes mellitus is caused by peripheral insulin resistance and can be treated with a variety of different medications (e.g., insulin, sulfonylureas, metformin). A common side effect of most of these medications is hypoglycemia, which can manifest with confusion, nausea, and vomiting. In addition, metformin can rarely cause lactic acidosis. However, none of these medications would explain the facial flushing and bright red retinal veins seen in this patient.",
+        "explanation_why": "La diabetes mellitus tipo 2 es causada por resistencia periférica a la insulina y puede tratarse con una variedad de medicamentos (ej. insulina, sulfonilureas, metformina). Un efecto secundario común de la mayoría de estos medicamentos es la hipoglucemia, que puede manifestarse con confusión, náuseas y vómitos. Además, la metformina puede causar rara vez acidosis láctica. Sin embargo, ninguno de estos medicamentos explicaría el enrojecimiento facial y las venas retinianas de color rojo brillante observadas en este paciente.",
         "explanation_but": "",
         "selection_rate": 22
       },
       {
         "letter": "G",
-        "content": "Major depressive disorder",
+        "content": "Trastorno depresivo mayor",
         "is_correct": false,
-        "explanation_why": "Major depressive disorder can be treated with a variety of medications e.g., selective serotonin reuptake inhibitors (SSRIs), or tricyclic antidepressants (TCAs). TCA overdose can manifest with confusion, tachycardia, flushing, and metabolic acidosis. However, this patient lacks other typical features of TCA overdose such as sedation, hyperthermia, and mydriasis. Serotonin syndrome can manifest with confusion, tachycardia, and metabolic acidosis, but also usually causes neuromuscular excitability (e.g., tremor, hyperreflexia), hyperthermia, and diaphoresis. This patient's bright red retinal veins on fundoscopic examination are not typical for either syndrome and are suggestive of a different etiology.",
+        "explanation_why": "El trastorno depresivo mayor puede tratarse con una variedad de medicamentos, como inhibidores selectivos de la recaptación de serotonina (ISRS) o antidepresivos tricíclicos (ATC). La sobredosis de ATC puede manifestarse con confusión, taquicardia, enrojecimiento y acidosis metabólica. Sin embargo, este paciente carece de otras características típicas de la sobredosis de ATC, como sedación, hipertermia y midriasis. El síndrome serotoninérgico puede manifestarse con confusión, taquicardia y acidosis metabólica, pero también suele causar excitabilidad neuromuscular (ej. temblores, hiperreflexia), hipertermia y diaforesis. Las venas retinianas de color rojo brillante en el examen fundoscópico de este paciente no son típicas de ninguno de estos síndromes y sugieren una etiología diferente.",
         "explanation_but": "",
         "selection_rate": 9
       },
       {
         "letter": "H",
-        "content": "Acute dystonia",
+        "content": "Distonía aguda",
         "is_correct": false,
-        "explanation_why": "Toxicity with benztropine, an anticholinergic agent used in the treatment of acute dystonia and drug-induced extrapyramidal symptoms, can manifest with tachycardia, flushing, and confusion. However, this patient lacks other typical features of anticholinergic toxicity, such as mydriasis. Additionally, his bright red retinal veins and high anion gap metabolic acidosis are not consistent with anticholinergic toxicity.",
+        "explanation_why": "La toxicidad por benztropina, un agente anticolinérgico utilizado en el tratamiento de la distonía aguda y los síntomas extrapiramidales inducidos por fármacos, puede manifestarse con taquicardia, enrojecimiento y confusión. Sin embargo, este paciente carece de otras características típicas de la toxicidad anticolinérgica, como midriasis. Además, sus venas retinianas de color rojo brillante y su acidosis metabólica con brecha aniónica alta no son consistentes con la toxicidad anticolinérgica.",
         "explanation_but": "",
         "selection_rate": 8
       }
@@ -78,51 +78,51 @@
   },
   {
     "eid": "Nya-2M",
-    "question_text": "Patient Information\nAge: 55 years\nGender: M, self-identified \nRace/Ethnicity: unspecified\nSite of Care: office\nHistory\nReason for Visit/Chief Concern: follow-up after diagnosis of myasthenia gravis \nHistory of Present Illness:\n\ndiagnosed with myasthenia gravis 2 months ago\nstarted treatment with pyridostigmine but had to be discontinued due to several episodes of bradycardia\ninitiated treatment with prednisone and azathioprine 1 month ago\neye muscle weakness has improved significantly\n\nPast Medical History:\n\nhypertension\ngout\nosteoarthritis\n\nMedications:\n\namlodipine\nallopurinol\nprednisone\nazathioprine\nibuprofen as needed\n\nVaccinations:\nup-to-date\nAllergies:\nno known drug allergies\nFamily History:\n\nfather: hypertension, type 2 diabetes mellitus\nmother: hypertension\n\nPsychosocial History:\n\ndoes not smoke cigarettes or use other substances\ndrinks two beers per week\n\nPhysical Examination\n\nTemp\nPulse\nResp\nBP\nO_2 Sat\nHt\nWt\nBMI\n\n37.0 °C\n(98.6 °F)\n\n90/min\n14/min\n100/64 mm Hg\n-\n\n176 cm\n(5 ft 7 in)\n95 kg\n(209 lb)\n31 kg/m^2\n\nAppearance: in no distress\nHEENT: normal conjunctivae and oropharynx; PERRLA; mild ptosis of the right eye\nSkin: no rashes or lesions\nNeck: no jugular venous distention\nPulmonary: clear to auscultation\nCardiac: regular rhythm; no murmurs\nAbdominal: soft and nontender\n\nDiagnostic Studies\n\nBlood\n\n Hemoglobin\n11.0 g/dL\n\n WBC\n4000/mm^3\n\n Platelet count\n140,000/mm^3\n\nWhich of the following would have prevented this near miss?",
-    "content_preview": "Patient Information Age: 55 years Gender: M, self-identified Race/Ethnicity: unspecified Site of Care: office History Reason for Visit/Chief Concern: follow-up after diagnosis of myasthenia gravis History of Present Illness: diagnosed with myasthenia gravis 2 months ago started treatment with pyridostigmine but had to be discontinued due to several episodes of bradycardia initiated treatment with prednisone and azathioprine 1 month ago eye muscle weakness has improved significantly Past Medical History: hypertension gout osteoarthritis Medications: amlodipine allopurinol prednisone azathioprine ibuprofen as needed Vaccinations: up-to-date Allergies: no known drug allergies Family History: father: hypertension, type 2 diabetes mellitus mother: hypertension Psychosocial History: does not smoke cigarettes or use other substances drinks two beers per week Physical Examination Temp Pulse Resp BP O2 Sat Ht Wt BMI 37.0 °C(98.6 °F) 90/min 14/min 100/64 mm Hg - 176 cm(5 ft 7 in) 95 kg(209 lb) 31 kg/m2 Appearance: in no distress HEENT: normal conjunctivae and oropharynx; PERRLA; mild ptosis of the right eye Skin: no rashes or lesions Neck: no jugular venous distention Pulmonary: clear to auscultation Cardiac: regular rhythm; no murmurs Abdominal: soft and nontender Diagnostic Studies Blood Hemoglobin 11.0 g/dL WBC 4000/mm3 Platelet count 140,000/mm3 Which of the following would have prevented this near miss?",
+    "question_text": "Información del paciente\nEdad: 55 años\nGénero: masculino, autodefinido\nRaza/Etnia: no especificada\nSitio de atención: consultorio\nHistoria\nMotivo de consulta/preocupación principal: seguimiento tras diagnóstico de miastenia gravis\nEnfermedad actual:\n\nDiagnosticado con miastenia gravis hace 2 meses\nInició tratamiento con piridostigmina, pero debió suspenderse debido a varios episodios de bradicardia\nInició tratamiento con prednisona y azatioprina hace 1 mes\ndebilidad muscular ocular mejorada significativamente\n\nAntecedentes personales:\n\nHipertensión\nGota\nOsteoartritis\n\nMedicamentos:\n\namlodipine\nallopurinol\nprednisone\nazathioprine\nibuprofeno según necesidad\n\nVacunaciones:\nAl día\nAlergias:\nNo se conocen alergias a medicamentos\nHistoria familiar:\n\nPadre: hipertensión, diabetes mellitus tipo 2\nMadre: hipertensión\n\nHistoria psicosocial:\n\nNo fuma cigarrillos ni consume otras sustancias\nConsume dos cervezas por semana\n\nExamen físico:\n\nTemp\nPulso\nResp\nTA\nSat O₂\nAltura\nPeso\nIMC\n\n37.0 °C\n(98.6 °F)\n\n90/min\n14/min\n100/64 mm Hg\n-\n\n176 cm\n(5 ft 7 in)\n95 kg\n(209 lb)\n31 kg/m²\n\nApariencia: sin signos de angustia\nOjos/cabeza/cuello: conjuntivas y orofaringe normales; PERRLA; ptosis leve en ojo derecho\nPiel: sin exantemas ni lesiones\nCuello: sin distensión yugular venosa\nPulmonar: sin crepitantes a la auscultación\nCardíaco: ritmo regular; sin soplos\nAbdominal: blando y sin dolor a la palpación\n\nEstudios diagnósticos:\n\nSangre:\n\nHemoglobina: 11.0 g/dL\n\nLeucocitos (WBC): 4000/mm³\n\nRecuento de plaquetas: 140,000/mm³\n\n¿Cuál de las siguientes medidas habría evitado este casi incidente?",
+    "content_preview": "Información del paciente Edad: 55 años Género: masculino, autodefinido Raza/Etnia: no especificada Sitio de atención: consultorio Historia Motivo de consulta/preocupación principal: seguimiento tras diagnóstico de miastenia gravis Enfermedad actual: diagnosticado con miastenia gravis hace 2 meses inició tratamiento con piridostigmina pero debió suspenderse debido a varios episodios de bradicardia inició tratamiento con prednisona y azatioprina hace 1 mes debilidad muscular ocular mejorada significativamente Antecedentes personales: hipertensión gota osteoartritis Medicamentos: amlodipine allopurinol prednisone azathioprine ibuprofeno según necesidad Vacunaciones: al día Alergias: no se conocen alergias a medicamentos Historia familiar: padre: hipertensión, diabetes mellitus tipo 2 madre: hipertensión Historia psicosocial: no fuma cigarrillos ni consume otras sustancias consume dos cervezas por semana Examen físico Temp Pulso Resp TA Sat O₂ Altura Peso IMC 37.0 °C (98.6 °F) 90/min 14/min 100/64 mm Hg - 176 cm (5 ft 7 in) 95 kg (209 lb) 31 kg/m² Apariencia: sin signos de angustia Ojos/cabeza/cuello: conjuntivas y orofaringe normales; PERRLA; ptosis leve en ojo derecho Piel: sin exantemas ni lesiones Cuello: sin distensión yugular venosa Pulmonar: sin crepitantes a la auscultación Cardíaco: ritmo regular; sin soplos Abdominal: blando y sin dolor a la palpación Estudios diagnósticos Sangre Hemoglobina: 11.0 g/dL WBC: 4000/mm³ Recuento de plaquetas: 140,000/mm³ ¿Cuál de las siguientes medidas habría evitado este casi incidente?",
     "correct_answer": "D",
     "difficulty": 2,
-    "hint": "This patient has pancytopenia.",
-    "learning_objective": "Recognize pancytopenia in a patient treated for myasthenia gravis, and choose the most appropriate step to prevent this condition.",
+    "hint": "Este paciente presenta pancitopenia.",
+    "learning_objective": "Reconocer la pancitopenia en un paciente tratado por miastenia gravis y seleccionar el paso más apropiado para prevenir esta condición.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "Replacement of ibuprofen with acetaminophen",
+        "content": "Sustitución de ibuprofeno por paracetamol",
         "is_correct": false,
-        "explanation_why": "Rarely, ibuprofen can cause hemolytic or aplastic anemia. Ibuprofen-induced pancytopenia is extremely rare; a different cause is more likely.",
+        "explanation_why": "Raramente, el ibuprofeno puede causar anemia hemolítica o aplásica. La pancitopenia inducida por ibuprofeno es extremadamente rara; es más probable una causa diferente.",
         "explanation_but": "",
         "selection_rate": 2
       },
       {
         "letter": "B",
-        "content": "Witholding prednisone",
+        "content": "Suspensión de prednisona",
         "is_correct": false,
-        "explanation_why": "Systemic glucocorticoids (e.g., prednisone) can cause leukocytosis and increased hemoglobin and red blood cell counts, but not pancytopenia. Withholding prednisone and prescribing azathioprine monotherapy would not have prevented the development of pancytopenia, as azathioprine can cause pancytopenia.",
+        "explanation_why": "Los glucocorticoides sistémicos (ej. prednisona) pueden causar leucocitosis e incremento en hemoglobina y recuento de glóbulos rojos, pero no pancitopenia. Suspender la prednisona y prescribir azatioprina en monoterapia no habría prevenido el desarrollo de pancitopenia, ya que la azatioprina puede causar pancitopenia.",
         "explanation_but": "",
         "selection_rate": 3
       },
       {
         "letter": "C",
-        "content": "Supplementation with folic acid",
+        "content": "Suplementación con ácido fólico",
         "is_correct": false,
-        "explanation_why": "Supplementation with folic acid is indicated for patients receiving drugs that may cause folate deficiency (e.g., methotrexate). This patient is not receiving any drugs that cause folate deficiency, and folate deficiency would cause anemia, not pancytopenia.",
+        "explanation_why": "La suplementación con ácido fólico está indicada en pacientes que reciben fármacos que pueden causar deficiencia de folato (ej. metotrexato). Este paciente no recibe medicamentos que causen deficiencia de folato, y esta deficiencia provocaría anemia, no pancitopenia.",
         "explanation_but": "",
         "selection_rate": 8
       },
       {
         "letter": "D",
-        "content": "Assessment of potential drug interactions",
+        "content": "Evaluación de interacciones medicamentosas potenciales",
         "is_correct": true,
-        "explanation_why": "This patient's pancytopenia was likely caused by the interaction between azathioprine and allopurinol. Azathioprine is metabolized to 6-mercaptopurine (6-MP), which causes immunosuppression at low dosages and is cytostatic at high dosages. Allopurinol inhibits xanthine oxidase, which is responsible for the degradation of 6-MP. Concomitant administration of a xanthine oxidase inhibitor causes a toxic accumulation of 6-MP resulting in bone marrow suppression. A thorough assessment of potential drug interactions before initiating azathioprine could have prevented the development of pancytopenia in this patient. Coadministration of azathioprine and allopurinol should be avoided. The dose of azathioprine (or any other purine analog) should be reduced if concomitant administration with allopurinol is unavoidable.\n\nAlternatives to azathioprine with less impact on bone marrow, such as cyclosporine, would have been a safer option for this patient.",
+        "explanation_why": "La pancitopenia de este paciente probablemente fue causada por la interacción entre azatioprina y allopurinol. La azatioprina se metaboliza a 6-mercaptopurina (6-MP), que ejerce inmunosupresión en dosis bajas y efecto citostático en dosis altas. El allopurinol inhibe la xantina oxidasa, enzima responsable de la degradación de la 6-MP. La administración concomitante de un inhibidor de la xantina oxidasa causa acumulación tóxica de 6-MP, resultando en supresión medular. Una evaluación exhaustiva de interacciones medicamentosas antes de iniciar azatioprina habría prevenido el desarrollo de pancitopenia en este paciente. Se debe evitar la coadministración de azatioprina y allopurinol. Si su administración concomitante es inevitable, debe reducirse la dosis de azatioprina (o cualquier otro análogo de purina).\n\nAlternativas a la azatioprina con menor impacto en la médula ósea, como la ciclosporina, habrían sido una opción más segura para este paciente.",
         "explanation_but": "",
         "selection_rate": 80
       },
       {
         "letter": "E",
-        "content": "CT scan of the chest",
+        "content": "Tomografía computarizada (TC) de tórax",
         "is_correct": false,
-        "explanation_why": "A CT scan of the chest is indicated in all patients with myasthenia gravis to assess for a thymoma or thymic hyperplasia. Thymomas are associated with pure red cell aplasia and immunodeficiency, but not pancytopenia.",
+        "explanation_why": "La TC de tórax está indicada en todos los pacientes con miastenia gravis para evaluar timoma o hiperplasia tímica. Los timomas se asocian con aplasia pura de glóbulos rojos e inmunodeficiencia, pero no con pancitopenia.",
         "explanation_but": "",
         "selection_rate": 7
       }
@@ -131,51 +131,51 @@
   },
   {
     "eid": "2-aT9M",
-    "question_text": "Patient Information\nAge: 22 years\nGender: F, self-identified\nRace/Ethnicity: unspecified\nSite of Care: office\nHistory\nReason for Visit/Chief Concern: “I want to have this mole on my left cheek removed because I don't like how it looks, and I'm afraid it will turn into skin cancer.”\nHistory of Present Illness:\n\nmole on left cheek since age 11 years\n\nlesion has been growing in size; used to be flat and dark brown; now elevated and light brown\nseveral moles on upper body\nmoles have increased in number since childhood; some have disappeared since adolescence\n\nPast Medical History:\nwisdom tooth extraction 6 months ago under local anesthesia; 24 hours later, local swelling, itching, and blistering at injection sites; anesthetic agent unknown\n\nMedications:\nnone\nVaccinations:\nup-to-date\nAllergies:\nlocal anesthetics\nFamily History:\nnoncontributory\nPsychosocial History:\n\nlives with parents\nworks as a market gardener\ndoes not smoke cigarettes, drink alcoholic beverages, or use nonprescribed medications or other substances\n\nPhysical Examination\n\nTemp\nPulse\nResp\nBP\nO_2 Sat\nHt\nWt\nBMI\n\n36.9°C\n(98.4°F)\n60/min\n14/min\n100/65 mm Hg\n98% on RA\n163 cm\n(5 ft 4 in)\n57 kg\n(125 lb)\n21.5 kg/m^2\n\nAppearance: no acute distress\nSkin: warm, dry, and intact; 1 raised, papillomatous, uniformly light brown lesion with regular borders on left cheek, 5 mm in diameter; 7 similar lesions and 20 flat, well-demarcated light brown macules on upper trunk, shoulders, neck, and upper arms\nHEENT: PERRLA\nNeck: no cervical lymphadenopathy or masses\nPulmonary: clear lung fields bilaterally\nCardiac: regular rhythm; normal S_1 and S_2; no murmurs, rubs, or gallops\n\nWhich of the following is the most appropriate next step in management?",
-    "content_preview": "Patient Information Age: 22 years Gender: F, self-identified Race/Ethnicity: unspecified Site of Care: office History Reason for Visit/Chief Concern: “I want to have this mole on my left cheek removed because I don't like how it looks, and I'm afraid it will turn into skin cancer.” History of Present Illness: mole on left cheek since age 11 years lesion has been growing in size; used to be flat and dark brown; now elevated and light brown several moles on upper body moles have increased in number since childhood; some have disappeared since adolescence Past Medical History: wisdom tooth extraction 6 months ago under local anesthesia; 24 hours later, local swelling, itching, and blistering at injection sites; anesthetic agent unknown Medications: none Vaccinations: up-to-date Allergies: local anesthetics Family History: noncontributory Psychosocial History: lives with parents works as a market gardener does not smoke cigarettes, drink alcoholic beverages, or use nonprescribed medications or other substances Physical Examination Temp Pulse Resp BP O2 Sat Ht Wt BMI 36.9°C(98.4°F) 60/min 14/min 100/65 mm Hg 98% on RA 163 cm(5 ft 4 in) 57 kg(125 lb) 21.5 kg/m2 Appearance: no acute distress Skin: warm, dry, and intact; 1 raised, papillomatous, uniformly light brown lesion with regular borders on left cheek, 5 mm in diameter; 7 similar lesions and 20 flat, well-demarcated light brown macules on upper trunk, shoulders, neck, and upper arms HEENT: PERRLA Neck: no cervical lymphadenopathy or masses Pulmonary: clear lung fields bilaterally Cardiac: regular rhythm; normal S1 and S2; no murmurs, rubs, or gallops Which of the following is the most appropriate next step in management?",
+    "question_text": "Información del paciente\nEdad: 22 años\nGénero: F, autodefinida\nRaza/Etnia: no especificada\nSitio de atención: consultorio\nHistoria\nMotivo de consulta/enfermedad actual: *«Quiero que me extirpen este lunar en mi mejilla izquierda porque no me gusta cómo se ve, y tengo miedo de que se convierta en cáncer de piel.»*\n\nEnfermedad actual:\n\n- lunar en mejilla izquierda desde los 11 años\n- lesión en crecimiento; antes era plana y marrón oscuro; ahora está elevada y de color marrón claro\n- varios lunares en el torso superior\n- los lunares han aumentado en número desde la infancia; algunos han desaparecido desde la adolescencia\n\nAntecedentes personales:\n- extracción de muelas del juicio hace 6 meses bajo anestesia local; 24 horas después, edema local, prurito y formación de ampollas en los sitios de inyección; agente anestésico desconocido\n\nMedicamentos:\nninguno\n\nVacunaciones:\nal día\n\nAlergias:\nanestésicos locales\n\nAntecedentes familiares:\nno contributivos\n\nHistoria psicosocial:\n\n- vive con sus padres\n- trabaja como horticultora de mercado\n- no fuma cigarrillos, consume bebidas alcohólicas ni medicamentos o sustancias no prescritas\n\nExamen físico:\n\nTemp\nPulso\nResp\nPA\nSat O₂\nAltura\nPeso\nIMC\n\n36.9°C\n(98.4°F)\n60/min\n14/min\n100/65 mm Hg\n98% en aire ambiente\n163 cm\n(5 ft 4 in)\n57 kg\n(125 lb)\n21.5 kg/m²\n\nApariencia: sin distress agudo\nPiel: cálida, seca e íntegra; 1 lesión papilomatosa, elevada, de color marrón claro uniforme con bordes regulares en mejilla izquierda, de 5 mm de diámetro; 7 lesiones similares y 20 máculas planas, bien delimitadas de color marrón claro en torso superior, hombros, cuello y brazos superiores\nCEAF: PERRLA\nCuello: sin adenopatías cervicales ni masas\nPulmonar: campos pulmonares claros bilateralmente\nCardíaco: ritmo regular; S₁ y S₂ normales; sin soplos, roces ni galopes\n\n¿Cuál de las siguientes es la siguiente conducta más apropiada en el manejo?",
+    "content_preview": "Información del paciente Edad: 22 años Género: F, autodefinida Raza/Etnia: no especificada Sitio de atención: consultorio Historia Motivo de consulta/enfermedad actual: *«Quiero que me extirpen este lunar en mi mejilla izquierda porque no me gusta cómo se ve, y tengo miedo de que se convierta en cáncer de piel.»* Enfermedad actual: lunar en mejilla izquierda desde los 11 años lesión en crecimiento; antes era plana y marrón oscuro; ahora está elevada y de color marrón claro varios lunares en el torso superior los lunares han aumentado en número desde la infancia; algunos han desaparecido desde la adolescencia Antecedentes personales: extracción de muelas del juicio hace 6 meses bajo anestesia local; 24 horas después, edema local, prurito y formación de ampollas en los sitios de inyección; agente anestésico desconocido Medicamentos: ninguno Vacunaciones: al día Alergias: anestésicos locales Antecedentes familiares: no contributivos Historia psicosocial: vive con sus padres trabaja como horticultora de mercado no fuma cigarrillos, consume bebidas alcohólicas ni medicamentos o sustancias no prescritas Examen físico Temp Pulso Resp PA Sat O₂ Altura Peso IMC 36.9°C (98.4°F) 60/min 14/min 100/65 mm Hg 98% en aire ambiente 163 cm (5 ft 4 in) 57 kg (125 lb) 21.5 kg/m² Apariencia: sin distress agudo Piel: cálida, seca e íntegra; 1 lesión papilomatosa, elevada, de color marrón claro uniforme con bordes regulares en mejilla izquierda, de 5 mm de diámetro; 7 lesiones similares y 20 máculas planas, bien delimitadas de color marrón claro en torso superior, hombros, cuello y brazos superiores CEAF: PERRLA Cuello: sin adenopatías cervicales ni masas Pulmonar: campos pulmonares claros bilateralmente Cardíaco: ritmo regular; S₁ y S₂ normales; sin soplos, roces ni galopes ¿Cuál de las siguientes es la siguiente conducta más apropiada en el manejo?",
     "correct_answer": "E",
     "difficulty": 3,
-    "hint": "Removal of a benign skin lesion, such as a common acquired melanocytic nevus (i.e., mole), is considered elective surgery.",
-    "learning_objective": "Choose the most appropriate management of allergic contact dermatitis to an unknown agent.",
+    "hint": "La extirpación de una lesión cutánea benigna, como un nevo melanocítico adquirido común (es decir, un lunar), se considera cirugía electiva.",
+    "learning_objective": "Elegir el manejo más apropiado para la dermatitis de contacto alérgica a un agente desconocido.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "Mole removal with general anesthesia",
+        "content": "Extirpación del lunar con anestesia general",
         "is_correct": false,
-        "explanation_why": "General anesthesia has a higher risk of respiratory and cardiovascular complications than local anesthesia. Although general anesthesia is an option for urgent surgery, it is unwarranted for the elective removal of a mole, which can be performed under local anesthesia.",
+        "explanation_why": "La anestesia general tiene un riesgo más alto de complicaciones respiratorias y cardiovasculares que la anestesia local. Aunque la anestesia general es una opción para cirugías urgentes, no está justificada para la extirpación electiva de un lunar, procedimiento que puede realizarse bajo anestesia local.",
         "explanation_but": "",
         "selection_rate": 6
       },
       {
         "letter": "B",
-        "content": "Administration of cetirizine followed by local anesthetic of choice",
+        "content": "Administración de cetirizina seguida de anestésico local de elección",
         "is_correct": false,
-        "explanation_why": "Antihistamines like cetirizine can reduce mild allergic symptoms (e.g., urticaria) in IgE-mediated type I hypersensitivity reactions by blocking or inhibiting histamine receptors. However, they are generally ineffective for treating allergic contact dermatitis, which is a T cell-mediated type IV hypersensitivity reaction.",
+        "explanation_why": "Los antihistamínicos como la cetirizina pueden reducir síntomas alérgicos leves (ej. urticaria) en reacciones de hipersensibilidad tipo I mediadas por IgE al bloquear o inhibir receptores de histamina. Sin embargo, son generalmente ineficaces para tratar la dermatitis de contacto alérgica, que es una reacción de hipersensibilidad tipo IV mediada por células T.",
         "explanation_but": "",
         "selection_rate": 18
       },
       {
         "letter": "C",
-        "content": "Mole removal with lidocaine as local anesthetic",
+        "content": "Extirpación del lunar con lidocaína como anestésico local",
         "is_correct": false,
-        "explanation_why": "Although lidocaine can be administered for elective mole removal, this patient has previously developed allergic contact dermatitis to an unspecified local anesthetic. Therefore, another step in management is more appropriate at this time.",
+        "explanation_why": "Aunque la lidocaína puede administrarse para la extirpación electiva de un lunar, esta paciente desarrolló dermatitis de contacto alérgica a un anestésico local no especificado en el pasado. Por lo tanto, un paso adicional en el manejo es más apropiado en este momento.",
         "explanation_but": "",
         "selection_rate": 22
       },
       {
         "letter": "D",
-        "content": "Mole removal with procaine as local anesthetic",
+        "content": "Extirpación del lunar con procaína como anestésico local",
         "is_correct": false,
-        "explanation_why": "Although procaine can be administered for elective mole removal, this patient has previously developed allergic contact dermatitis to an unspecified local anesthetic. Therefore, another step in management is more appropriate at this time.",
+        "explanation_why": "Aunque la procaína puede administrarse para la extirpación electiva de un lunar, esta paciente desarrolló dermatitis de contacto alérgica a un anestésico local no especificado en el pasado. Por lo tanto, un paso adicional en el manejo es más apropiado en este momento.",
         "explanation_but": "",
         "selection_rate": 6
       },
       {
         "letter": "E",
-        "content": "Referral to an allergist before mole removal",
+        "content": "Derivación a un alergólogo antes de la extirpación del lunar",
         "is_correct": true,
-        "explanation_why": "Local swelling, itching, and blistering 12–48 hours after injection of a local anesthetic are consistent with allergic contact dermatitis to an unknown agent. Referral to an allergist to determine the causal local anesthetic is appropriate before proceeding with elective surgery.\n\nCross-reactivity between ester group anesthetics and amide group anesthetics is rare; therefore, if an allergy to one group is found, an anesthetic from the other group can be safely administered in future procedures.",
+        "explanation_why": "El edema local, prurito y formación de ampollas 12–48 horas después de la inyección de un anestésico local son compatibles con dermatitis de contacto alérgica a un agente desconocido. Derivar a un alergólogo para determinar el anestésico causal es apropiado antes de proceder con la cirugía electiva.\n\nLa reactividad cruzada entre anestésicos del grupo éster y del grupo amida es rara; por lo tanto, si se confirma alergia a un grupo, puede administrarse de forma segura un anestésico del otro grupo en procedimientos futuros.",
         "explanation_but": "",
         "selection_rate": 48
       }

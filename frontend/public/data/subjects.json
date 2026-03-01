@@ -140,7 +140,6 @@
   {
     "id": "internal_medicine",
     "name": "Medicina Interna",
-    "file": "amboss_internal_medicine.json",
     "count": 2383,
     "children": [
       {
@@ -256,7 +255,6 @@
   {
     "id": "osteopathic_manipulative_medicine",
     "name": "Medicina Osteopática",
-    "file": "amboss_osteopathic_manipulative_medicine.json",
     "count": 6,
     "children": [
       {
@@ -360,7 +358,6 @@
   {
     "id": "surgery",
     "name": "Cirugía",
-    "file": "amboss_surgery.json",
     "count": 1053,
     "children": [
       {

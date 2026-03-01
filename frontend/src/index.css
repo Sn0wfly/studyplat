@@ -27,6 +27,21 @@
   }
 }
 
+/* Login floating quiz cards */
+@keyframes float-up {
+  0% { transform: translateY(100vh) rotate(var(--rotate-start)); opacity: 0; }
+  10% { opacity: var(--max-opacity); }
+  90% { opacity: var(--max-opacity); }
+  100% { transform: translateY(-100vh) rotate(var(--rotate-end)); opacity: 0; }
+}
+
+.login-card {
+  position: absolute;
+  pointer-events: none;
+  animation: float-up var(--duration) var(--delay) linear infinite;
+  opacity: 0;
+}
+
 /* Minimal Custom Scrollbar */
 ::-webkit-scrollbar {
   width: 4px;

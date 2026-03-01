@@ -1,51 +1,51 @@
 [
   {
     "eid": "9xYNAr",
-    "question_text": "An 18-year-old male military cadet comes to the physician because of bilateral lower extremity pain that began shortly after enlisting 5 months ago. The patient describes the pain as a dull ache most notable during his daily training routine. The pain used to dissipate while training but now resolves slowly with rest. The pain does not occur with his daily nonexertional activities, including walking. Medical history is otherwise unremarkable. Physical examination reveals diffuse tenderness along the medial border of the distal lower extremities. There is no lower extremity warmth, swelling, or overlying skin changes. Muscle strength in the lower extremities is normal. Pedal pulses are intact. Which of the following is the most likely diagnosis?",
-    "content_preview": "An 18-year-old male military cadet comes to the physician because of bilateral lower extremity pain that began shortly after enlisting 5 months ago. The patient describes the pain as a dull ache most notable during his daily training routine. The pain used to dissipate while training but now resolves slowly with rest. The pain does not occur with his daily nonexertional activities, including walking. Medical history is otherwise unremarkable. Physical examination reveals diffuse tenderness along the medial border of the distal lower extremities. There is no lower extremity warmth, swelling, or overlying skin changes. Muscle strength in the lower extremities is normal. Pedal pulses are intact. Which of the following is the most likely diagnosis?",
+    "question_text": "Un hombre de 18 años, cadete militar, acude al médico por dolor bilateral en extremidades inferiores que comenzó poco después de alistarse hace 5 meses. El paciente describe el dolor como un malestar sordo, más notable durante su rutina de entrenamiento diario. El dolor solía disminuir durante el entrenamiento, pero ahora se resuelve lentamente con el reposo. El dolor no ocurre durante sus actividades diarias no extenuantes, incluyendo caminar. Los antecedentes médicos son irrelevantes en otros aspectos. El examen físico muestra dolor a la palpación difuso a lo largo del borde medial de las extremidades inferiores distales. No hay calor, edema ni cambios en la piel sobreyacente en las extremidades inferiores. La fuerza muscular en las extremidades inferiores es normal. Los pulsos pedios están intactos. ¿Cuál de las siguientes es el diagnóstico más probable?",
+    "content_preview": "Un hombre de 18 años, cadete militar, acude al médico por dolor bilateral en extremidades inferiores que comenzó poco después de alistarse hace 5 meses. El paciente describe el dolor como un malestar sordo, más notable durante su rutina de entrenamiento diario. El dolor solía disminuir durante el entrenamiento, pero ahora se resuelve lentamente con el reposo. El dolor no ocurre durante sus actividades diarias no extenuantes, incluyendo caminar. Los antecedentes médicos son irrelevantes en otros aspectos. El examen físico muestra dolor a la palpación difuso a lo largo del borde medial de las extremidades inferiores distales. No hay calor, edema ni cambios en la piel sobreyacente en las extremidades inferiores. La fuerza muscular en las extremidades inferiores es normal. Los pulsos pedios están intactos. ¿Cuál de las siguientes es el diagnóstico más probable?",
     "correct_answer": "D",
     "difficulty": 2,
-    "hint": "This patient's condition is commonly known as shin splints.",
-    "learning_objective": "Recognize medial tibial stress syndrome.",
+    "hint": "La condición de este paciente es comúnmente conocida como *shin splints* (síndrome de tibia dolorosa).",
+    "learning_objective": "Reconocer el síndrome de estrés tibial medial (*medial tibial stress syndrome*).",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "Popliteal artery entrapment",
+        "content": "Síndrome de atrapamiento de la arteria poplítea",
         "is_correct": false,
-        "explanation_why": "Popliteal artery entrapment syndrome (PAES) may occur in young, active individuals and manifests with lower extremity claudication pain. Pedal pulses are usually normal at rest and decrease only during provocative maneuvers like ankle plantar flexion or dorsiflexion. However, this patient reports that his pain initially dissipated while training, which is inconsistent with PAES. Additionally, PAES is rare and is more likely to be unilateral than bilateral.",
+        "explanation_why": "El síndrome de atrapamiento de la arteria poplítea (PAES, por sus siglas en inglés) puede presentarse en individuos jóvenes y activos, manifestándose con dolor por claudicación en las extremidades inferiores. Los pulsos pedios suelen ser normales en reposo y disminuyen solo durante maniobras provocativas como la flexión plantar o dorsiflexión del tobillo. Sin embargo, este paciente refiere que su dolor inicialmente disminuía durante el entrenamiento, lo que es inconsistente con el PAES. Además, el PAES es raro y suele ser unilateral en lugar de bilateral.",
         "explanation_but": "",
         "selection_rate": 2
       },
       {
         "letter": "B",
-        "content": "Chronic exertional compartment syndrome",
+        "content": "Síndrome compartimental crónico por esfuerzo",
         "is_correct": false,
-        "explanation_why": "Chronic exertional compartment syndrome (CECS) manifests as severe lower extremity pain that occurs during activity, is localized to specific muscle compartments (e.g., anterior or deep posterior), and is typically accompanied by weakness and paresthesias. In CECS, the pain always worsens with continued activity (due to increased intracompartmental pressure), but this patient reports that his pain initially dissipated while training. Additionally, the pain in CECS usually resolves quickly after cessation of the activity. CECS does not result in abnormal findings at rest, whereas this patient has lower extremity tenderness at rest.",
+        "explanation_why": "El síndrome compartimental crónico por esfuerzo (CECS) se manifiesta con dolor severo en las extremidades inferiores que ocurre durante la actividad, se localiza en compartimentos musculares específicos (ej. anterior o posterior profundo) y suele acompañarse de debilidad y parestesias. En el CECS, el dolor siempre empeora con la actividad prolongada (por el aumento de la presión intracompartimental), pero este paciente refiere que su dolor inicialmente disminuía durante el entrenamiento. Además, el dolor en el CECS suele resolverse rápidamente tras cesar la actividad. El CECS no produce hallazgos anormales en reposo, mientras que este paciente presenta dolor a la palpación en las extremidades inferiores incluso en reposo.",
         "explanation_but": "",
         "selection_rate": 15
       },
       {
         "letter": "C",
-        "content": "Common peroneal neuropathy",
+        "content": "Neuropatía del nervio peroneo común",
         "is_correct": false,
-        "explanation_why": "Bilateral common peroneal neuropathy has been described in the context of prolonged squatting but is extremely rare. Peroneal neuropathy manifests with dysesthesia of the lateral lower extremity and foot drop. This patient does not have any sensory or motor deficits, which suggests a different diagnosis.",
+        "explanation_why": "La neuropatía bilateral del nervio peroneo común se ha descrito en contextos de acentuada posición en cuclillas, pero es extremadamente rara. La neuropatía peronea se manifiesta con disestesia en el borde lateral de la extremidad inferior y pie caído. Este paciente no presenta déficits sensoriales ni motores, lo que sugiere un diagnóstico diferente.",
         "explanation_but": "",
         "selection_rate": 3
       },
       {
         "letter": "D",
-        "content": "Medial tibial stress syndrome",
+        "content": "Síndrome de estrés tibial medial",
         "is_correct": true,
-        "explanation_why": "Medial tibial stress syndrome (MTSS) is characterized by lower extremity pain and typically occurs in individuals who have recently increased their physical activity levels. MTSS typically manifests with a bilateral dull ache that arises during intense physical activity. The pain may initially dissipate during continued exercise but gradually worsens over time, eventually requiring rest for relief. Physical examination usually reveals diffuse tenderness along the medial border of the tibia without associated warmth, swelling, or skin changes. Muscle strength in the lower extremities remains normal, and the condition generally does not interfere with nonexertional daily activities like walking. The diagnosis is clinical, and management of MTSS includes applying the POLICE principle and reducing the patient's overall running mileage.",
+        "explanation_why": "El síndrome de estrés tibial medial (MTSS) se caracteriza por dolor en las extremidades inferiores y suele ocurrir en individuos que han aumentado recientemente sus niveles de actividad física. El MTSS se manifiesta típicamente con un malestar sordo bilateral que surge durante el ejercicio intenso. El dolor puede inicialmente disminuir durante la actividad continua, pero empeora gradualmente con el tiempo, requiriendo finalmente reposo para su alivio. El examen físico suele revelar dolor a la palpación difuso a lo largo del borde medial de la tibia, sin calor, edema o cambios cutáneos asociados. La fuerza muscular en las extremidades inferiores permanece normal, y la condición generalmente no interfiere con las actividades diarias no extenuantes como caminar. El diagnóstico es clínico, y el manejo del MTSS incluye aplicar el principio POLICE (Protección, Optimo Loading, Hielo, Compresión, Elevación) y reducir la distancia total de carrera del paciente.",
         "explanation_but": "",
         "selection_rate": 70
       },
       {
         "letter": "E",
-        "content": "Tibial stress fracture",
+        "content": "Fractura de estrés tibial",
         "is_correct": false,
-        "explanation_why": "A tibial stress fracture is caused by a rapid change in physical training (particularly increasing running distance) and often occurs in military recruits. However, tibial stress fractures typically manifest with point tenderness directly over the fracture site, unlike the diffuse tenderness along the medial border of the distal lower extremities in this patient. Moreover, tibial stress fractures often cause pain that is exacerbated by weight-bearing and may persist even at rest or while walking.",
+        "explanation_why": "Una fractura de estrés tibial es causada por un cambio rápido en el entrenamiento físico (particularmente al aumentar la distancia de carrera) y suele ocurrir en reclutas militares. Sin embargo, las fracturas de estrés tibial suelen manifestarse con dolor a la palpación puntual directamente sobre el sitio de la fractura, a diferencia del dolor difuso a lo largo del borde medial de las extremidades inferiores distales en este paciente. Además, las fracturas de estrés tibial suelen causar dolor que empeora con el apoyo de peso y puede persistir incluso en reposo o al caminar.",
         "explanation_but": "",
         "selection_rate": 11
       }
@@ -54,51 +54,51 @@
   },
   {
     "eid": "bBYHzr",
-    "question_text": "A 9-year-old boy is brought to the pediatrician by his parents because of mild pain in his right hip for the past 3 weeks. The pain radiates to the right knee and intensifies during physical activity, such as soccer practice. He is otherwise healthy and has reached all developmental milestones for his age. He was delivered vaginally in a breech position. Family history is unremarkable. He does not take any medications, and his vaccinations are up-to-date. He is 130 cm (4 ft 3 in) (25^th percentile) and weighs 23 kg (51 lb) (15^th percentile). His temperature is 36.8°C (98.2°F), pulse is 72/min, respirations are 18/min, and blood pressure is 105/70mm Hg. Physical examination shows pain in the right hip on internal rotation. Range of motion of the hip and knee is normal. A pelvic x-ray shows joint space widening of the right hip. Which of the following factors in this patient most strongly predicts a poor prognosis?",
-    "content_preview": "A 9-year-old boy is brought to the pediatrician by his parents because of mild pain in his right hip for the past 3 weeks. The pain radiates to the right knee and intensifies during physical activity, such as soccer practice. He is otherwise healthy and has reached all developmental milestones for his age. He was delivered vaginally in a breech position. Family history is unremarkable. He does not take any medications, and his vaccinations are up-to-date. He is 130 cm (4 ft 3 in) (25th percentile) and weighs 23 kg (51 lb) (15th percentile). His temperature is 36.8°C (98.2°F), pulse is 72/min, respirations are 18/min, and blood pressure is 105/70mm Hg. Physical examination shows pain in the right hip on internal rotation. Range of motion of the hip and knee is normal. A pelvic x-ray shows joint space widening of the right hip. Which of the following factors in this patient most strongly predicts a poor prognosis?",
+    "question_text": "Un niño de 9 años es llevado al pediatra por sus padres debido a un dolor leve en su cadera derecha durante las últimas 3 semanas. El dolor irradia hacia la rodilla derecha y se intensifica durante la actividad física, como el entrenamiento de fútbol. De lo contrario, está sano y ha alcanzado todos los hitos del desarrollo para su edad. Nació por vía vaginal en presentación podálica. Los antecedentes familiares son irrelevantes. No toma medicamentos y sus vacunaciones están al día. Mide 130 cm (4 ft 3 in) (percentil 25) y pesa 23 kg (51 lb) (percentil 15). Su temperatura es de 36.8°C (98.2°F), pulso de 72/min, respiraciones de 18/min y presión arterial de 105/70 mm Hg. El examen físico muestra dolor en la cadera derecha a la rotación interna. El rango de movimiento de la cadera y la rodilla es normal. Una radiografía pélvica muestra ensanchamiento del espacio articular de la cadera derecha. ¿Cuál de los siguientes factores en este paciente predice con mayor fuerza un pronóstico pobre?",
+    "content_preview": "Un niño de 9 años es llevado al pediatra por sus padres debido a un dolor leve en su cadera derecha durante las últimas 3 semanas. El dolor irradia hacia la rodilla derecha y se intensifica durante la actividad física, como el entrenamiento de fútbol. De lo contrario, está sano y ha alcanzado todos los hitos del desarrollo para su edad. Nació por vía vaginal en presentación podálica. Los antecedentes familiares son irrelevantes. No toma medicamentos y sus vacunaciones están al día. Mide 130 cm (4 ft 3 in) (percentil 25) y pesa 23 kg (51 lb) (percentil 15). Su temperatura es de 36.8°C (98.2°F), pulso de 72/min, respiraciones de 18/min y presión arterial de 105/70 mm Hg. El examen físico muestra dolor en la cadera derecha a la rotación interna. El rango de movimiento de la cadera y la rodilla es normal. Una radiografía pélvica muestra ensanchamiento del espacio articular de la cadera derecha. ¿Cuál de los siguientes factores en este paciente predice con mayor fuerza un pronóstico pobre?",
     "correct_answer": "E",
     "difficulty": 4,
-    "hint": "In a child aged 4–10 years, hip pain that has an insidious onset and intensifies with physical activity and internal rotation in combination with joint space widening on x-ray, suggests Legg-Calvé-Perthes disease (LCPD).",
-    "learning_objective": "Recognize Legg-Calvé-Perthes disease, and recall its prognostic factors.",
+    "hint": "En un niño de 4 a 10 años, el dolor de cadera de inicio insidioso que se intensifica con la actividad física y la rotación interna, en combinación con ensanchamiento del espacio articular en la radiografía, sugiere enfermedad de Legg-Calvé-Perthes (LCPD).",
+    "learning_objective": "Reconocer la enfermedad de Legg-Calvé-Perthes y recordar sus factores pronósticos.",
     "source": null,
     "answers": [
       {
         "letter": "A",
-        "content": "History of breech delivery",
+        "content": "Historia de parto podálico",
         "is_correct": false,
-        "explanation_why": "Although some studies identify breech delivery as a risk factor for LCPD, there is no evidence that it has prognostic significance for this condition.\n\nBreech delivery increases the risk of developmental dysplasia of the hip, which can manifest with hip pain that radiates to the knee. However, this symptom and other features (e.g., limited range of motion, leg length discrepancy, Trendelenburg gait) typically appear much earlier because hip damage occurs by the age of 2–3 years if the condition is not detected and treated during infancy.",
+        "explanation_why": "Aunque algunos estudios identifican el parto podálico como factor de riesgo para la LCPD, no hay evidencia de que tenga significancia pronóstica para esta condición.\n\nEl parto podálico aumenta el riesgo de displasia evolutiva de cadera, que puede manifestarse con dolor de cadera que irradia a la rodilla. Sin embargo, este síntoma y otras características (ej. limitación del rango de movimiento, discrepancia en la longitud de las piernas, marcha de Trendelenburg) suelen aparecer mucho antes, ya que el daño en la cadera ocurre a los 2-3 años de edad si la condición no es detectada y tratada durante la infancia.",
         "explanation_but": "",
         "selection_rate": 17
       },
       {
         "letter": "B",
-        "content": "Sex",
+        "content": "Sexo",
         "is_correct": false,
-        "explanation_why": "Although LCPD is more common in boys than girls, female sex is associated with a poor prognosis.",
+        "explanation_why": "Aunque la LCPD es más común en niños que en niñas, el sexo femenino se asocia con un pronóstico pobre.",
         "explanation_but": "",
         "selection_rate": 4
       },
       {
         "letter": "C",
-        "content": "Underweight",
+        "content": "Bajo peso",
         "is_correct": false,
-        "explanation_why": "Overweight rather than underweight is associated with a poor prognosis for LCPD.",
+        "explanation_why": "El sobrepeso (no el bajo peso) se asocia con un pronóstico pobre para la LCPD.",
         "explanation_but": "",
         "selection_rate": 22
       },
       {
         "letter": "D",
-        "content": "Presence of knee pain",
+        "content": "Presencia de dolor en la rodilla",
         "is_correct": false,
-        "explanation_why": "Hip stiffness and limited range of motion reflect extensive damage to the femoral head and are associated with a poor prognosis. Knee pain radiating from the hip is a common feature of LCPD and is not a prognostic factor.",
+        "explanation_why": "La rigidez de cadera y la limitación del rango de movimiento reflejan daño extenso en la cabeza femoral y se asocian con un pronóstico pobre. El dolor en la rodilla que irradia desde la cadera es una característica común de la LCPD y no es un factor pronóstico.",
         "explanation_but": "",
         "selection_rate": 17
       },
       {
         "letter": "E",
-        "content": "Age at the onset of symptoms",
+        "content": "Edad al inicio de los síntomas",
         "is_correct": true,
-        "explanation_why": "Older age at onset (> 8 years) of LCPD is associated with a poor prognosis, likely due to the decreased ability of the acetabulum to adapt to the deformed femoral head. Other important factors that predict a poor prognosis include female sex, limited range of motion (especially abduction), and extensive femoral head damage or lateral pillar involvement. Surgical treatment is considered in patients with advanced disease or multiple factors for a poor prognosis. The primary goal of treatment is to keep the femoral head contained within the acetabulum.",
+        "explanation_why": "Una edad mayor al inicio (> 8 años) de la LCPD se asocia con un pronóstico pobre, probablemente debido a la menor capacidad del acetábulo para adaptarse a la cabeza femoral deformada. Otros factores importantes que predicen un pronóstico pobre incluyen el sexo femenino, la limitación del rango de movimiento (especialmente la abducción) y el daño extenso de la cabeza femoral o la afectación de la columna lateral. El tratamiento quirúrgico se considera en pacientes con enfermedad avanzada o múltiples factores de mal pronóstico. El objetivo principal del tratamiento es mantener la cabeza femoral contenida dentro del acetábulo.",
         "explanation_but": "",
         "selection_rate": 40
       }

@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { useUser, useAuth } from '@clerk/clerk-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ChevronRight, ChevronLeft, Info, Activity, RefreshCcw, LayoutDashboard, RotateCcw } from 'lucide-react';
 import clsx from 'clsx';
@@ -12,9 +13,8 @@ import type { Subject } from './types';
 type View = 'selector' | 'terapeutica' | 'amboss';
 
 export default function App() {
-  const [authenticated, setAuthenticated] = useState(false);
-  const [username, setUsername] = useState<string | null>(null);
-  const [userPassword, setUserPassword] = useState<string | null>(null);
+  const { isSignedIn, isLoaded, getToken } = useAuth();
+  const { user } = useUser();
 
   // Navigation
   const [currentView, setCurrentView] = useState<View>('selector');
@@ -36,6 +36,50 @@ export default function App() {
   const [showExplanation, setShowExplanation] = useState(false);
   const [direction, setDirection] = useState(1);
 
+  const userId = user?.id || '';
+  const displayName = user?.firstName || user?.fullName || 'Student';
+  const storageKey = `studyplat_${userId}`;
+
+  // Load progress from localStorage + remote on auth
+  useEffect(() => {
+    if (!userId) return;
+    const saved = localStorage.getItem(storageKey);
+    if (saved) {
+      try {
+        const parsed = JSON.parse(saved);
+        setCorrectIds(parsed.correct || []);
+        setIncorrectIds(parsed.incorrect || []);
+        setSessionCorrectIds(parsed.correct || []);
+        setSessionIncorrectIds(parsed.incorrect || []);
+      } catch (_) { /* ignore */ }
+    }
+
+    // Try to load from remote
+    (async () => {
+      try {
+        const token = await getToken();
+        const res = await fetch('/api/get-progress', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${token}`,
+          },
+          body: JSON.stringify({ subject: 'terapeutica' })
+        });
+        if (res.ok) {
+          const data = await res.json();
+          if ((data.correct?.length > 0) || (data.incorrect?.length > 0)) {
+            setCorrectIds(data.correct || []);
+            setIncorrectIds(data.incorrect || []);
+            setSessionCorrectIds(data.correct || []);
+            setSessionIncorrectIds(data.incorrect || []);
+            localStorage.setItem(storageKey, JSON.stringify(data));
+          }
+        }
+      } catch (_) { /* remote failed, use local */ }
+    })();
+  }, [userId]);
+
   // 'all' Mode skips correctly answered questions so we don't repeat them
   const activeQuestions = mode === 'all'
     ? questionsData.filter(q => !sessionCorrectIds.includes(q.id))
@@ -50,39 +94,25 @@ export default function App() {
     }
   }, [activeQuestions.length, currentIndex, mode, sessionCorrectIds, sessionIncorrectIds]);
 
-  if (!authenticated || !username) {
-    return <LoginPage onAuthenticated={(user, pass, initialData) => {
-      setUsername(user);
-      setUserPassword(pass);
-      setAuthenticated(true);
+  // Show loading while Clerk loads
+  if (!isLoaded) {
+    return (
+      <div className="min-h-screen bg-mesh flex items-center justify-center">
+        <Activity className="animate-spin text-primary/40" size={32} />
+      </div>
+    );
+  }
 
-      // Use remote data if populated, else fallback to local storage
-      if ((initialData.correct && initialData.correct.length > 0) || (initialData.incorrect && initialData.incorrect.length > 0)) {
-        setCorrectIds(initialData.correct || []);
-        setIncorrectIds(initialData.incorrect || []);
-        setSessionCorrectIds(initialData.correct || []);
-        setSessionIncorrectIds(initialData.incorrect || []);
-        localStorage.setItem(`studyplat_${user}`, JSON.stringify(initialData));
-      } else {
-        const saved = localStorage.getItem(`studyplat_${user}`);
-        if (saved) {
-          try {
-            const parsed = JSON.parse(saved);
-            setCorrectIds(parsed.correct || []);
-            setIncorrectIds(parsed.incorrect || []);
-            setSessionCorrectIds(parsed.correct || []);
-            setSessionIncorrectIds(parsed.incorrect || []);
-          } catch (e) { }
-        }
-      }
-    }} />;
+  // Show login if not authenticated
+  if (!isSignedIn) {
+    return <LoginPage />;
   }
 
   // Subject Selector
   if (currentView === 'selector') {
     return (
       <SubjectSelector
-        username={username}
+        username={displayName}
         onSelectTerapeutica={() => {
           setCurrentView('terapeutica');
           setShowDashboard(false);
@@ -95,9 +125,8 @@ export default function App() {
           setCurrentView('amboss');
         }}
         onLogout={() => {
-          setAuthenticated(false);
-          setUsername(null);
-          setUserPassword(null);
+          // Clerk handles logout via SignOutButton in SubjectSelector
+          setCurrentView('selector');
         }}
       />
     );
@@ -108,23 +137,28 @@ export default function App() {
     return (
       <AmbossQuiz
         subject={currentSubject}
-        username={username}
-        userPassword={userPassword}
+        username={displayName}
         onBack={() => setCurrentView('selector')}
       />
     );
   }
 
-  // ─── Terapéutica Clínica Quiz (original code, unchanged) ───
+  // ─── Terapéutica Clínica Quiz (original code) ───
 
   const currentQ = activeQuestions[currentIndex];
 
   const saveProgressRemote = async (correct: number[], incorrect: number[]) => {
-    fetch('/api/save-progress', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ username, password: userPassword, correct, incorrect })
-    }).catch(() => console.error("Failed to sync remotely"));
+    try {
+      const token = await getToken();
+      fetch('/api/save-progress', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}`,
+        },
+        body: JSON.stringify({ subject: 'terapeutica', correct, incorrect })
+      }).catch(() => {});
+    } catch (_) {}
   };
 
   const handleOptionClick = (index: number) => {
@@ -147,7 +181,7 @@ export default function App() {
 
     setCorrectIds(newC);
     setIncorrectIds(newI);
-    localStorage.setItem(`studyplat_${username}`, JSON.stringify({ correct: newC, incorrect: newI }));
+    localStorage.setItem(storageKey, JSON.stringify({ correct: newC, incorrect: newI }));
     saveProgressRemote(newC, newI);
   };
 
@@ -195,7 +229,7 @@ export default function App() {
         <SubjectNavbar subjectName="Terapéutica Clínica" onBack={() => setCurrentView('selector')} />
         <div className="glass-card max-w-lg w-full p-8 flex flex-col gap-6 text-center relative z-10">
           <h2 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-br from-white to-white/40">
-            {username}'s Progress
+            {displayName}'s Progress
           </h2>
           <div className="flex justify-around py-4 border-y border-border/20">
             <div className="flex flex-col">
@@ -231,7 +265,7 @@ export default function App() {
             <button onClick={() => {
               setCorrectIds([]); setIncorrectIds([]);
               setSessionCorrectIds([]); setSessionIncorrectIds([]);
-              localStorage.removeItem(`studyplat_${username}`);
+              localStorage.removeItem(storageKey);
               saveProgressRemote([], []);
               setMode('all'); setCurrentIndex(0); setSelectedLetter(null); setShowExplanation(false); setShowDashboard(false);
             }} className="px-6 py-3 rounded-xl border border-border/20 hover:border-accent-red/50 text-primary/60 hover:text-accent-red transition-all flex items-center justify-center gap-2">
